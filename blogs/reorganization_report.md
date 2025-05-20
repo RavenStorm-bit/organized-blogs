@@ -13,37 +13,37 @@ We've reorganized the blog collection to make it more navigable by creating a lo
 
 The new structure organizes content into six main categories:
 
-### 1. Academic & Historical (../academic-historical/)
+### 1. Academic & Historical (academic-historical/)
 - Contains philosophical and historical analyses
 - Houses the Cardano content and "Great Minds Before 1600" article
 - Includes philosophical papers from the reverse_engineer folder
 
-### 2. Technical Topics (../technical/)
+### 2. Technical Topics (technical/)
 - Organized into subcategories:
   - /data-structures/ - For foundational principles
   - /cryptography/ - For cryptocurrency and cryptographic content
   - /networking/ - For proxy configuration and network-related content
   - /compilers/ - For compiler theory and design
 
-### 3. Reverse Engineering (../reverse-engineering/)
+### 3. Reverse Engineering (reverse-engineering/)
 - Better organized than the original structure, with clear subcategories:
   - /vm-obfuscation/ - Consolidates JavaScript VM and VMProtect research
   - /decompilation/ - For decompiler analysis and notes
   - /mobile/ - For Android and mobile reversing
   - /case-studies/ - For specific reverse engineering examples
 
-### 4. Chinese Studies (../chinese-studies/)
+### 4. Chinese Studies (chinese-studies/)
 - Groups all China-related content:
   - /civil-service/ - For Kaogong (civil service exam) content
   - /education/ - For Kaoyan (postgraduate exam) content
   - /social-media/ - For Xiaohongshu analysis
 
-### 5. Media Analysis (../media-analysis/)
+### 5. Media Analysis (media-analysis/)
 - Focuses on analyses of media:
   - /journalism/ - Contains New Yorker and Economist analysis
   - /entertainment/ - For film and TV analysis
 
-### 6. Development Tutorials (../dev-tutorials/)
+### 6. Development Tutorials (dev-tutorials/)
 - Practical guides are grouped here:
   - /browser/ - For Chromium development guides
   - /obfuscation/ - For code obfuscation techniques
