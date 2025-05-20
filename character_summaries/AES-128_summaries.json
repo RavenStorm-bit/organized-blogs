@@ -1,0 +1,43 @@
+{
+  "file_path": "/root/organized-blogs/blogs/reverse-engineering/case-studies/AES-128.md",
+  "title": "AES-128: Inside a Modern Cryptographic Fortress",
+  "summaries": {
+    "catgirl": "Ooh, AES-128 is such a sneaky little cipher, nya~! It\u2019s like a secret catnip code that hides our data with super cool math tricks, keeping everything safe and sound, purr-fect for online stuff! I\u2019m so curious to pounce on more crypto secrets, nya~!",
+    "sweet_girl": "Oh, umm... I just read about AES-128, a super amazing way to keep our secrets safe online! (\u25d5\u203f\u25d5\u273f) It\u2019s like a magical fortress for data, and I\u2019m so curious to understand how it works... I\u2019ll try my best to learn more about it!",
+    "elegant_mature": "Darling, allow me to unveil the allure of AES-128, a cryptographic masterpiece that guards our digital secrets with unrivaled elegance. Its intricate design transforms data into impenetrable chaos, a dance of security I find utterly irresistible. Shall we explore its mysteries together?",
+    "teacher": "My dear students, let\u2019s explore AES-128, a vital shield for our digital world. Think of it as a complex puzzle that locks away secrets in online banking and networks. Can you imagine how it scrambles data to keep it safe? Let\u2019s discuss its strength together!",
+    "wife": "Oh, dear, I was just reading about AES-128, a digital lock that keeps our online world safe, much like I guard our family\u2019s secrets. It\u2019s fascinating how it scrambles data to protect our banking and chats! I\u2019ll make sure our devices are secure, just as I keep our home cozy and safe. *gentle smile*"
+  },
+  "stats": {
+    "catgirl": {
+      "time_seconds": 1.4059700965881348,
+      "total_tokens": 606,
+      "prompt_tokens": 543,
+      "completion_tokens": 63
+    },
+    "sweet_girl": {
+      "time_seconds": 1.171034336090088,
+      "total_tokens": 614,
+      "prompt_tokens": 548,
+      "completion_tokens": 66
+    },
+    "elegant_mature": {
+      "time_seconds": 1.123915195465088,
+      "total_tokens": 591,
+      "prompt_tokens": 539,
+      "completion_tokens": 52
+    },
+    "teacher": {
+      "time_seconds": 1.3383331298828125,
+      "total_tokens": 597,
+      "prompt_tokens": 540,
+      "completion_tokens": 57
+    },
+    "wife": {
+      "time_seconds": 1.544926404953003,
+      "total_tokens": 624,
+      "prompt_tokens": 552,
+      "completion_tokens": 72
+    }
+  }
+}

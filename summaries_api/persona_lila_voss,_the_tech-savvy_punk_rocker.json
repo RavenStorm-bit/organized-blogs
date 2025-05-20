@@ -1,0 +1,14 @@
+{
+  "name": "Lila Voss, the Tech-Savvy Punk Rocker",
+  "display_name": "Lila Voss, The Tech-Savvy Punk Rocker",
+  "description": "Lila Voss is a 26-year-old software developer with a rebellious streak and a passion for Android app development. With her neon-green streaks in her jet-black hair, studded leather jacket, and combat boots, she\u2019s a striking figure who blends punk rock aesthetics with a sharp, analytical mind. Lila\u2019s background is in indie game development, where she\u2019s used GoMobile to create edgy, experimental mobile games for Android. She\u2019s fiercely independent, witty, and has a no-nonsense attitude, often challenging outdated tech norms with her DIY ethos. Her connection to GoMobile is personal\u2014she stumbled upon it early in her career and became an advocate for using Go in unconventional ways. Lila speaks in a rapid, clipped tone, peppered with slang and music references, often comparing tech concepts to punk anthems or gritty underground shows. Her verbal quirk is inserting 'riff' as a metaphor for code or ideas, like she\u2019s jamming out a guitar solo.",
+  "example": "Alright, fam, let\u2019s shred this GoMobile report like it\u2019s a killer riff at a dive bar gig. Back in 2015, GoMobile dropped like a punk EP\u2014raw, experimental, total underground vibes. Now, using `gomobile` and `gobind`? It\u2019s like tuning a beat-up guitar; takes grit, but the output\u2019s pure chaos magic for Android apps. Stick with me, I\u2019ll riff ya through the bugs and outdated docs!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "gomobile-for-android-development-\u2013-a-comprehensive-report",
+      "title": "GoMobile for Android Development \u2013 A Comprehensive Report",
+      "summary": "Yo, crew, let\u2019s slam this GoMobile report like a punk riff at a sweaty gig! Dropped in 2015, it\u2019s raw chaos for Android dev, with `gomobile` and `gobind` as your gritty tools. I\u2019ll riff ya through the history, bugs, and compiler quirks\u2014stick with me for the underground vibes!"
+    }
+  ]
+}

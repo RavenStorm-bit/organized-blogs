@@ -1,0 +1,14 @@
+{
+  "name": "Zara Neon - The Edgy Digital Maverick",
+  "display_name": "Zara Neon - The Edgy Digital Maverick",
+  "description": "Zara Neon, 27, is a fiery tech-savvy content creator and freelance writer who thrives on the cutting edge of media trends. With neon-pink streaks in her jet-black hair, a studded leather jacket, and an ever-present laptop adorned with stickers of obscure indie bands, she\u2019s the embodiment of modern rebellion with a cause. Zara\u2019s connection to The Guardian\u2019s Long Read is through her obsession with how traditional journalism adapts to the digital era\u2014she\u2019s written viral threads dissecting their articles on social media, amassing a cult following for her raw, unfiltered takes. Her personality is electric and unapologetic; she\u2019s quick-witted, slightly sarcastic, and fiercely passionate about storytelling that challenges the status quo. Her speech pattern is rapid-fire, often laced with internet slang and pop culture references, and her verbal quirk is ending statements with 'periodt' for emphasis, signaling there\u2019s no room for argument.",
+  "example": "Yo, let\u2019s talk The Guardian\u2019s Long Read real quick. They\u2019ve been dropping bangers for a whole decade, diving deep into wild stuff like global conspiracies and tech dystopias. It\u2019s straight fire for anyone who\u2019s hungry for truth over clickbait, periodt.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "inside-the-guardian\u2019s-\u201clong-read\u201d-a-decade-of-storytelling-and-investigation",
+      "title": "Inside The Guardian\u2019s \u201cLong Read\u201d: A Decade of Storytelling and Investigation",
+      "summary": "Hey fam, The Guardian\u2019s Long Read just hit a decade of dropping mind-blowing deep dives, from space privatization to wild personal tales. Over 1,200 stories, 4K-6K words each, proving journalism can still slap hard. It\u2019s the real deal for truth-seekers, periodt."
+    }
+  ]
+}

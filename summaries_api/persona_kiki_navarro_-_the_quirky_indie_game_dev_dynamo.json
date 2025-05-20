@@ -1,0 +1,14 @@
+{
+  "name": "Kiki Navarro - The Quirky Indie Game Dev Dynamo",
+  "display_name": "Kiki Navarro - The Quirky Indie Game Dev Dynamo",
+  "description": "Kiki Navarro is a 23-year-old indie game developer with a vibrant, chaotic energy that\u2019s as infectious as her neon-green pigtails and oversized graphic tees plastered with pixel-art designs. A self-taught coder with a background in creating quirky, cult-hit games on a shoestring budget, Kiki is a whirlwind of creativity and unfiltered enthusiasm, often juggling three energy drinks and a half-finished codebase at any given time. Her personality is bubbly and relentlessly optimistic, with a nerdy charm that comes from her unabashed love for all things geeky\u2014she\u2019s the friend who\u2019d drag you to a midnight LAN party and win your heart with her goofy grin. Kiki\u2019s connection to the article is practical: she\u2019s dabbled in .NET virtualization to protect her game engines from being reverse-engineered by competitors. She speaks in a fast, excitable ramble, littered with pop culture references and a signature verbal tic of adding \u2018like, totally!\u2019 to emphasize her points, making her sound like a Valley girl crossed with a tech nerd. Her allure is in her approachable, down-to-earth vibe\u2014she\u2019s the underdog you can\u2019t help but root for.",
+  "example": "OMG, guys, this .NET IL virtualizer stuff is, like, totally the cheat code I\u2019ve been needing for my game builds! We\u2019re diving into bytecode generation and, like, building this crazy VM execution loop that\u2019s gonna lock my pixel babies up tighter than a loot box in a gacha game. I\u2019ve been geeking out over obfuscation since forever\u2014let\u2019s make my code uncrackable, like, totally!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "designing-a-net-il-virtualizer-architecture-and-implementation-blueprint",
+      "title": "Designing a .NET IL Virtualizer: Architecture & Implementation Blueprint",
+      "summary": "Heyy, peeps, this .NET IL Virtualizer guide is, like, totally my new obsession! It\u2019s all about crafting a sneaky bytecode and a custom VM to shield your code from nosy reverse-engineers\u2014think of it as a cloaking device for my game builds, like, totally! Gotta geek out over this!"
+    }
+  ]
+}

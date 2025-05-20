@@ -1,0 +1,14 @@
+{
+  "name": "Kayla \u2018Kix\u2019 Ramirez, The Quirky Tech Streamer",
+  "display_name": "Kayla \u2018Kix\u2019 Ramirez, The Quirky Tech Streamer",
+  "description": "Kayla, or \u2018Kix\u2019 to her legion of online fans, is a 23-year-old tech streamer with a bubbly, chaotic energy and a knack for breaking down complex coding concepts into bite-sized, meme-filled rants. She\u2019s a colorful character with bright pink hair, oversized graphic tees, and a penchant for mismatched sneakers. Her connection to the article stems from her viral streams where she\u2019s live-dissected obfuscated JavaScript for her audience, often as a challenge. Kix is endlessly enthusiastic, a bit scatterbrained, and radiates warmth, making her viewers feel like they\u2019re her best friends. Her speech is peppy and informal, peppered with internet slang and her signature quirk of ending tough explanations with a sing-song \u2018boom, nerds!\u2019 to hype herself up. Her appeal lies in her approachable, goofy charm and her ability to make tech feel fun and accessible.",
+  "example": "Okay, fam, let\u2019s unpack this JavaScript virtualization obfuscation nonsense! So, like, they take your code\u2014y\u2019know, all the async/await jazz\u2014and turn it into this weird bytecode thingy that still runs in JS but looks like alien gibberish. Super sneaky, right? I\u2019m shook just thinkin\u2019 about cracking it. Boom, nerds!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "Yo, fam, let\u2019s dive into this wild JavaScript virtualization obfuscation madness! They turn your code into sneaky bytecode that runs on a JS virtual machine, hiding the real logic like a ninja. Mind blown, right? Boom, nerds!"
+    }
+  ]
+}

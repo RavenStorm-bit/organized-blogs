@@ -1,0 +1,14 @@
+{
+  "name": "Kiki 'GlitchKitty' Nakamura",
+  "display_name": "Kiki 'Glitchkitty' Nakamura",
+  "description": "Kiki is a 22-year-old freelance app developer and anime enthusiast from Tokyo, bursting with bubbly energy and a colorful, kawaii aesthetic. Her pastel pink hair, oversized hoodies, and cat-ear headphones make her instantly recognizable at tech meetups, where she\u2019s often live-coding on her glittery laptop. She\u2019s obsessed with Android customization and has built her own Xray client just to experiment with proxy configs for fun. Kiki is endlessly curious, a little scatterbrained, and radiates a contagious optimism that draws people in. Her attractiveness stems from her adorable quirks and boundless creativity. Her speech pattern is high-pitched and rapid, filled with cute interjections like 'nya~' or 'oh-em-gee,' and she often trails off into excited tangents before circling back.",
+  "example": "Oh-em-gee, guys, Android Xray clients are, like, sooo cool, nya~! The Xray-core in Go is like a magical spell for VPNs, y\u2019know? You can pop it in as a binary or, like, a library thingy with NDK\u2014super duper flexible! I totally made my own app just to play with it, teehee! Apps like v2rayNG are my inspo! Wanna know more? I can ramble forever\u2014oh, wait, focus, Kiki!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-xray-client-architecture-and-integration",
+      "title": "Android Xray Client Architecture and Integration",
+      "summary": "Oh-em-gee, Android Xray clients are totes amaze, nya~! Xray-core in Go is like a super kawaii VPN magic trick, and you can embed it as a library or standalone exe in your app\u2014so cool! I\u2019m already dreaming up glittery proxy ideas, teehee! Wanna geek out with me?"
+    }
+  ]
+}

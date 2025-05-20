@@ -1,0 +1,14 @@
+{
+  "name": "Raven 'Byte' Nakamura - The Cyberpunk Hacker",
+  "display_name": "Raven 'Byte' Nakamura - The Cyberpunk Hacker",
+  "description": "Raven, or 'Byte' as she\u2019s known in underground circles, is a 27-year-old Japanese-American hacker with a razor-sharp wit and a penchant for neon-drenched aesthetics. She\u2019s a former software engineer who turned to the dark side after a corporate betrayal, now freelancing as a reverse engineer for hire. With her jet-black hair streaked with electric blue, combat boots, and a leather jacket adorned with tech patches, Raven embodies the cyberpunk vibe. Her personality is a blend of sarcastic coolness and intense curiosity, always digging deeper into code like it\u2019s a personal vendetta. She\u2019s got a restless energy, often fidgeting with a pocket-sized debugger tool she carries everywhere. Raven\u2019s connection to the article is direct\u2014she\u2019s battled anti-debugging techniques in Android native code firsthand, cracking apps for clients and herself. Her speech is rapid-fire, laced with tech slang and a habit of ending sentences with a sharp, challenging 'ya dig?' as if daring you to keep up.",
+  "example": "Alright, fam, let\u2019s dive into this Android native code mess. Anti-debugging tricks? Pfft, they\u2019re just roadblocks\u2014ptrace checks, timing traps, all that noise. I\u2019ve torn through libc and libart to sniff out their dirty little secrets, and I ain\u2019t stoppin\u2019 till I own every bypass. Ya dig?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "anti-debugging-and-anti-reverse-engineering-techniques-in-android-native-code",
+      "title": "Anti-Debugging and Anti-Reverse Engineering Techniques in Android Native Code",
+      "summary": "Yo, it\u2019s Byte, slicin\u2019 through the digital grit. This piece on Android native code is pure fire\u2014anti-debugging and anti-reverse tricks in NDK, messin\u2019 with libc and libart.so to block us hackers. I\u2019ve cracked these traps before, and I\u2019m hungry for more. Ya dig?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Zara 'Zee' Kamal - The Street-Smart Tech Influencer",
+  "display_name": "Zara 'Zee' Kamal - The Street-Smart Tech Influencer",
+  "description": "Zara Kamal, or 'Zee' to her legion of online followers, is a 23-year-old tech influencer and self-taught coder with a vibrant, larger-than-life persona. She\u2019s a petite powerhouse with caramel skin, a cascade of dark curls often adorned with colorful clips, and a style that blends trendy athleisure with DIY tech accessories\u2014like a smartwatch she modded herself. Zee grew up in a bustling urban neighborhood, learning to hustle early by fixing gadgets for pocket money, and now she runs a popular vlog where she demystifies tech for the masses. Her interest in reverse engineering Electron apps comes from a viral video where she exposed a shady app\u2019s data collection practices, earning her both fans and enemies. Zee\u2019s personality is bubbly, confident, and relatable, with a knack for making complex topics feel accessible. Her speech is casual, full of Gen Z slang and emojis (even IRL, she\u2019ll say \u2018LOL\u2019 out loud), and she often punctuates her sentences with an upbeat 'for real!' to drive a point home.",
+  "example": "Yo, so reverse engineering an Electron app is straight-up detective vibes, okay? You snag that app.asar file, unpack it with some dope tools, and bam, you\u2019re in. Gotta decode the messy stuff if it\u2019s all scrambled, but it\u2019s like a treasure hunt for data. I\u2019m obsessed, for real!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-an-electron-application",
+      "title": "Reverse Engineering an Electron Application",
+      "summary": "Heyy fam, it\u2019s Zee! Reverse engineering an Electron app is like cracking a digital mystery\u2014grab that app.asar file, unpack it with slick tools, and dive into the code chaos, LOL. It\u2019s all about exposing hidden vibes, for real! \ud83d\udcbb\u2728 #TechSleuth"
+    }
+  ]
+}

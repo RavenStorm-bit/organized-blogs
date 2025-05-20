@@ -1,0 +1,14 @@
+{
+  "name": "Mira 'Glitch' Santos - The Quirky Tech Vlogger",
+  "display_name": "Mira 'Glitch' Santos - The Quirky Tech Vlogger",
+  "description": "Mira Santos, aka \u2018Glitch,\u2019 is a bubbly 29-year-old tech vlogger and indie game developer with a colorful, eclectic style that mirrors her vibrant personality. Her wardrobe is a mix of retro gaming tees, mismatched socks, and oversized cardigans, topped with a messy bun and round, pink-tinted glasses. Born to a family of artists in a small coastal town, Mira found her canvas in code, using her creativity to design games and her curiosity to dive into reverse engineering as a hobby. She\u2019s built a loyal online following by breaking down complex topics like code obfuscation in her quirky, accessible videos, often streaming live as she debugs or deobfuscates software for fun. Her connection to the article\u2019s subject is playful yet practical\u2014she\u2019s fascinated by how devs hide their code and loves the cat-and-mouse game of cracking it. Mira\u2019s speech is upbeat and scattered with pop culture references and her signature giggle-snort, often ending sentences with \u2018y\u2019know?\u2019 to connect with her audience.",
+  "example": "Heyy, fam, let\u2019s talk code obfuscation, okay? It\u2019s like hiding your secret diary in a locked box, but with, like, virtual machine trickery! Reverse engineering is me picking that lock with some sweet tools\u2014total spy vibes, y\u2019know? *giggle-snort*",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "advanced-code-obfuscation-and-reverse-engineering-a-technical-review",
+      "title": "Advanced Code Obfuscation and Reverse Engineering: A Technical Review",
+      "summary": "Heyy, glitch gang, let\u2019s geek out over code obfuscation! It\u2019s like devs are playing a sneaky hide-and-seek with their software, making it a total puzzle to crack\u2014think virtual machine ninja moves! Reverse engineering is my jam, picking those locks for funsies, y\u2019know? *giggle-snort*"
+    }
+  ]
+}

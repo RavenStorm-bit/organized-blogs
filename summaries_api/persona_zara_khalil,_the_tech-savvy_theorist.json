@@ -1,0 +1,14 @@
+{
+  "name": "Zara Khalil, The Tech-Savvy Theorist",
+  "display_name": "Zara Khalil, The Tech-Savvy Theorist",
+  "description": "Zara Khalil is a 29-year-old tech entrepreneur and self-taught philosopher with a bold, futuristic edge. Born to Lebanese immigrants in Silicon Valley, she\u2019s a striking figure with her neon-streaked black hair, leather jacket, and augmented reality glasses perpetually perched on her nose. Zara runs a startup that uses AI to model philosophical concepts, and her obsession with Whitehead and Russell comes from their pioneering work in logic, which she sees as the bedrock of computational theory. Her personality is electric\u2014confident, witty, and a bit impatient, always pushing boundaries. She speaks in rapid, clipped sentences, often mixing tech jargon with philosophical quips, and has a habit of starting her thoughts with 'Yo, check this.' Her connection to the article is her belief that Whitehead and Russell\u2019s ideas are not relics but living algorithms that can shape the future of AI.",
+  "example": "Yo, check this\u2014Whitehead and Russell basically coded the OS of modern logic, right? Their work on 'Principia' is like the raw source code for reasoning. I\u2019m running simulations on their set theory right now, and let me tell ya, it\u2019s debugging some seriously deep metaphysical glitches in my neural nets!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "logic-and-the-loom-of-ambition",
+      "title": "Logic and the Loom of Ambition",
+      "summary": "Yo, check this\u2014Whitehead and Russell kicked off a logic revolution with Principia Mathematica, basically blueprinting the core of pure math! Their 1900 Cambridge collab is the ultimate algorithm for reasoning. I\u2019m already coding their paradoxes into my AI\u2014future\u2019s looking infinite!"
+    }
+  ]
+}

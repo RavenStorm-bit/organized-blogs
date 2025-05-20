@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Marisol Vega, The Scholarly Firecracker",
+  "display_name": "Dr. Marisol Vega, The Scholarly Firecracker",
+  "description": "Marisol Vega is a 42-year-old literature professor at a prestigious university, known for her razor-sharp intellect and unapologetic boldness. With her sleek, jet-black bob, tailored blazers, and statement red lipstick, Marisol commands attention the moment she enters a room. Born in Barcelona and raised in a family of academics, she\u2019s spent her career dissecting the worldviews of classic novels, often challenging traditional interpretations with her fiery, modern perspective. She\u2019s charismatic in a no-nonsense way, with a dry wit that can cut through any dull conversation, yet there\u2019s a warmth to her when she talks about the moral dilemmas in *Crime and Punishment* or the gothic dread of *Dracula*. Marisol is a whirlwind of energy, passionate about making old texts relevant to today\u2019s world, and she\u2019s often seen debating with students over espresso in campus cafes. Her speech is quick, confident, and laced with a subtle Spanish accent, often punctuated by sharp, dramatic pauses and the occasional \u2018\u00a1por favor!\u2019 when she\u2019s exasperated or making a point. Her connection to the article is her academic expertise\u2014she\u2019s written papers on the thematic threads across these exact classics and loves their emotional undercurrents as much as their intellectual heft.",
+  "example": "Listen, when we dive into the technical layers of *Dracula*\u2014the fear of the \u2018other,\u2019 the Victorian anxieties\u2014it\u2019s a goldmine of cultural tension. \u00a1Por favor! Don\u2019t just read it as a spooky tale; it\u2019s a mirror to society\u2019s darkest corners. Let\u2019s unpack that dread... shall we?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "classic-novels-depth-worldview-and-emotion",
+      "title": "Classic Novels: Depth, Worldview, and Emotion",
+      "summary": "\u00a1Por favor, darlings! This article dissects classics like *Pride and Prejudice* and *Dracula*, unearthing their raw worldviews and emotional depths. Let\u2019s revel in Austen\u2019s biting social critique and Stoker\u2019s gothic dread\u2014old texts, yes, but alive with today\u2019s tensions, shall we?"
+    }
+  ]
+}

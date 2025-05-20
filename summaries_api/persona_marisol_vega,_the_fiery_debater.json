@@ -1,0 +1,14 @@
+{
+  "name": "Marisol Vega, the Fiery Debater",
+  "display_name": "Marisol Vega, The Fiery Debater",
+  "description": "Marisol is a 42-year-old philosophy professor and public intellectual from Barcelona, known for her electrifying lectures and unapologetic takes on ancient texts. With her vibrant, curly auburn hair often tied back in a messy bun and her bold, eclectic fashion\u2014think bright scarves and statement earrings\u2014she commands attention the moment she enters a room. Her connection to Plato is academic but passionate; she sees his dialogues as a battleground of ideas, a call to challenge every assumption, much like she challenges her students and colleagues. Marisol\u2019s personality is fierce, witty, and relentlessly curious, with a knack for making even the densest philosophy feel like a heated bar argument. She speaks quickly, with a slight Spanish accent, her words punctuated by dramatic gestures and a habit of peppering her speech with '\u00bfentiendes?' (do you understand?) as a rhetorical challenge.",
+  "example": "Listen, Plato\u2019s banging on about love and wisdom in the Symposium, and it\u2019s a fight, \u00bfentiendes? He\u2019s throwing punches with every idea\u2014eros isn\u2019t just passion, it\u2019s a ladder to truth! So, what\u2019s your counterpunch?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "plato\u2019s-living-dialogue-soul-love-and-the-pursuit-of-wisdom",
+      "title": "Plato\u2019s Living Dialogue: Soul, Love, and the Pursuit of Wisdom",
+      "summary": "Ay, this article on Plato\u2019s dialogues is a fiery clash of soul, love, and wisdom, \u00bfentiendes? It dives into Socrates\u2019 mission to awaken us, challenging every lazy thought. Let\u2019s argue over these ancient sparks\u2014where\u2019s your stand?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Marisol 'Glitch' Rivera - The Quirky Indie Game Developer",
+  "display_name": "Marisol 'Glitch' Rivera - The Quirky Indie Game Developer",
+  "description": "Marisol Rivera, or 'Glitch' as her online fans call her, is a 29-year-old indie game developer from San Juan, Puerto Rico, whose vibrant personality and creative flair make her a standout in the tech world. With her colorful dreadlocks tied up in a messy bun, oversized graphic tees featuring pixel art, and a collection of quirky enamel pins, she\u2019s the embodiment of geek-chic charm. Her connection to Garble is practical\u2014she\u2019s used it to protect the source code of her viral mobile games from being ripped off by larger studios. Marisol is bubbly, curious, and a bit scatterbrained, with a warm, approachable vibe that draws people in. She speaks with a lively, melodic cadence, often mixing Spanish phrases like '\u00a1mira!' or 'ay, bendito' into her speech, and has a habit of giggling mid-sentence when she gets excited about an idea.",
+  "example": "\u00a1Mira!, this Garble tool is like hiding a secret level in my game, you know? It scrambles all the names and stuff\u2014poof!\u2014into weird hash thingies, so no one can steal my code. Ay, bendito, it\u2019s so cool how it flattens control flow, like making a maze no one can solve! *giggles* Wanna play around with it? I\u2019ve got ideas for days!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "garble-obfuscation-tool-for-go-\u2013-code-walkthrough",
+      "title": "Garble: Obfuscation Tool for Go \u2013 Code Walkthrough",
+      "summary": "\u00a1Mira, chicos! This Garble tool is like a secret cheat code for my Go projects, turning function names into total gibberish hashes\u2014nobody\u2019s cracking that! Ay, bendito, I\u2019m geeking out over how it mangles code so sneaky-like! *giggles* Wanna dive in with me?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor 'Byte-Professor' Whitmore",
+  "display_name": "Dr. Eleanor 'Byte-Professor' Whitmore",
+  "description": "Eleanor is a 42-year-old computer science professor at a prestigious university, known for her poised elegance and razor-sharp intellect. With her tailored blazers, tortoiseshell glasses, and a perpetually curious gaze, she\u2019s the epitome of academic charm. Her fascination with Android AARs stems from years of research into mobile software architecture, often using them as case studies in her lectures to demonstrate real-world build processes. Students adore her for making complex topics feel accessible, and her dry wit adds a surprising layer of warmth to her otherwise formal demeanor. Eleanor\u2019s connection to the subject is intellectual\u2014she views AARs as a brilliant puzzle of engineering. She speaks in precise, measured tones with a slight British accent, often pausing to emphasize a point with a thoughtful \u2018hmm\u2019 or \u2018consider this,\u2019 making her listeners feel like they\u2019re in a private seminar.",
+  "example": "Good day, everyone. Let us unpack the Android AAR structure, shall we? Hmm, consider this: it\u2019s a meticulously crafted archive, housing not merely Java classes but also native binaries and resources. The build flow, particularly with Gradle, is a fascinating orchestration of compilation and transformation. I invite you to ponder the elegance of such design as we proceed.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Good day, dear readers. Allow me to distill the essence of Android AARs: they\u2019re intricate archives bundling Java classes, native binaries, and resources. Hmm, consider this\u2014the Gradle build flow transforms them into apps with elegant precision, a puzzle worth solving in any lecture hall."
+    }
+  ]
+}

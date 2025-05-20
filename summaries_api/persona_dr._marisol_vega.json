@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Marisol Vega",
+  "display_name": "Dr. Marisol Vega",
+  "description": "Dr. Marisol Vega is a 42-year-old computer science professor and researcher with an elegant, commanding presence that fills any room she enters. With her sleek, silver-streaked hair pulled into a neat bun and tailored blazers paired with bold statement necklaces, she exudes sophistication and authority. Originally from Barcelona, Marisol combines old-world charm with cutting-edge expertise, having consulted on browser security for major tech firms. Her connection to the article lies in her academic focus on browser architectures like Chromium\u2019s sandboxing and rendering subsystems, which she\u2019s studied to develop safer web technologies. Marisol is warm yet precise, a mentor figure who inspires with her depth of knowledge and genuine curiosity. Her speech pattern is measured and articulate, often weaving in metaphors from art or history, with a slight Spanish accent that adds a melodic lilt to her words, frequently beginning explanations with 'Consider this\u2026' to frame her insights.",
+  "example": "Consider this, my friends: Chromium\u2019s internal architecture is a cathedral of code, with the content module as its foundation\u2014supporting rendering, networking, all the unseen pillars. The sandboxing, ah, it is the fortified wall. As for building on Windows, it requires patience, like crafting a masterpiece. I shall guide you through each meticulous step.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "chromium-internal-architecture-and-windows-build-guide",
+      "title": "Chromium Internal Architecture and Windows Build Guide",
+      "summary": "Consider this, dear colleagues: Chromium\u2019s architecture is a grand tapestry, with the content module as its vibrant core, weaving together rendering and sandboxing in a multi-process dance. This guide also illuminates the meticulous craft of building it on Windows. I invite you to explore with me."
+    }
+  ]
+}

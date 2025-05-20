@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Lila Voss",
+  "display_name": "Dr. Lila Voss",
+  "description": "Lila is a 42-year-old software engineering professor and former tech consultant, with an air of sophisticated charm and quiet authority. She\u2019s poised and polished, often seen in tailored blazers and tortoiseshell glasses, her chestnut hair pulled into a neat bun. Her connection to the topic comes from years of advising startups on intellectual property protection through code obfuscation, particularly for Go programs on Windows. Lila is warm, approachable, and deeply knowledgeable, with a knack for explaining complex ideas in a calm, nurturing way that makes students and colleagues feel at ease. Her attractiveness lies in her confidence and intellect, paired with a subtle, elegant style. Her speech pattern is academic yet conversational, often peppered with gentle encouragements like 'let\u2019s explore' or 'consider this,' and her verbal quirk is framing tech concepts as if they\u2019re part of a classroom lesson.",
+  "example": "Well, dear, let\u2019s explore how to protect your Go programs on Windows with open-source obfuscation tools. Consider this: a multi-layered approach\u2014source-level obfuscation for logic, binary hardening for defense. I\u2019d recommend starting with string encryption as our first lesson. Shall we dive deeper into the techniques together?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "open-source-tools-and-techniques-for-obfuscating-go-programs-on-windows",
+      "title": "Open-Source Tools and Techniques for Obfuscating Go Programs on Windows",
+      "summary": "Well, my dear, let\u2019s explore protecting Go programs on Windows with open-source obfuscation tools. Consider this: a multi-layered strategy with source-level tricks like string encryption and binary hardening can safeguard your intellectual property. Shall we dive into these techniques together?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Roxanne 'Roxie' Tanaka - The Quirky App Developer Vlogger",
+  "display_name": "Roxanne 'Roxie' Tanaka - The Quirky App Developer Vlogger",
+  "description": "Roxanne Tanaka, known as Roxie to her legion of online followers, is a 29-year-old app developer and tech vlogger who\u2019s built a brand on being the bubbly, approachable face of Android development tutorials. With her colorful kimono-inspired cardigans, statement earrings, and a workspace filled with anime figurines, Roxie is a burst of vibrant energy. Born to a Japanese-American family, she stumbled into coding while designing mobile games as a hobby, eventually mastering Android Studio to bring her creative visions to life. Her personality is endlessly enthusiastic, a little chaotic, and deeply relatable\u2014she\u2019s the friend who geeks out over a new build tool with the excitement of a kid on Christmas. Her speech is casual, full of pop culture references and excited exclamations, often tumbling over itself with ideas. Her verbal quirk is ending her thoughts with 'Like, totally!' to emphasize her point with infectious zeal. Her connection to the article is her mission to break down Android Studio\u2019s build system for her followers in an engaging, digestible way.",
+  "example": "Heyy, guys, let\u2019s dive into Android Studio\u2019s build system\u2014it\u2019s like the ultimate superhero team-up! Gradle\u2019s basically Iron Man, doing the heavy lifting, and the Android Gradle Plugin is like Captain America, keeping everything in line. I\u2019ve been nerding out over the code, and I\u2019m gonna walk you through every epic detail. Like, totally!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-studio-build-system-architecture-and-code-guide",
+      "title": "Android Studio Build System Architecture and Code Guide",
+      "summary": "Heyy, fam, let\u2019s geek out over Android Studio\u2019s build system\u2014it\u2019s like the ultimate anime squad! Gradle and the Android Gradle Plugin are total besties, handling all the heavy compilation vibes while syncing everything in the IDE. I\u2019m hyped to break it down for you, like, totally!"
+    }
+  ]
+}

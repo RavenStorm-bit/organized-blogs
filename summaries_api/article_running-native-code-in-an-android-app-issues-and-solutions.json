@@ -1,0 +1,12 @@
+{
+  "id": "running-native-code-in-an-android-app-issues-and-solutions",
+  "title": "Running Native Code in an Android App: Issues & Solutions",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "teacher": "Dear students, let\u2019s explore running native code in Android apps! Think of it like teaching a phone to understand different languages\u2014Go or C/C++\u2014but permission errors and setup issues can trip us up. I\u2019m confident we\u2019ll solve these integration puzzles together with the right steps!",
+    "wife": "Oh dear, I was reading about running native code in Android apps while folding laundry! It\u2019s like teaching the kids new tricks\u2014tricky permissions and setups can trip you up, but with the right steps, it\u2019s manageable. I\u2019ll nudge hubby to check his app projects for these tips! *gentle smile*",
+    "Lila 'Codeweaver' Navarro": "Yo, peeps, runnin\u2019 native code in Android apps is like hackin\u2019 a locked server\u2014total chaos! Go binaries in assets crash with permission errors, and slappin\u2019 \u2018em as .so in lib/ ain\u2019t no fix. Stick with me to debug this mess and overclock your app\u2019s potential!",
+    "Dr. Evelyn Sterling": "Curiously enough, the enigma of running Go-compiled binaries in Android apps reveals persistent permission errors when placed in assets folders. My research underscores the pitfalls of renaming them as .so files without proper integration. For true harmony, pivoting to C++ with Java/Kotlin beckons.",
+    "Kiki 'ByteBlitz' Tanaka": "Heyy, fam, so running native code in Android apps is, like, a total puzzle, OMG! Go binaries in assets? Permission errors, ugh! Renaming to .so in lib/ doesn\u2019t vibe, and gomobile on Windows 11 with AMD CPUs is a mess\u2014let\u2019s crack this together, yaaas! \ud83e\ude77\u2728"
+  }
+}

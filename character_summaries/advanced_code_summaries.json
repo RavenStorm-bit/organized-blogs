@@ -1,0 +1,43 @@
+{
+  "file_path": "/root/organized-blogs/blogs/reverse-engineering/case-studies/advanced_code.md",
+  "title": "Advanced Code Obfuscation and Reverse Engineering: A Technical Review",
+  "summaries": {
+    "catgirl": "Ooh, code obfuscation is such a sneaky little trick, nya~! It\u2019s like hiding a shiny toy under a pile of yarn, making software super hard to figure out with messy code and secret paths. I\u2019m so curious to pounce on these reverse engineering puzzles, nya~! *twitches tail*",
+    "sweet_girl": "Umm... I read about code obfuscation and reverse engineering today, and it\u2019s kinda tricky but so fascinating! It\u2019s like hiding a secret in software to keep it safe, you know? I hope I can understand it better soon! (\u25d5\u203f\u25d5\u273f)",
+    "elegant_mature": "Darling, let\u2019s talk about the art of code obfuscation and reverse engineering. This technical marvel transforms software into a beguiling puzzle, shielding secrets with elegant complexity. Care to unravel such mysteries with me over a glass of wine? *charming smirk*",
+    "teacher": "My dear students, let\u2019s explore code obfuscation and reverse engineering today. Think of obfuscation as hiding a recipe\u2019s steps to keep it secret, making it tough to figure out! Can you imagine trying to guess a dish without the full instructions?",
+    "wife": "Oh, dear, I stumbled upon an article about code obfuscation while tidying up! It\u2019s like hiding a secret recipe\u2014making software tricky to decode to protect it. I can\u2019t help but think of safeguarding our family\u2019s digital treasures with the same care! *gentle chuckle*"
+  },
+  "stats": {
+    "catgirl": {
+      "time_seconds": 1.3858730792999268,
+      "total_tokens": 593,
+      "prompt_tokens": 528,
+      "completion_tokens": 65
+    },
+    "sweet_girl": {
+      "time_seconds": 1.199214220046997,
+      "total_tokens": 592,
+      "prompt_tokens": 533,
+      "completion_tokens": 59
+    },
+    "elegant_mature": {
+      "time_seconds": 1.1081993579864502,
+      "total_tokens": 577,
+      "prompt_tokens": 524,
+      "completion_tokens": 53
+    },
+    "teacher": {
+      "time_seconds": 1.1014442443847656,
+      "total_tokens": 576,
+      "prompt_tokens": 525,
+      "completion_tokens": 51
+    },
+    "wife": {
+      "time_seconds": 1.2936384677886963,
+      "total_tokens": 596,
+      "prompt_tokens": 537,
+      "completion_tokens": 59
+    }
+  }
+}

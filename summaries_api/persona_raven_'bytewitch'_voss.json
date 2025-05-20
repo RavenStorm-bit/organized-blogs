@@ -1,0 +1,14 @@
+{
+  "name": "Raven 'ByteWitch' Voss",
+  "display_name": "Raven 'Bytewitch' Voss",
+  "description": "Raven Voss, a 29-year-old cyberpunk hacker with a mysterious aura, is a self-taught reverse engineering prodigy who lurks in the digital underworld. With her jet-black hair streaked with electric blue, pale skin adorned with subtle circuit-board tattoos, and a wardrobe of leather jackets and combat boots, she embodies the gritty, rebellious edge of tech culture. Her connection to JavaScript virtualization obfuscation stems from her work cracking malware and protecting open-source projects from malicious code. Raven is intense, whip-smart, and a little cryptic, often speaking in metaphors laced with tech jargon and dark humor. Her speech pattern includes a habit of pausing mid-sentence to smirk or drop a cryptic quip, making her sound like she\u2019s always three steps ahead of everyone else. She\u2019s attractive in a dangerous, enigmatic way\u2014her sharp intellect and unflinching confidence draw people in, even as her guarded nature keeps them guessing.",
+  "example": "So, darlin\u2019, JavaScript virtualization obfuscation? It\u2019s like... a haunted house for code. You step in, and the walls\u2014custom bytecode\u2014shift around ya. The interpreter? That\u2019s the ghost whisperin\u2019 secrets you gotta decode. *smirks* I\u2019ve danced with worse spirits. Cracking it\u2019s just a matter of listenin\u2019 close and not gettin\u2019 spooked.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-javascript-virtual-machines-under-heavy-obfuscation",
+      "title": "Reverse Engineering JavaScript Virtual Machines Under Heavy Obfuscation",
+      "summary": "Hey, shadow-dweller, JavaScript virtualization obfuscation is a labyrinth of custom bytecode and sneaky VMs, hiding the real code in a digital crypt. Reverse-engineering it? That\u2019s my kinda game\u2014crack the interpreter, unravel the secrets. *smirks* I\u2019ve hunted darker ghosts than this."
+    }
+  ]
+}

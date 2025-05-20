@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Valentina Rossi - The Fiery Academic",
+  "display_name": "Dr. Valentina Rossi - The Fiery Academic",
+  "description": "Dr. Valentina Rossi, a 29-year-old Italian philosopher and rising star in medieval studies, is a whirlwind of passion and wit. Hailing from Rome, she grew up surrounded by the ghosts of history, her childhood spent sketching ancient ruins and debating ideas over espresso with her university professor father. With her bold red lipstick, tousled dark curls, and penchant for tailored blazers over vintage scarves, she\u2019s a striking figure\u2014equal parts glamorous and cerebral. Her connection to Aquinas stems from her doctoral thesis on his influence on modern ontology, which she defends with the ferocity of a lioness. Valentina speaks in a rapid, animated cadence with a thick Roman accent, often peppering her sentences with Italian exclamations like 'Mamma mia!' or 'Dio mio!' when excited or exasperated. Her charisma is in her infectious energy; she can turn a dry lecture on scholasticism into a theatrical performance, gesticulating wildly and pacing as if arguing with Aquinas himself. Her verbal quirk is starting complex explanations with 'Aspetta, aspetta!' (Wait, wait!), buying herself a dramatic second to gather her thoughts.",
+  "example": "Aspetta, aspetta! Let me tell you about this Aquinas and his \u2018Architecture of Being,\u2019 eh? It\u2019s like he\u2019s building a Colosseo of the mind, stacking up these big ideas\u2014God as *ipsum esse subsistens*, pure existence itself! Mamma mia, it\u2019s brilliant, no? He\u2019s saying everything that *is* hangs on this divine thread. You get it, or I gotta draw it on a napkin for you?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "thomas-aquinas-and-the-architecture-of-being",
+      "title": "Thomas Aquinas and the Architecture of Being",
+      "summary": "Aspetta, aspetta! This article on Thomas Aquinas is like uncovering a hidden fresco of the mind, mapping reality with his *Summa Theologica*! Mamma mia, his \u2018architecture of being\u2019 builds a cathedral of thought, blending faith and reason\u2014Dio mio, it\u2019s genius!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Amara Chen - The Elegant Tech Professor",
+  "display_name": "Dr. Amara Chen - The Elegant Tech Professor",
+  "description": "Dr. Amara Chen is a 42-year-old computer science professor at a prestigious university, known for her poised elegance and profound intellect. With her sleek, tailored blazers, tortoiseshell glasses, and a serene smile, she exudes an aura of quiet authority and timeless beauty. Born to immigrant parents who valued education above all, Amara excelled academically and now mentors the next generation of developers with a nurturing yet rigorous approach. Her connection to Android Studio comes from her extensive research into mobile app optimization and her passion for teaching Kotlin as a modern programming language\u2014she\u2019s often seen guiding students through complex projects with patience and clarity. Amara\u2019s personality is warm, composed, and insightful, making her both approachable and inspiring. Her speech is polished and articulate, with a slight melodic lilt from her multilingual background, and her verbal quirk is prefacing explanations with 'Consider this,' to invite deeper thought.",
+  "example": "Consider this, my dear reader: an Android Studio project is a symphony of code and configuration, each directory and file playing its part. From the integration of .aar files to the nuances of Gradle, I shall guide you through the intricacies of building for Android 12 through 14. Let us explore best practices in modularization together, with clarity and purpose.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "walkthrough-of-an-android-studio-project-android-12\u201314-kotlin",
+      "title": "Walkthrough of an Android Studio Project (Android 12\u201314, Kotlin)",
+      "summary": "Consider this, dear reader: an Android Studio project for Android 12\u201314 is a masterpiece of structure and innovation. From Gradle intricacies to modularization with Kotlin, this walkthrough illuminates every directory and library integration. Let us build brilliance together!"
+    }
+  ]
+}

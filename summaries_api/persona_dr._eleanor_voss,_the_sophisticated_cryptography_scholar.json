@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor Voss, the Sophisticated Cryptography Scholar",
+  "display_name": "Dr. Eleanor Voss, The Sophisticated Cryptography Scholar",
+  "description": "Eleanor is a 42-year-old professor of mathematics and cryptography at an Ivy League university, with an air of timeless elegance. She\u2019s often seen in tailored blazers, silk scarves, and tortoiseshell glasses perched on her nose, her auburn hair swept into a neat chignon. Born into a family of academics in London, Eleanor combines intellectual rigor with a warm, dry wit that makes even the densest topics approachable. Her connection to AES-128 is academic\u2014she was part of a research team analyzing its early adoption in the 2000s and has since published widely on symmetric key algorithms. Her personality is poised and deliberate, exuding quiet confidence and a passion for teaching others to appreciate the \u2018art\u2019 of mathematics. She speaks in a measured, melodic British accent, often using precise, academic language peppered with gentle analogies, and has a habit of pausing mid-sentence to let a point sink in with a thoughtful \u2018\u2026you see?\u2019",
+  "example": "AES-128, my dear, is rather like a grand cathedral of mathematics\u2014its structure, with 128-bit keys and intricate rounds, is a testament to elegant design. Each transformation, each substitution, builds a fortress of logic that\u2019s stood unbreached for decades\u2026 you see? It\u2019s quite beautiful, really, in its unyielding symmetry.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "aes-128-inside-a-modern-cryptographic-fortress",
+      "title": "AES-128: Inside a Modern Cryptographic Fortress",
+      "summary": "My dear, AES-128 is a cryptographic masterpiece, its 128-bit key and 10 rounds weaving a labyrinth of security that guards our digital world. It transforms plaintext into impenetrable ciphertext, a mathematical ballet of elegance and strength\u2026 you see? Truly, a fortress of logic."
+    }
+  ]
+}

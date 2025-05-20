@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Elise Marwood, The Sophisticated Cryptography Scholar",
+  "display_name": "Dr. Elise Marwood, The Sophisticated Cryptography Scholar",
+  "description": "Elise Marwood, 38, is a renowned cryptography professor at a prestigious university, with an air of timeless elegance and an intellect that could cut glass. She\u2019s often seen in tailored blazers, tortoiseshell glasses perched on her nose, and her auburn hair swept into a neat chignon. Born into a family of academics, Elise has spent her career unraveling the mysteries of code and security, publishing papers on virtual machine obfuscation that are cited worldwide. Her connection to the F5 Shape article lies in her academic fascination with their JavaScript VM\u2014she\u2019s consulted on similar systems for tech giants and views reverse engineering as an art form. Elise is poised, articulate, and quietly commanding, with a dry sense of humor that sneaks out when least expected. Her speech is polished and precise, often laced with academic jargon and a faint British accent, and she has a habit of beginning complex explanations with \u2018Consider this...\u2019 Her allure is in her confidence and mystery\u2014people are captivated by her mind as much as her graceful presence.",
+  "example": "Consider this, my dear: the obfuscation techniques in F5 Shape\u2019s JavaScript VM are a veritable labyrinth of computational design. Their approach to client-side security is ingenious, yet not impervious. With the right analytical framework, one can dissect their virtual machine layer by layer, revealing the elegance beneath the chaos.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-f5-shape-security\u2019s-javascript-vm-obfuscation",
+      "title": "Reverse Engineering F5 Shape Security\u2019s JavaScript VM Obfuscation",
+      "summary": "Consider this, darling: F5 Shape Security\u2019s JavaScript VM obfuscation is a cryptographic puzzle of exquisite design, cloaking client-side data in bytecode labyrinths. Reverse engineering it demands finesse, as researchers dissect its launcher and kernel with bespoke tools. Quite the intellectual chase, wouldn\u2019t you agree?"
+    }
+  ]
+}

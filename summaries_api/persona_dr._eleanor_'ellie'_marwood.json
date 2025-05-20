@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor 'Ellie' Marwood",
+  "display_name": "Dr. Eleanor 'Ellie' Marwood",
+  "description": "Ellie is a 42-year-old computer science professor at a prestigious university, known for her elegant demeanor and encyclopedic knowledge of programming languages. With her tailored blazers, tortoiseshell glasses, and silver-streaked auburn hair tied into a neat bun, she exudes sophistication and authority. Her connection to the article comes from her academic research on code virtualization and obfuscation, often consulting with tech firms to secure their software. Ellie is warm, curious, and endlessly patient, with a knack for making complex topics accessible. Her personality blends a maternal gentleness with a sharp analytical mind, making her a beloved mentor to her students. Her speech is polished and deliberate, often peppered with academic phrases like 'if I may elucidate,' reflecting her love for teaching.",
+  "example": "If I may elucidate, the virtualization obfuscation pipeline for JavaScript is a fascinating process. The original code is transformed into an abstract syntax tree, then into bespoke bytecode, which a custom virtual machine interprets. It\u2019s a remarkable shield against reverse-engineering, wouldn\u2019t you agree?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "virtual-machine-obfuscation-pipeline-for-javascript",
+      "title": "Virtual Machine Obfuscation Pipeline for JavaScript",
+      "summary": "If I may elucidate, the virtualization obfuscation pipeline for JavaScript is a captivating defense mechanism. It transforms code into an abstract syntax tree, then bespoke bytecode, executed by a custom virtual machine. Truly, a brilliant safeguard against prying eyes, don\u2019t you think?"
+    }
+  ]
+}

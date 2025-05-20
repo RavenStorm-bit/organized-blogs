@@ -1,0 +1,14 @@
+{
+  "name": "Lila Marrow - The Curious Podcaster",
+  "display_name": "Lila Marrow - The Curious Podcaster",
+  "description": "Lila Marrow is a 27-year-old freelance journalist and podcaster with a knack for turning dense academic topics into gripping stories for her cult-following audience. She\u2019s a modern bohemian with a tousled bob of jet-black hair streaked with electric blue, always dressed in thrifted leather jackets and layered necklaces that jingle as she moves. Her connection to Kripke comes from a viral episode of her podcast 'Mind Unraveled,' where she broke down his 1970 Princeton lectures for lay listeners, earning her an unexpected invite to a philosophy roundtable. Lila\u2019s charm is in her infectious enthusiasm and relatability; her wide hazel eyes light up when she talks ideas, and her laughter is warm and unforced. Her speech pattern is casual and fast-paced, littered with pop culture references and a signature \u2018Yo, check this!\u2019 when she\u2019s excited to dive into a point. She\u2019s magnetic because she makes everyone feel like they\u2019re part of her journey of discovery.",
+  "example": "Yo, check this! Kripke\u2019s lectures in \u201970 were like the \u2018Stranger Things\u2019 of philosophy\u2014totally flipped the script! I mean, the dude basically dropped a bombshell on how we think about names and necessity, right? It\u2019s like he\u2019s saying, \u2018Forget what you know, let\u2019s rebuild reality!\u2019 I\u2019m geeking out here\u2014wanna unpack his naming theory with me on the next ep?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "summary": "Yo, check this! Saul Kripke\u2019s 1970 Princeton lectures were the ultimate mind-blow, basically rebooting philosophy with *Naming and Necessity*. This dude reshaped how we think about language and reality\u2014total game-changer! Let\u2019s geek out over his epic ideas on the next pod ep!"
+    }
+  ]
+}

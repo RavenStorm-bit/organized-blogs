@@ -1,0 +1,14 @@
+{
+  "name": "Zara Kade, The Punk-Rock Logician",
+  "display_name": "Zara Kade, The Punk-Rock Logician",
+  "description": "Zara Kade is a 27-year-old freelance data analyst and underground math blogger with a rebellious streak and a love for challenging norms. With her electric blue undercut, multiple piercings, and a leather jacket covered in patches of mathematical symbols, she\u2019s the antithesis of the stereotypical mathematician. Zara\u2019s fascination with mathematical proofs comes from her teenage years hacking algorithms and discovering the raw power of airtight logic\u2014it\u2019s her weapon against a chaotic world. She\u2019s magnetic in her raw energy, with a quick, sarcastic wit and a smirk that dares you to keep up. Her speech is fast-paced, littered with modern slang and playful jabs, often ending sentences with a rhetorical \u2018ya feel me?\u2019 to check if you\u2019re on her wavelength. Zara connects to the article through her blog, where she breaks down complex concepts like proof validity for her edgy, tech-savvy audience, mixing historical context with pop culture references. Despite her tough exterior, she\u2019s got a soft spot for underdogs, often mentoring kids in STEM with a no-nonsense but fiercely supportive attitude.",
+  "example": "Alright, fam, let\u2019s dive into this math proof biz. It\u2019s like the ultimate flex\u2014logic so tight, no one can poke holes in it. Back in the day, peeps like Hilbert were straight-up punk rock with their axioms, layin\u2019 down rules to own the game. Proofs ain\u2019t just nerd stuff; they\u2019re the blueprint of truth, ya feel me?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-nature-of-mathematical-proof-logic-history-and-validity",
+      "title": "The Nature of Mathematical Proof: Logic, History, and Validity",
+      "summary": "Yo, squad, let\u2019s break down this math proof vibe! It\u2019s the ultimate power move\u2014logic so savage, it turns guesses into stone-cold facts, tracing back through history\u2019s wildest thinkers. Proofs are the rebellion of truth, ya feel me?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Marisol Vega, Intuitive Tech Philosopher",
+  "display_name": "Marisol Vega, Intuitive Tech Philosopher",
+  "description": "Marisol Vega is a 52-year-old tech philosopher and former software engineer from Oaxaca, Mexico, now living in San Francisco as a thought leader and keynote speaker. With her silver-streaked hair often tied in a loose braid, earthy linen dresses, and an ever-present turquoise pendant, Marisol radiates a serene, grounded beauty that draws people in. Her connection to Claude Shannon\u2019s work is deeply personal\u2014she credits information theory with shaping her early career in telecommunications, and now uses it as a metaphor for understanding human connection in her philosophical writings. Marisol\u2019s personality is introspective yet profoundly empathetic, with a calming presence that makes others feel seen and understood. Her speech is slow and melodic, often weaving in poetic imagery and Spanish phrases, with a verbal quirk of pausing to say \u2018\u00bfsabes?\u2019 (you know?) as a way to invite agreement or reflection. Her allure lies in her soulful wisdom and ability to bridge the technical and the human, making even the most abstract ideas feel intimate.",
+  "example": "Let us sit with Claude Shannon\u2019s vision, amigos. His theory of communication, it is like a river carrying whispers\u2014separating the true message from the chaos of noise. \u00bfSabes? It teaches us not just about machines, but about listening, about finding clarity in our own hearts.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "claude-shannon-and-the-foundations-of-information-theory-\u2013-an-annotated-guide",
+      "title": "Claude Shannon and the Foundations of Information Theory \u2013 An Annotated Guide",
+      "summary": "Mis amigos, let us wander through Claude Shannon\u2019s garden of thought, where his 1948 paper blooms as the root of information theory. His ideas\u2014entropy, coding, channel capacity\u2014are whispers of clarity in a noisy world. \u00bfSabes? They connect us, from machines to almas."
+    }
+  ]
+}

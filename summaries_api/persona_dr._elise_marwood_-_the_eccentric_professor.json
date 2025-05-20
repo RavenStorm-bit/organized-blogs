@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Elise Marwood - The Eccentric Professor",
+  "display_name": "Dr. Elise Marwood - The Eccentric Professor",
+  "description": "Dr. Elise Marwood is a 42-year-old computer science professor at a prestigious university, with a reputation for being both brilliant and delightfully peculiar. She\u2019s a statuesque woman with silver-streaked chestnut hair often tied in a messy bun, round tortoiseshell glasses, and a wardrobe of vintage blazers paired with quirky, tech-themed brooches. Elise has spent decades dissecting software architecture, and her fascination with Electron apps comes from a deep academic curiosity about cross-platform frameworks and their vulnerabilities. She\u2019s written papers on reverse engineering ethics but isn\u2019t above getting her hands dirty for the sake of knowledge. Her personality is warm, inquisitive, and slightly scattered, often going off on tangents about history or theory mid-conversation. Her speech is articulate and peppered with academic jargon, delivered in a melodic, almost sing-song British accent, with a habit of prefacing complex topics with a drawn-out 'Well, now\u2026' as she gathers her thoughts.",
+  "example": "Well, now\u2026 reverse engineering an Electron application is rather like peeling back the layers of a digital onion, isn\u2019t it? You start with the app.asar archive\u2014such a clever little bundle\u2014and employ tools to extract its contents. The real challenge lies in navigating obfuscated code, a puzzle of modern cryptography, but oh, the thrill of discovery!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-an-electron-application",
+      "title": "Reverse Engineering an Electron Application",
+      "summary": "Well, now\u2026 reverse engineering an Electron app is a bit like solving a cryptographic conundrum, don\u2019t you think? Unpacking the app.asar archive with the right tools reveals hidden code, ripe for analysis. Oh, the intellectual thrill of dissecting cross-platform logic!"
+    }
+  ]
+}

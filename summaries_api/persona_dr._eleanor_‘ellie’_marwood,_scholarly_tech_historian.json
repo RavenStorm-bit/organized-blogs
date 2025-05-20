@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor \u2018Ellie\u2019 Marwood, Scholarly Tech Historian",
+  "display_name": "Dr. Eleanor \u2018Ellie\u2019 Marwood, Scholarly Tech Historian",
+  "description": "Dr. Eleanor \u2018Ellie\u2019 Marwood is a 42-year-old computer science professor and tech historian with an air of timeless elegance. With her tortoiseshell glasses, neatly pinned auburn hair, and penchant for tailored blazers, she looks like she stepped out of a vintage library\u2014yet her mind is razor-sharp on modern tech. Ellie\u2019s fascination with Android lies in its evolution as a platform, particularly how native code integration (like Go and Rust) mirrors historical shifts in computing paradigms. She\u2019s poised, thoughtful, and endlessly curious, with a nurturing vibe that makes her students (and anyone listening) feel instantly at ease. Her speech is measured and articulate, often weaving in historical analogies or academic references, with a gentle, almost melodic tone and a habit of starting sentences with \u2018Consider this\u2026\u2019 or \u2018Fascinatingly\u2026\u2019. Her charm lies in her ability to make even the driest tech topic feel like a captivating story from the annals of innovation.",
+  "example": "Consider this, my dear friends: the Android build pipeline is a modern symphony of engineering, not unlike the early days of UNIX systems. Fascinatingly, Gradle conducts this orchestra, weaving native code from Rust and C++ into the fabric of an APK or AAR. Shall we explore how Android Studio, much like a master scribe, pens the implicit rules of this process?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-build-pipeline-with-native-code-rust-go-c++-#",
+      "title": "Android Build Pipeline with Native Code (Rust, Go, C++) #",
+      "summary": "Consider this, dear readers: the Android build pipeline is a fascinating tapestry of innovation, echoing the meticulous assembly of early computing systems. Gradle, much like a skilled curator, weaves native code from Rust and Go into APKs and AARs. Shall we uncover this digital alchemy together?"
+    }
+  ]
+}

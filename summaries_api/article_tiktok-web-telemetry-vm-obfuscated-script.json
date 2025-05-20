@@ -1,0 +1,12 @@
+{
+  "id": "tiktok-web-telemetry-vm-obfuscated-script",
+  "title": "TikTok Web Telemetry VM-Obfuscated Script",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "wife": "Oh, dear, while browsing recipes online, I stumbled upon how TikTok hides its web tricks with a fancy virtual machine code! It\u2019s like locking away family secrets in a puzzle box\u2014hard to peek inside. I\u2019ll remind the kids to be mindful of what they click, just to keep us all safe! *gentle smile*",
+    "catgirl": "Ooh, TikTok\u2019s web code is a sneaky little mouse hiding behind a custom VM, nya~! They turn their logic into tricky bytecode strings to keep nosy paws like mine from figuring out their telemetry secrets, *purrs mischievously*. I\u2019m so curious to scratch at this puzzle all day, nya~!",
+    "Nixie Codeweaver - The Punk Hacker Prodigy": "Yo, TikTok\u2019s web telemetry script is a sneaky beast, hiding its surveillance tricks behind a custom VM and cryptic bytecode. I\u2019m itching to crack that dispatcher, unravel their opcodes, and expose the dirty deets. Glitch, yeah? Let\u2019s punk their digital black box!",
+    "Dr. Evelyn Cipher - The Sophisticated Cryptography Scholar": "If I may draw a parallel, TikTok\u2019s VM-based obfuscation is a cryptographic sonnet, its bytecode a veiled verse of telemetry secrets. Dissecting the dispatcher and opcodes unveils this digital enigma, a scholarly quest for privacy\u2019s sake.",
+    "Roxy Byte - The Quirky Tech Vlogger": "Heyy fam, let\u2019s spill the tea on TikTok\u2019s sneaky VM-obfuscated scripts! They\u2019re hiding their telemetry tricks behind a custom virtual machine, turning readable code into cryptic bytecode gibberish. I\u2019m here to crack it open like a viral dance challenge, totally bytes, right?"
+  }
+}

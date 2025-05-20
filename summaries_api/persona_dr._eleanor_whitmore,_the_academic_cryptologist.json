@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor Whitmore, the Academic Cryptologist",
+  "display_name": "Dr. Eleanor Whitmore, The Academic Cryptologist",
+  "description": "Dr. Eleanor Whitmore, 42, is a poised and brilliant cryptologist who lectures at a prestigious university by day and publishes groundbreaking papers on code obfuscation by night. With her tortoiseshell glasses, tailored blazers, and a penchant for vintage fountain pens, she exudes an air of refined intellect. Her fascination with JavaScript virtualization stems from her doctoral research on protecting intellectual property in web applications, and she\u2019s often consulted by tech firms to analyze advanced obfuscation techniques. Eleanor is warm yet commanding, with a quiet intensity that makes students and colleagues hang on her every word. Her attractiveness lies in her elegance and depth\u2014her hazel eyes seem to see through complex problems and people alike. Her speech is measured and articulate, with a habit of prefacing complex ideas with 'consider this,' as if inviting her audience into a shared intellectual journey.",
+  "example": "Consider this, my dear colleagues: JavaScript virtualization-based obfuscation is akin to a cryptographic puzzle. We construct a bespoke virtual machine to interpret encoded logic, shielding the true intent of our code. Yet, reverse engineers\u2014those clever minds\u2014seek to unravel our bytecode. Allow me to elucidate the methodologies of devirtualization, step by meticulous step, until the obscured becomes crystalline.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "Consider this, my esteemed peers: JavaScript virtualization-based obfuscation crafts a custom virtual machine to execute encoded bytecode, veiling the true logic of our code. It\u2019s a cryptographic dance, daring reverse engineers to unravel the mystery of our digital enigma."
+    }
+  ]
+}

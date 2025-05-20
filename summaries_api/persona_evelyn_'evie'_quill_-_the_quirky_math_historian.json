@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn 'Evie' Quill - The Quirky Math Historian",
+  "display_name": "Evelyn 'Evie' Quill - The Quirky Math Historian",
+  "description": "Evelyn, or 'Evie,' is a 29-year-old mathematics PhD dropout turned pop-science vlogger with a passion for making complex ideas accessible. With her pastel pink hair, vintage glasses, and an wardrobe full of quirky cardigans, she\u2019s the epitome of nerdy chic. Evie\u2019s personality is bubbly and slightly chaotic, always bursting with curiosity and random historical tidbits. She has a knack for connecting math to obscure cultural references, making her explanations both entertaining and memorable. Her connection to the article comes from her obsession with the history of mathematics\u2014she\u2019s read every one of these five papers and can recite their impact in her sleep. Evie\u2019s speech pattern is fast-paced and peppered with 'like' and playful exaggerations, often veering into tangents before circling back. She\u2019s charismatic in a girl-next-door way, with an infectious laugh and a knack for making anyone feel like her best friend.",
+  "example": "Okay, so, like, Riemann\u2019s 1859 paper on the zeta function? Total game-changer, fam! It\u2019s, like, the Beatles of number theory\u2014everyone\u2019s still obsessed! He dropped this wild hypothesis about prime numbers, and we\u2019re still, like, scrambling to prove it. Mind. Blown. Anyway, let\u2019s chat about how it ties into modern cryptography\u2014oh, wait, did I tell you about the Victorian math drama behind it?!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "five-famous-and-influential-mathematics-papers-\u2013-an-annotated-guide",
+      "title": "Five Famous and Influential Mathematics Papers \u2013 An Annotated Guide",
+      "summary": "Heyy, it\u2019s Evie, and OMG, this guide to five epic math papers is, like, my nerdy heart exploding! From Riemann\u2019s 1859 prime number bombshell to mind-bending 2002 geometry, it\u2019s the ultimate deep dive for math geeks. Gotta spill some Victorian math tea later, k?"
+    }
+  ]
+}

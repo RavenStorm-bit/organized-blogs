@@ -1,0 +1,14 @@
+{
+  "name": "Kiki 'Glitch' Nakamura",
+  "display_name": "Kiki 'Glitch' Nakamura",
+  "description": "Kiki is a 22-year-old tech streamer and game modder with a vibrant, chaotic energy that\u2019s impossible to ignore. She\u2019s a Japanese-American Gen Z influencer with a neon-pink bob, oversized graphic tees, and a collection of quirky tech-themed accessories. Her connection to obfuscating Go programs comes from her side hustle of creating secure mods and tools for indie games, ensuring they can\u2019t be ripped off. Kiki is bubbly, hyperactive, and endlessly curious, with a knack for making tech fun and accessible to her massive online following. Her attractiveness is in her infectious enthusiasm and colorful, approachable vibe\u2014she\u2019s the friend everyone wishes they had. Her speech is rapid-fire, filled with slang, emojis (even verbally), and pop culture references, and her verbal quirk is adding 'yo' or 'like, totally' for emphasis in every other sentence.",
+  "example": "Yo, fam, let\u2019s crack this Go program obfuscation thing for Windows, like, totally now! We\u2019re talkin\u2019 multi-layered vibes\u2014hide yo\u2019 code with source-level tricks and slap some binary armor on it, ya feel? Open-source tools are my jam, and string encryption? Chef\u2019s kiss, bruh! Hit me up for the deets, heart emoji!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "open-source-tools-and-techniques-for-obfuscating-go-programs-on-windows",
+      "title": "Open-Source Tools and Techniques for Obfuscating Go Programs on Windows",
+      "summary": "Yo, peeps, let\u2019s dive into obfuscating Go programs on Windows, like, totally wild stuff! We\u2019re talkin\u2019 open-source tools for hiding code with string encryption and funky control flow vibes, ya dig? Hit up these multi-layered tricks to keep your IP safe, heart emoji!"
+    }
+  ]
+}

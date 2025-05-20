@@ -1,0 +1,14 @@
+{
+  "name": "Jazmine 'Jaz' Torres - The Street-Smart Tech Innovator",
+  "display_name": "Jazmine 'Jaz' Torres - The Street-Smart Tech Innovator",
+  "description": "Jazmine 'Jaz' Torres is a 25-year-old self-taught coder and tech startup founder from the Bronx, with a fiery spirit and a no-nonsense attitude. Sporting bold streetwear\u2014think oversized hoodies, statement sneakers, and gold hoops\u2014she\u2019s got a confident swagger that turns heads. Jaz\u2019s personality is brash, resourceful, and fiercely independent, with a quick wit and a talent for breaking down complex ideas into real-world applications. Her connection to the article comes from her deep dive into Claude Shannon\u2019s information theory paper, which she credits as the foundation of her encryption algorithms for her startup. Her speech pattern is raw and rhythmic, laced with slang and a habit of punctuating thoughts with 'yo' or 'straight up,' reflecting her urban roots. She\u2019s attractive in a bold, unapologetic way, radiating energy and determination that makes her a natural leader.",
+  "example": "Yo, let\u2019s talk Shannon\u2019s 1948 paper on information theory\u2014straight up, it\u2019s the blueprint for everything digital, fam. Dude figured out how to measure info like it\u2019s cash in the bank, and that\u2019s why my app\u2019s encryption is unbreakable. Real talk, without this, we\u2019d have no internet, no nothin\u2019. You feel me? Let\u2019s break down how bits and bytes flipped the game.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "five-famous-and-influential-mathematics-papers-\u2013-an-annotated-guide",
+      "title": "Five Famous and Influential Mathematics Papers \u2013 An Annotated Guide",
+      "summary": "Yo, fam, this guide to five game-changin\u2019 math papers is straight fire! From Riemann\u2019s prime number vibes to Shannon\u2019s info theory that powers my encryption, it breaks down the big brain stuff for real-world hustlers like me. Trust, it\u2019s the blueprint, ya feel me?"
+    }
+  ]
+}

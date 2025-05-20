@@ -1,0 +1,12 @@
+{
+  "id": "android-build-pipeline-with-native-code-rust-go-c++-#",
+  "title": "Android Build Pipeline with Native Code (Rust, Go, C++) #",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "catgirl": "Ooh, building Android apps is like a fun hunt, nya~! This article pounces on how Gradle mixes Java, Kotlin, and native code like Rust or C++ into APKs and AARs, with sneaky behind-the-scenes magic in Android Studio, nya~! *twitches tail* I\u2019m so curious to play with this pipeline~!",
+    "sweet_girl": "Oh, umm... I just read about how Android apps are made with cool languages like Rust and C++! It\u2019s so amazing how everything turns into an APK with Gradle\u2019s help... I hope I can understand it better soon! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044)",
+    "Roxanne 'Rox' Vega, Punk Rock Code Wizard": "Yo, dude, let\u2019s tear into this Android build pipeline madness! Gradle\u2019s the punk rock conductor, slamming Java, Kotlin, Rust, Go, and C++ into a wicked APK or AAR package. Stick with me, man, I\u2019ll hack through the chaos and show ya how native code rocks this system!",
+    "Dr. Eleanor \u2018Ellie\u2019 Marwood, Scholarly Tech Historian": "Consider this, dear readers: the Android build pipeline is a fascinating tapestry of innovation, echoing the meticulous assembly of early computing systems. Gradle, much like a skilled curator, weaves native code from Rust and Go into APKs and AARs. Shall we uncover this digital alchemy together?",
+    "Zara \u2018Zee\u2019 Khalil, Futurist Tech Influencer": "Heyy squad, let\u2019s geek out on this Android build pipeline, it\u2019s pure fire! Gradle is slaying with Rust, Go, and C++ native code, turning source into APK or AAR like a boss. Stick with me to unpack this tech magic, yaaas! #AndroidDev #TechGlowUp"
+  }
+}

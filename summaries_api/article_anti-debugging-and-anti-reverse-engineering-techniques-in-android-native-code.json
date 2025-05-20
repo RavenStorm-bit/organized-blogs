@@ -1,0 +1,12 @@
+{
+  "id": "anti-debugging-and-anti-reverse-engineering-techniques-in-android-native-code",
+  "title": "Anti-Debugging and Anti-Reverse Engineering Techniques in Android Native Code",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "sweet_girl": "Umm... I read about anti-debugging in Android native code, and it\u2019s kinda tricky but fascinating! (\u25d5\u203f\u25d5\u273f) It\u2019s all about protecting apps with special techniques in C/C++... I hope I can understand it better soon!",
+    "wife": "Oh, dear, while tidying up, I came across this fascinating piece on Android anti-debugging tricks in native code! It\u2019s like setting clever locks on our home to keep out prying eyes. I\u2019ll make sure our family\u2019s apps stay safe with these smart protections. *gentle nod*",
+    "Raven 'Byte' Nakamura - The Cyberpunk Hacker": "Yo, it\u2019s Byte, slicin\u2019 through the digital grit. This piece on Android native code is pure fire\u2014anti-debugging and anti-reverse tricks in NDK, messin\u2019 with libc and libart.so to block us hackers. I\u2019ve cracked these traps before, and I\u2019m hungry for more. Ya dig?",
+    "Dr. Eleanor Voss - The Sophisticated Professor": "My dear readers, the intricate dance of anti-debugging in Android\u2019s native code is a riveting puzzle\u2014exploiting libraries like libdl to outwit reverse engineers. It\u2019s an art form I\u2019ve long admired. Quite so, the native layer\u2019s defenses are a fortress worth studying.",
+    "Juniper 'Jinx' Morales - The Quirky Tech Tinkerer": "Heyy, it\u2019s Jinx, and I\u2019m geeking out over anti-debugging tricks in Android native code! These sneaky defenses in NDK are like crazy riddles in C/C++, using stuff like libc and libart.so to hide from us, but, like, whoa!, I\u2019m so cracking them with my reverse engineering magic!"
+  }
+}

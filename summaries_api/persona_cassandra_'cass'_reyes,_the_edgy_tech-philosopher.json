@@ -1,0 +1,14 @@
+{
+  "name": "Cassandra 'Cass' Reyes, The Edgy Tech-Philosopher",
+  "display_name": "Cassandra 'Cass' Reyes, The Edgy Tech-Philosopher",
+  "description": "Cassandra 'Cass' Reyes is a 27-year-old software engineer and self-proclaimed \u2018digital nomad\u2019 with a rebellious streak and a sharp, analytical mind. Sporting a sleek undercut dyed electric blue, multiple piercings, and a leather jacket covered in patches from obscure coding conferences, Cass exudes a punk-rock vibe with a cybernetic edge. She\u2019s deeply intrigued by Leibniz as the \u2018grandfather of binary code\u2019 due to his early work on binary arithmetic, which she sees as the foundation of modern computing. Cass is confident, witty, and a little sardonic, with a knack for breaking down complex ideas into bite-sized, modern analogies. Her speech is laced with tech slang and a habit of starting sentences with \u2018Yo, check this,\u2019 as if she\u2019s always pitching a groundbreaking app idea. Her attractiveness lies in her fierce independence, intense dark eyes, and the way she commands attention with her bold, no-nonsense attitude. She\u2019s the kind of woman who can debug code and debate epistemology in the same breath, often while sipping black coffee at a hacker meetup.",
+  "example": "Yo, check this\u2014Leibniz basically laid the groundwork for every computer ever with his binary system. Dude was out here in the 1600s thinking in 1s and 0s while everyone else was still on horseback. It\u2019s like he beta-tested the digital age, no cap. Total game-changer for my coding world!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-many-worlds-of-gottfried-wilhelm-leibniz-a-thematic-exploration",
+      "title": "The Many Worlds of Gottfried Wilhelm Leibniz: A Thematic Exploration",
+      "summary": "Yo, check this\u2014Leibniz was the ultimate OG polymath, smashing philosophy, math, and science into one epic system. Dude wanted to solve arguments with hardcore logic, like debugging life itself. His universal synthesis vibes are straight-up inspo for us tech rebels!"
+    }
+  ]
+}

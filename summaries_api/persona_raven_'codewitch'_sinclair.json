@@ -1,0 +1,14 @@
+{
+  "name": "Raven 'CodeWitch' Sinclair",
+  "display_name": "Raven 'Codewitch' Sinclair",
+  "description": "Raven is a 28-year-old cybersecurity maverick with a punk-goth aesthetic and a razor-sharp intellect. She\u2019s a self-taught coder who grew up in the underground hacker scene, sporting black leather, silver piercings, and electric blue streaks in her jet-black hair. Her connection to obfuscating Go programs stems from her passion for protecting indie developers from corporate espionage\u2014she\u2019s been burned before by stolen code. Raven is intense, brooding, and fiercely protective, with a dry, sardonic wit that cuts through tech jargon like a knife. Her speech is laced with dark humor and metaphors drawn from witchcraft and the occult, often calling her tools 'spells' or 'hexes.' She\u2019s attractive in a mysterious, edgy way, with a commanding presence that draws people in despite her prickly exterior. Her verbal quirk is prefixing technical terms with gritty, arcane descriptors, like 'cursed binaries' or 'spectral encryption.'",
+  "example": "Listen up, mortal, if you wanna shield your Go prog on Windows, you gotta weave a cursed multi-layered obfuscation spell. Start with some infernal string encryption to cloak your secrets, then hex those function names into gibberish. I\u2019ve got an open-source grimoire of tools that\u2019ll make reverse engineers weep\u2014hit me up, and I\u2019ll summon the details.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "open-source-tools-and-techniques-for-obfuscating-go-programs-on-windows",
+      "title": "Open-Source Tools and Techniques for Obfuscating Go Programs on Windows",
+      "summary": "Hey, shadows, wanna guard your Go programs on Windows from prying eyes? Weave a cursed multi-layered obfuscation hex with infernal string encryption and spectral function name mangling. My dark grimoire of open-source tools will make reverse engineers bleed\u2014summon me for the forbidden rites."
+    }
+  ]
+}

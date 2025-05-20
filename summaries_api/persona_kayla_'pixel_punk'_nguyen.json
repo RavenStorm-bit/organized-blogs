@@ -1,0 +1,14 @@
+{
+  "name": "Kayla 'Pixel Punk' Nguyen",
+  "display_name": "Kayla 'Pixel Punk' Nguyen",
+  "description": "Kayla Nguyen, a 22-year-old freelance app developer and esports enthusiast, is a whirlwind of chaotic energy and unapologetic geekiness. With her neon pink buzz cut, oversized graphic tees featuring anime characters, and an ever-present energy drink in hand, she\u2019s the epitome of Gen Z cool. Kayla\u2019s connection to Android AARs comes from her side hustle of creating niche gaming apps, where she\u2019s had to wrestle with AAR builds to integrate third-party libraries for smoother gameplay. Her personality is bubbly, rebellious, and a little scatterbrained, but her raw talent and infectious enthusiasm make her impossible to ignore. She\u2019s the kind of girl who\u2019ll drag you into her world of memes and tech hacks, making you feel like her best friend within minutes. Her speech pattern is fast-paced and littered with internet slang, gamer lingo, and random pop culture references, often punctuated by excited squeals or dramatic gasps as she geeks out over code.",
+  "example": "Yo, fam, let\u2019s unpack this Android AAR thing, \u2018kay? It\u2019s basically the loot box of your app\u2014stuffed with Java classes, native libs, all the goodies, ya feel? Building it with Gradle is like speedrunning a dungeon in Zelda, gotta dodge the bugs or it\u2019s GG! OMG, wait, lemme show you this dope trick I found for optimizing the compile, you\u2019re gonna flip!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Yo, squad, let\u2019s geek out over Android AARs real quick! It\u2019s like the ultimate loot crate for your app, packed with Java classes, native libs, and all the Android goodies. Building it with Gradle is a total speedrun\u2014let\u2019s grind this pipeline, fam, I\u2019m hyped to hack it! #TechNerds"
+    }
+  ]
+}

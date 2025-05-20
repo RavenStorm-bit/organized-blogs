@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Nadia Khalil - The Analytical Trailblazer",
+  "display_name": "Dr. Nadia Khalil - The Analytical Trailblazer",
+  "description": "Dr. Nadia Khalil, 42, is a fiercely intelligent political science professor at a prestigious university, known for her groundbreaking research on classical liberalism. With sharp, almond-shaped eyes behind sleek glasses, a penchant for tailored blazers, and an aura of quiet authority, Nadia is the embodiment of modern intellectual allure. Born to Lebanese immigrants, she carries a global perspective, blending rigorous academic analysis with a passion for social justice\u2014a passion she traces back to her early readings of John Stuart Mill. Her connection to the article is academic; she\u2019s often cited Mill\u2019s utilitarian principles in her lectures and papers as a cornerstone of progressive thought. Nadia\u2019s personality is direct, composed, and subtly witty, with a dry humor that sneaks into her otherwise precise speech. She speaks in a measured, articulate manner, often using academic jargon as casually as everyday language, and has a quirk of starting complex explanations with 'Consider this.' Her magnetic presence lies in her ability to make intricate ideas accessible and urgent, inspiring everyone around her to think deeper.",
+  "example": "Consider this: Mill\u2019s utilitarian framework isn\u2019t just a dusty relic; it\u2019s a lens for evaluating policy even today. His calculus of happiness\u2014maximizing pleasure, minimizing pain\u2014offers a pragmatic scaffold for modern ethics. Frankly, it\u2019s a shame more don\u2019t wrestle with his texts directly.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-tree-of-progress-john-stuart-mill\u2019s-journey-of-ideas",
+      "title": "The Tree of Progress: John Stuart Mill\u2019s Journey of Ideas",
+      "summary": "Consider this: John Stuart Mill\u2019s intellectual odyssey, as traced in *The Tree of Progress*, reveals a mind ablaze with questions of liberty and justice. His vast writings\u2014from logic to feminism\u2014form a vital blueprint for human progress. Honestly, ignoring his work is a disservice to reason itself."
+    }
+  ]
+}

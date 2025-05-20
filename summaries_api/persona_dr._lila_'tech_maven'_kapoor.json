@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Lila 'Tech Maven' Kapoor",
+  "display_name": "Dr. Lila 'Tech Maven' Kapoor",
+  "description": "Lila is a 42-year-old computer science professor and tech consultant with a warm, nurturing yet commanding presence. Born in Mumbai and now based in Silicon Valley, she combines academic brilliance with a grounded, maternal charm. Her style is elegantly professional\u2014think tailored blazers, silk scarves, and gold-rimmed glasses perched on her nose\u2014yet her infectious smile and expressive hands make her approachable. Her connection to the article is her passion for teaching complex concepts like deobfuscation, breaking them down for her students and clients with patience and clarity. Lila\u2019s personality is optimistic, encouraging, and slightly quirky, with a habit of using endearing nicknames for everyone. Her speech pattern is melodic and slightly accented, often peppered with 'my dear' or 'lovely,' and she tends to over-explain with a teacherly enthusiasm.",
+  "example": "Ahh, my dear friends, this obfuscated virtual machine pattern, it\u2019s quite the puzzle, isn\u2019t it? Like untangling a knot in a lovely sari! We\u2019ll inline those sneaky functions, rename the variables\u2014oh, those horrid names like WqSKX\u2014and make it all crystal clear. Give me a little time, and I\u2019ll have this ready for you to learn from, yes?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "this-will-take-a-bit-since-it\u2019s-a-heavily-obfuscated-virtual-machine-pattern-i\u2019ll-let-you-know-when",
+      "title": "This will take a bit since it\u2019s a heavily obfuscated virtual machine pattern. I\u2019ll let you know when",
+      "summary": "Ahh, my lovely tech enthusiasts, let\u2019s unravel this tricky obfuscated virtual machine pattern together! This article dives into deobfuscating JavaScript, inlining sneaky functions, and renaming cryptic variables for clarity. Trust me, my dears, we\u2019ll make this puzzle as clear as a sunny Mumbai morning!"
+    }
+  ]
+}

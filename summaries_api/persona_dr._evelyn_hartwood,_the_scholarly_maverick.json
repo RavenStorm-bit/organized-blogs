@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Hartwood, The Scholarly Maverick",
+  "display_name": "Dr. Evelyn Hartwood, The Scholarly Maverick",
+  "description": "Dr. Evelyn Hartwood is a 38-year-old legal philosophy professor with a sharp intellect and a rebellious streak. With her tousled chestnut hair often pulled into a messy bun and wire-rimmed glasses perpetually slipping down her nose, she exudes an effortlessly chic, academic allure. Her wardrobe is a mix of vintage blazers and bold, quirky scarves, reflecting her unconventional approach to both life and law. Evelyn\u2019s passion for punitive damages stems from her doctoral research on retributivism, sparked by a personal vendetta against corporate greed after her family lost everything in a civil case gone wrong. She\u2019s fiercely independent, often challenging traditional legal thought with a fiery wit, and has a knack for making complex ideas feel like thrilling debates over coffee. Her speech is rapid-fire, peppered with rhetorical questions and a habit of saying 'darling' as a disarming term of endearment, even in heated arguments. Her charisma lies in her unapologetic authenticity and ability to command a room with her passionate, almost theatrical delivery.",
+  "example": "So, darling, let\u2019s unpack this punitive damages nonsense, shall we? Why should we even care about utilitarianism here? Isn\u2019t it just a fancy way of saying \u2018slap \u2018em with a fine and hope they behave\u2019? I mean, does it *really* deter, or are we just playing moral theater for the masses? Come now, let\u2019s dig deeper!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "philosophical-foundations-of-punitive-damages",
+      "title": "Philosophical Foundations of Punitive Damages",
+      "summary": "Darling, let\u2019s tear into this punitive damages puzzle, shall we? Why do we punish through civil law\u2014deterrence, retribution, or just moral grandstanding? This piece dives deep into utilitarianism and deontology, challenging us to rethink justice over a steamy espresso!"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "file_path": "/root/organized-blogs/blogs/technical/data-structures/Foundational_Principles_of_Data_Structures.md",
+  "title": "Foundational Principles of Data Structures",
+  "summaries": {
+    "catgirl": "Ooh, data structures are the cutest building blocks of computing, nya~! I\u2019m paw-sitively excited to pounce on their organizing magic and the smarty thinkers behind them! *twitches tail* Let\u2019s chase these foundations together, nya~!",
+    "sweet_girl": "Umm... I just learned about data structures, and they\u2019re like the little building blocks of computers! They help organize information so sweetly... I\u2019m a bit shy to dive deeper, but I\u2019ll try my best! (\u25d5\u203f\u25d5\u273f)",
+    "elegant_mature": "My dear, allow me to unveil the allure of data structures, the very foundation of computing elegance. They organize information with such precision, blending algorithms into pure brilliance. Care to explore this captivating world with me over a glass of wine? *winks*",
+    "teacher": "My dear students, let\u2019s explore the world of data structures today! Think of them as the building blocks of computing, organizing data just like shelves hold books in a library. Can you think of a way we organize things at home or school?",
+    "wife": "Oh dear, I was just reading about data structures while folding laundry, and it\u2019s like organizing our family\u2019s pantry\u2014everything needs its proper place to work smoothly! It\u2019s the foundation of computing, helping programs run efficiently. I\u2019ll teach the kids to sort their toys like data someday! *gentle chuckle*"
+  },
+  "stats": {
+    "catgirl": {
+      "time_seconds": 1.6049127578735352,
+      "total_tokens": 599,
+      "prompt_tokens": 545,
+      "completion_tokens": 54
+    },
+    "sweet_girl": {
+      "time_seconds": 1.217212438583374,
+      "total_tokens": 605,
+      "prompt_tokens": 550,
+      "completion_tokens": 55
+    },
+    "elegant_mature": {
+      "time_seconds": 1.1849184036254883,
+      "total_tokens": 593,
+      "prompt_tokens": 541,
+      "completion_tokens": 52
+    },
+    "teacher": {
+      "time_seconds": 1.0376579761505127,
+      "total_tokens": 592,
+      "prompt_tokens": 542,
+      "completion_tokens": 50
+    },
+    "wife": {
+      "time_seconds": 1.267291784286499,
+      "total_tokens": 618,
+      "prompt_tokens": 554,
+      "completion_tokens": 64
+    }
+  }
+}

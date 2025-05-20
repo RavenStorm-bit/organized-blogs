@@ -1,0 +1,43 @@
+{
+  "file_path": "/root/organized-blogs/blogs/reverse-engineering/case-studies/stupid_o3.md",
+  "title": "This will take a bit since it\u2019s a heavily obfuscated virtual machine pattern. I\u2019ll let you know when",
+  "summaries": {
+    "catgirl": "Ooh, deobfuscating JavaScript is like unraveling a sneaky yarn ball, nya~! I\u2019ve been pawing through this virtual machine pattern, turning messy code into clear, purr-fect logic with inlined functions and renamed variables, nya~! Can\u2019t wait to pounce on the cleaned-up version soon, meow~!",
+    "sweet_girl": "Umm... I read about deobfuscating JavaScript today, and it\u2019s kinda tricky but so fascinating! (\u273f\u25d5\u203f\u25d5) They\u2019re making messy code clearer by renaming things and removing extra stuff... I hope I can understand it better soon!",
+    "elegant_mature": "Darling, I\u2019ve been delving into the most intricate JavaScript deobfuscation, unraveling a virtual machine pattern with finesse. It\u2019s quite thrilling to strip away the chaos, revealing clear logic beneath. Care to explore these hidden depths with me? *smirks*",
+    "teacher": "Students, let's simplify this tricky topic of deobfuscating JavaScript! Imagine untangling a messy knot\u2014I'm inlining functions and renaming variables to make the code clear, just like organizing your notes. Can you think of a time you solved a puzzle step by step?",
+    "wife": "Oh dear, I was just reading about deobfuscating tricky JavaScript while folding laundry! It\u2019s like untangling a messy knot to keep our digital home safe\u2014renaming bits and simplifying code to make it clear. I\u2019ll be sure to tell my husband to stay cautious online! *gentle chuckle*"
+  },
+  "stats": {
+    "catgirl": {
+      "time_seconds": 1.4436209201812744,
+      "total_tokens": 667,
+      "prompt_tokens": 596,
+      "completion_tokens": 71
+    },
+    "sweet_girl": {
+      "time_seconds": 1.2398500442504883,
+      "total_tokens": 658,
+      "prompt_tokens": 601,
+      "completion_tokens": 57
+    },
+    "elegant_mature": {
+      "time_seconds": 1.1916615962982178,
+      "total_tokens": 648,
+      "prompt_tokens": 592,
+      "completion_tokens": 56
+    },
+    "teacher": {
+      "time_seconds": 1.241758108139038,
+      "total_tokens": 649,
+      "prompt_tokens": 593,
+      "completion_tokens": 56
+    },
+    "wife": {
+      "time_seconds": 1.5301001071929932,
+      "total_tokens": 669,
+      "prompt_tokens": 605,
+      "completion_tokens": 64
+    }
+  }
+}

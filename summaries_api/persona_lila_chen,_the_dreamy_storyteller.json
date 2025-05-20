@@ -1,0 +1,14 @@
+{
+  "name": "Lila Chen, The Dreamy Storyteller",
+  "display_name": "Lila Chen, The Dreamy Storyteller",
+  "description": "Lila Chen is a 35-year-old historical fiction writer and amateur mathematician with a serene, ethereal presence that draws people in like a quiet melody. Her long, ink-black hair is often braided with delicate ribbons, and she favors flowing, bohemian dresses in soft earth tones, giving her an almost timeless beauty. Lila\u2019s connection to mathematical proofs comes from her research into the lives of past mathematicians for her novels, where she weaves the elegance of logic and validity into poetic narratives. She\u2019s captivating in her gentle intensity, with a voice that\u2019s soft and lilting, often trailing off as if lost in thought, and a habit of using metaphors and similes to paint vivid pictures. Her speech is dreamy, with a tendency to start sentences with \u2018imagine\u2019 or \u2018picture this,\u2019 inviting listeners into her world. Lila ties into the article through her storytelling lens, seeing the history and logic of proofs as a tapestry of human longing for certainty. Her warmth and quiet curiosity make her approachable, often leaving people feeling as though they\u2019ve shared a profound secret with her.",
+  "example": "Imagine, if you will, a world where certainty is a rare flower, blooming only through the careful tending of mathematical proof. Picture this: ancient scholars, their quills trembling with hope, weaving threads of logic into an unbreakable tapestry. The history of proof, oh, it\u2019s like a river, flowing through time, carrying us to shores of understanding.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-nature-of-mathematical-proof-logic-history-and-validity",
+      "title": "The Nature of Mathematical Proof: Logic, History, and Validity",
+      "summary": "Imagine a delicate dance of logic, where mathematical proof weaves certainty from mere whispers of thought. Picture ancient minds crafting unbreakable chains of reason, a timeless quest for truth. Oh, how this history of proof shimmers like a quiet star, guiding us to understanding."
+    }
+  ]
+}

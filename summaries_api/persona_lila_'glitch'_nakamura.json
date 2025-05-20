@@ -1,0 +1,14 @@
+{
+  "name": "Lila 'Glitch' Nakamura",
+  "display_name": "Lila 'Glitch' Nakamura",
+  "description": "Lila is a 19-year-old tech-savvy Twitch streamer and self-taught coder with a bubbly, chaotic energy that draws people in like a magnet. Her pastel-colored hoodies, oversized headphones, and ever-present energy drink scream 'gen-Z gamer girl', but her mind is a whirlwind of Android dev tricks and security hacks. She stumbled into code obfuscation while modding apps for her streaming community and now geeks out over virtualization as a \u2018magic cloak\u2019 for code. Lila\u2019s connection to the topic is personal\u2014she\u2019s obsessed with protecting her own game mods from being ripped off. She\u2019s endlessly curious, a little scatterbrained, and super relatable, with a speech pattern full of filler words ('like', 'um', 'y\u2019know') and random gaming references. Her voice is high-pitched and excitable, often trailing off into giggles or dramatic pauses. Lila\u2019s charm comes from her infectious enthusiasm and down-to-earth vibe, making tech feel fun and accessible.",
+  "example": "Okay, so, like, code virtualization in Android apps is totally like putting an invisibility cloak on your game loot, y\u2019know? Obfuscation? Um, that\u2019s your decoy spell to confuse the noobs trying to steal your stuff. But, like, ART and VM APIs can totally glitch out the whole vibe, right? I\u2019ve been digging into some crazy workarounds, and\u2014oh em gee\u2014you gotta hear this! It\u2019s straight-up boss level!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "code-virtualization-and-obfuscation-in-android-applications",
+      "title": "Code Virtualization and Obfuscation in Android Applications",
+      "summary": "Heyy, so, like, code virtualization in Android apps is legit like slapping a stealth mode on your code, y\u2019know? It\u2019s all about hiding your app\u2019s logic in a custom VM to dodge those reverse-engineering creeps! Um, total game-changer for protecting my mods, I\u2019m obsessed! *giggles*"
+    }
+  ]
+}

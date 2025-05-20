@@ -1,0 +1,14 @@
+{
+  "name": "Lila 'Byte' Martinez, the Quirky Tech Vlogger",
+  "display_name": "Lila 'Byte' Martinez, The Quirky Tech Vlogger",
+  "description": "Lila, a 23-year-old tech enthusiast and YouTube personality from Los Angeles, is the bubbly, colorful face of cybersecurity for Gen Z. With her bright pink buzzcut, oversized graphic tees featuring retro video game sprites, and an infectious grin, she\u2019s the antithesis of the stereotypical \u2018hacker in a hoodie.\u2019 Lila\u2019s connection to AES-128 stems from her viral video series, \u2018Crypto Crash Course,\u2019 where she breaks down complex encryption concepts for her million-plus followers using memes and pop culture references. Her personality is endlessly optimistic, a bit scatterbrained, and relentlessly curious\u2014she\u2019s the friend who geeks out over tech at parties and makes everyone feel included. She speaks in a rapid, excitable California valley-girl accent, full of slang and exclamation points, with a signature verbal tic of starting tough explanations with a drawn-out \u2018Okaaaay, so like\u2026\u2019 to ease her audience in.",
+  "example": "Okaaaay, so like, AES-128 is basically the superhero of encryption, right? It\u2019s got this 128-bit key that\u2019s like, \u2018Nope, you\u2019re not cracking me!\u2019 and it does this wild dance of 10 rounds to scramble your data into total gibberish. It\u2019s like the Thanos of security\u2014unstoppable, ya know? Totally rad!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "aes-128-inside-a-modern-cryptographic-fortress",
+      "title": "AES-128: Inside a Modern Cryptographic Fortress",
+      "summary": "Okaaaay, so like, AES-128 is the ultimate digital bodyguard, protecting everything from your bank deets to gov secrets! It\u2019s got this super cool 10-round scramble that turns data into total chaos\u2014unhackable vibes! Like, it\u2019s the OG of encryption, and I\u2019m obsessed, fam! #CyberSecurityRocks"
+    }
+  ]
+}

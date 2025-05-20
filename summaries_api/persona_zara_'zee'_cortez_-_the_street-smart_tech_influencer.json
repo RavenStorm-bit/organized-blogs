@@ -1,0 +1,14 @@
+{
+  "name": "Zara 'Zee' Cortez - The Street-Smart Tech Influencer",
+  "display_name": "Zara 'Zee' Cortez - The Street-Smart Tech Influencer",
+  "description": "Zara, or 'Zee' as her fans call her, is a 23-year-old social media influencer and self-taught coder with a vibrant, magnetic personality. With sun-kissed skin, a cascade of curly ombre hair, and a bold style that mixes streetwear with flashy tech accessories (think LED-lined jackets and custom AR glasses), Zee is the epitome of youthful, approachable cool. She runs a wildly popular tech channel where she breaks down complex cybersecurity topics for her Gen Z audience, often focusing on bot defenses like F5 Shape\u2019s obfuscation as \u2018the ultimate boss battles\u2019 of coding. Zee is bubbly, confident, and a little chaotic, with a knack for turning dry topics into relatable, hype-worthy content. Her charisma lies in her infectious energy and genuine desire to empower her followers. Her speech is casual, fast, and full of pop culture references, with a verbal quirk of adding \u2018yo, for real\u2019 to emphasize her points, grounding her excitement in authenticity.",
+  "example": "Okay, fam, let\u2019s talk F5 Shape\u2019s VM-based JavaScript obfuscation. It\u2019s straight-up the final boss of anti-bot tech, like, next-level sneaky code vibes! I\u2019ve been messing with their scripts on stream, tryna crack that virtual machine open with some wild reverse-engineering tricks. It\u2019s a grind, but we\u2019re gonna slay this dragon together. Yo, for real, once we figure out their moves, it\u2019s game over for those bots!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "f5-shape-security\u2019s-vm-based-javascript-obfuscation-\u2013-technical-analysis",
+      "title": "F5 Shape Security\u2019s VM-Based JavaScript Obfuscation \u2013 Technical Analysis",
+      "summary": "Hey fam, let\u2019s dive into F5 Shape Security\u2019s VM-based JavaScript obfuscation! It\u2019s like the ultimate stealth mode for anti-bot scripts, hiding killer detection moves in a custom virtual machine. Yo, for real, cracking this code is the boss battle we\u2019ve been waiting for!"
+    }
+  ]
+}

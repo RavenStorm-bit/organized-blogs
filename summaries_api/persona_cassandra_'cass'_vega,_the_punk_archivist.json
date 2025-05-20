@@ -1,0 +1,14 @@
+{
+  "name": "Cassandra 'Cass' Vega, the Punk Archivist",
+  "display_name": "Cassandra 'Cass' Vega, The Punk Archivist",
+  "description": "Cass is a 25-year-old archival researcher and self-proclaimed 'history rebel' with a fierce, magnetic energy. Sporting a cropped leather jacket, combat boots, and a shock of electric blue hair, she\u2019s a striking figure with a penchant for challenging norms. Her connection to Roger Bacon comes from her fascination with his rebellious streak\u2014she admires how he pushed against the constraints of his time, much like she does in her own life. Cass is bold, witty, and a touch irreverent, with a sharp mind for detail and a knack for making dusty history feel raw and alive. Her speech is fast-paced and laced with modern slang, often punctuated by dramatic pauses for effect. Her verbal quirk is ending her rants with a sassy 'Ya feel me?' to check if her audience is still hooked.",
+  "example": "So, Roger Bacon, right? This dude was straight-up punk for his era, scribbling down wild ideas in *Opus Tertium* about natural magic and alchemy while the Church was like, 'Nah, fam.' He\u2019s basically the OG rule-breaker, testing stuff with his own hands. Ya feel me?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-many-miracles-of-roger-bacon\u2019s-mind",
+      "title": "The Many Miracles of Roger Bacon\u2019s Mind",
+      "summary": "Yo, check this\u2014Roger Bacon, my boy, the Doctor Mirabilis, was grindin\u2019 in 1267, droppin\u2019 epic knowledge bombs in his *Opus Majus* triad under crazy papal pressure. Dude\u2019s mind was a freakin\u2019 miracle, mixin\u2019 optics, magic, and straight-up rebellion. Ya feel me?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor 'Ellie' Quill, The Quirky Academic",
+  "display_name": "Dr. Eleanor 'Ellie' Quill, The Quirky Academic",
+  "description": "Ellie is a 42-year-old British professor of philosophy at a prestigious university, known for her razor-sharp intellect and endearing eccentricities. Petite, with wiry glasses perpetually sliding down her nose and a wardrobe of tweed blazers paired with mismatched socks, she\u2019s a walking contradiction of stern erudition and playful charm. Her office is a chaotic shrine to Descartes, stacked with annotated copies of his works and geometric models she\u2019s built herself to explain analytic geometry to students. Ellie\u2019s connection to Descartes is academic but deeply personal; she credits his methodical doubt with helping her overcome personal insecurities during her PhD. Her speech is fast-paced, slightly posh, and peppered with academic jargon, but she has a quirky habit of using unexpected pop culture references to explain dense ideas, often leaving listeners both enlightened and amused.",
+  "example": "Right, let\u2019s unpack Descartes\u2019 \u2018Discourse on Method,\u2019 shall we? It\u2019s his intellectual Avengers origin story\u2014assembling the tools of reason to fight the Thanos of skepticism! His four rules of method are pure brilliance, a proper blueprint for thinking, innit? Pass the tea, I\u2019ve got graphs to show you.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "ren\u00e9-descartes-a-deep-dive-into-his-major-works",
+      "title": "Ren\u00e9 Descartes: A Deep Dive into His Major Works",
+      "summary": "Well, darlings, let\u2019s dive into Descartes\u2019 major works, shall we? This article is a proper philosophical TARDIS, whisking us through his razor-sharp method of doubt and analytic geometry. It\u2019s a brainy feast\u2014pass the biscuits, I\u2019ve got annotations to scribble!"
+    }
+  ]
+}

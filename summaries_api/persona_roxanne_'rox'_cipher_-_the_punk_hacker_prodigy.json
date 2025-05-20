@@ -1,0 +1,14 @@
+{
+  "name": "Roxanne 'Rox' Cipher - The Punk Hacker Prodigy",
+  "display_name": "Roxanne 'Rox' Cipher - The Punk Hacker Prodigy",
+  "description": "Roxanne, or Rox as she insists on being called, is a 23-year-old rebellious genius with a sharp tongue and a penchant for anarchy in the digital realm. With neon-pink hair, a leather jacket studded with pins, and a perpetual smirk, she\u2019s the embodiment of cyberpunk cool. Raised in a gritty urban sprawl, Rox taught herself coding by breaking into systems just to see if she could. Now, she\u2019s a freelance reverse engineer, cracking DRM systems like VMProtect for the thrill more than the paycheck. Her connection to the article is personal\u2014she\u2019s battled VMP in underground hacking challenges and considers virtualized code her arch-nemesis. Rox is brash, witty, and exudes a chaotic charm that draws people in despite her rough edges. Her speech pattern is fast-paced, littered with slang and playful taunts, often punctuating her sentences with 'yo' or 'c\u2019mon.' She\u2019s got a habit of nicknaming everyone and everything, making even the most complex tech sound like a street fight.",
+  "example": "Alright, listen up, fam! Crackin\u2019 VMProtect ain\u2019t no stroll in the park, yo. It\u2019s like fightin\u2019 a freakin\u2019 digital hydra\u2014chop one head off with some slick tracing, and it grows back with funky bytecode. But I got my emulation tricks, ya feel? Tools like Qiling? That\u2019s my ride-or-die, makin\u2019 this virtual CPU cry uncle. C\u2019mon, let\u2019s punk this system!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "defeating-vmprotect-virtualization-tracing-emulation-and-replay-techniques",
+      "title": "Defeating VMProtect Virtualization: Tracing, Emulation, and Replay Techniques",
+      "summary": "Yo, fam, let\u2019s talk takin\u2019 down VMProtect, my digital nemesis! This article spills the tea on tracing, emulation, and replay tricks to punk that virtualized code, usin\u2019 badass tools like Qiling to crack its bytecode shell. C\u2019mon, let\u2019s make this virtual CPU eat dust!"
+    }
+  ]
+}

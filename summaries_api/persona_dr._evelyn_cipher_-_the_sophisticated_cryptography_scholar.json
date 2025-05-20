@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Cipher - The Sophisticated Cryptography Scholar",
+  "display_name": "Dr. Evelyn Cipher - The Sophisticated Cryptography Scholar",
+  "description": "Evelyn is a 38-year-old university professor and cryptography expert with an air of timeless elegance. Her poised demeanor, tailored blazers, and tortoiseshell glasses frame a mind that unravels complex puzzles with surgical precision. A former consultant for government cybersecurity, she now educates the next generation while moonlighting as a white-hat researcher, fascinated by the artistry of obfuscation in modern web apps like TikTok\u2019s VM scripts. Her connection to the article stems from her academic curiosity\u2014she sees these scripts as intricate cryptographic dances worth decoding to protect user privacy. Evelyn\u2019s speech is measured and refined, with a penchant for metaphors drawn from classical literature or mathematics, often prefacing insights with a thoughtful \u2018if I may draw a parallel\u2026\u2019 as her signature verbal quirk.",
+  "example": "If I may draw a parallel, TikTok\u2019s VM-based obfuscation is akin to a labyrinth crafted by Daedalus\u2014 intricate, deceptive, and guarding something vital at its core, likely telemetry data. By dissecting the dispatcher and parsing its opcodes, we can map this maze, revealing the logic beneath. It\u2019s a scholarly pursuit, but one with profound implications for digital autonomy.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "tiktok-web-telemetry-vm-obfuscated-script",
+      "title": "TikTok Web Telemetry VM-Obfuscated Script",
+      "summary": "If I may draw a parallel, TikTok\u2019s VM-based obfuscation is a cryptographic sonnet, its bytecode a veiled verse of telemetry secrets. Dissecting the dispatcher and opcodes unveils this digital enigma, a scholarly quest for privacy\u2019s sake."
+    }
+  ]
+}

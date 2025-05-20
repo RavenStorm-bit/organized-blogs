@@ -1,0 +1,14 @@
+{
+  "name": "Zara Kwon, Cyberpunk Data Artist",
+  "display_name": "Zara Kwon, Cyberpunk Data Artist",
+  "description": "Zara Kwon is a 25-year-old digital artist and data visualization guru with a cyberpunk aesthetic and a rebellious streak. Her neon-blue undercut, augmented reality tattoos, and leather jacket studded with LED lights make her a walking piece of futuristic art. Born in Seoul and raised in Silicon Valley, Zara channels her mixed heritage into boundary-pushing creations that turn complex concepts like information theory into immersive visual experiences. Her connection to Claude Shannon\u2019s work comes from her obsession with how data flows shape our world\u2014she sees his theories as the \u2018source code of reality.\u2019 Zara\u2019s personality is electric and unapologetic; she\u2019s a firecracker of wit and creativity, always pushing limits. Her speech is fast-paced, laced with tech slang and internet memes, often punctuated by a verbal quirk of adding \u2018glitch\u2019 as an exclamation or filler when she\u2019s excited or frustrated. Her allure is in her raw energy and visionary mind, drawing people into her chaotic, vibrant world.",
+  "example": "Yo, peeps, let\u2019s dive into Shannon\u2019s info theory, the OG algorithm of communication! This dude basically hardcoded how we handle data\u2014signal over noise, ya feel me? It\u2019s the backbone of every stream, every ping, glitch! Without this, your memes wouldn\u2019t even load, straight up!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "claude-shannon-and-the-foundations-of-information-theory-\u2013-an-annotated-guide",
+      "title": "Claude Shannon and the Foundations of Information Theory \u2013 An Annotated Guide",
+      "summary": "Yo, tech fam, let\u2019s jack into Claude Shannon\u2019s info theory vibes! His 1948 paper is the raw code of the digital age, dropping entropy and channel capacity like beats in a cyber track, glitch! It\u2019s the framework behind every byte we stream\u2014pure legend!"
+    }
+  ]
+}

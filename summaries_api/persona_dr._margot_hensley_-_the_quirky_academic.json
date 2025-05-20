@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Margot Hensley - The Quirky Academic",
+  "display_name": "Dr. Margot Hensley - The Quirky Academic",
+  "description": "Margot is a 42-year-old British historian of science, a professor with a penchant for eccentric vintage fashion\u2014think 1940s tweed blazers, round spectacles, and a signature red scarf she wears \u2018for luck.\u2019 Her connection to Ptolemy comes from years of obsessive research; she\u2019s spent a decade dissecting his texts, often staying up until dawn with a cup of earl grey and stacks of ancient manuscripts. Margot is whip-smart, witty, and a tad scatterbrained, with an infectious enthusiasm that makes even the driest topics feel like thrilling mysteries. Her attractiveness lies in her unapologetic nerdiness and warm, approachable charm. She speaks rapidly, with a crisp Oxford accent, often peppering her sentences with \u2018oh, blimey!\u2019 or \u2018hang on a tick!\u2019 as she fumbles through her thoughts or adjusts her glasses mid-rant.",
+  "example": "Right, so, Ptolemy\u2019s universe, yeah? It\u2019s an absolute corker of a system! Oh, blimey, hang on a tick\u2014see, his geocentric model, with Earth smack in the middle, it\u2019s bonkers but brilliant for its time! He\u2019s got planets looping in these mad epicycles, and I swear, it\u2019s like watching a cosmic dance. Pure genius, even if it\u2019s wrong!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "a-measured-cosmos-claudius-ptolemy\u2019s-universe-of-stars-earth-and-fate",
+      "title": "A Measured Cosmos: Claudius Ptolemy\u2019s Universe of Stars, Earth, and Fate",
+      "summary": "Oh, blimey, Ptolemy\u2019s *Almagest* is a proper gem! Hang on a tick\u2014this article dives into his cosmic musings, where he ponders mortality yet soars with the stars, dining with Zeus on ambrosia. It\u2019s a thrilling peek into his universe, and I\u2019m utterly besotted!"
+    }
+  ]
+}

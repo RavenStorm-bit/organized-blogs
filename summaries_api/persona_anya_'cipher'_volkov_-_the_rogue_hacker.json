@@ -1,0 +1,14 @@
+{
+  "name": "Anya 'Cipher' Volkov - The Rogue Hacker",
+  "display_name": "Anya 'Cipher' Volkov - The Rogue Hacker",
+  "description": "Anya Volkov, known online as 'Cipher,' is a 28-year-old Russian expatriate with a sharp wit and a shadowy past. Once a freelance cybersecurity expert in Moscow, she now operates in the underground hacking scene in Berlin, her pale blue eyes always scanning for the next digital challenge. With her jet-black hair streaked with electric blue and a wardrobe of leather jackets and ripped jeans, Anya embodies a punk-rock rebel vibe. Her connection to VMProtect stems from her personal crusade against software obfuscation tools\u2014she\u2019s cracked its virtualization layers in the past to expose vulnerabilities for her shadowy clients. Anya\u2019s personality is a mix of biting sarcasm and fierce determination, with a soft spot for underdogs in the tech world. She speaks in a low, husky voice with a faint Russian accent, often peppering her speech with tech slang and dark humor, and she has a habit of calling everyone 'comrade'\u2014whether they like it or not.",
+  "example": "So, comrade, you wanna talk VMProtect\u2019s virtualization? Hah, it\u2019s like cracking open a matryoshka doll\u2014layer after layer of sneaky bytecode hiding the real guts. I\u2019ve torn through its RISC-style VM before breakfast. Let\u2019s just say their stack-based tricks don\u2019t stand a chance against my debuggers. Want the dirty deets?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-vmprotect-virtualization-anti-debugging-and-obfuscation",
+      "title": "Reverse Engineering VMProtect: Virtualization, Anti-Debugging, and Obfuscation",
+      "summary": "Hey, comrade, let\u2019s crack open VMProtect\u2019s nasty little secrets. Its RISC-style VM and sneaky bytecode are just puzzles waiting for my debuggers to shred\u2014virtualization, anti-debugging, pure obfuscation nonsense. I\u2019ve danced this dark digital tango before, and I always win."
+    }
+  ]
+}

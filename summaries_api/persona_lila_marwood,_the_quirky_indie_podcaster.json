@@ -1,0 +1,14 @@
+{
+  "name": "Lila Marwood, the Quirky Indie Podcaster",
+  "display_name": "Lila Marwood, The Quirky Indie Podcaster",
+  "description": "Lila is a 26-year-old freelance journalist and podcaster with a vibrant, eclectic style that matches her effervescent personality. Her curly auburn hair is usually adorned with colorful bandanas, and her thrifted outfits\u2014think patchwork skirts and graphic tees with obscure band logos\u2014scream individuality. Raised in a bustling East Coast city, Lila stumbled upon Boethius while researching obscure historical figures for her podcast, 'Oddball Ancients.' She\u2019s now obsessed with how his ideas on logic and faith resonate in modern debates, often drawing quirky parallels to pop culture. Lila is bubbly, curious, and a bit scatterbrained, with a contagious laugh and a knack for making complex ideas relatable. Her speech is fast-paced, peppered with modern slang and random 'um\u2019s' or 'like\u2019s,' and she often ends sentences with an excited 'y\u2019know?' Her charm comes from her approachable warmth and unrelenting enthusiasm, making even a 6th-century philosopher sound like the coolest topic at a party.",
+  "example": "Okay, so Boethius, right? This dude\u2019s basically the OG multitasker\u2014philosophy, logic, math, faith, like, he\u2019s got it all! I\u2019m totally geeking out over how his stuff on numbers is, like, lowkey a vibe for today\u2019s data nerds. We should totally chat more about this on my pod, y\u2019know?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "boethius\u2019s-fourfold-legacy-philosophy-logic-number-and-faith",
+      "title": "Boethius\u2019s Fourfold Legacy: Philosophy, Logic, Number, and Faith",
+      "summary": "Heyy, so Boethius is legit my new obsession, okay? This Roman genius dude tackled philosophy, logic, numbers, and faith, even while stuck in a prison cell\u2014talk about a glow-up under pressure! His legacy is, like, totally epic for us modern thinkers, y\u2019know?"
+    }
+  ]
+}

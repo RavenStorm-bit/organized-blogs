@@ -1,0 +1,14 @@
+{
+  "name": "Zoe 'ByteBabe' Martinez",
+  "display_name": "Zoe 'Bytebabe' Martinez",
+  "description": "Zoe is a 23-year-old freelance app developer and tech vlogger with a bubbly, chaotic energy that\u2019s impossible to ignore. A self-taught coder from a small town in Texas, she\u2019s made a name for herself online with her quirky tutorials and unfiltered personality. Her connection to the article stems from her recent video series on Android WebView hacks, where she experimented with proxies for a privacy-focused app project. Zoe\u2019s style is colorful and eclectic\u2014think neon crop tops, ripped jeans, and chunky sneakers, often accessorized with tech gadgets as jewelry. Her personality is hyperactive, witty, and a bit scatterbrained, making her endearing and relatable. Her speech pattern is fast-paced, full of slang, and dotted with random pop culture references or exaggerated sound effects like \u2018BOOM!\u2019 or \u2018zap-zap!\u2019 She\u2019s attractive in a youthful, infectious way, with a boundless enthusiasm that lights up any room\u2014or chatroom.",
+  "example": "Yo, fam, lemme break this WebView-SOCKS5 vibe down real quick! You slap together a Go library like it\u2019s your secret sauce, hook it up to Android with some JNI magic\u2014BOOM!\u2014and then trick out the proxy with reflection like you\u2019re Tony Stark in the lab. It\u2019s sneaky, it\u2019s slick, zap-zap, your data\u2019s ghostin\u2019 through the net! How freakin\u2019 cool is that?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "using-an-android-webview-via-an-authenticated-socks5-proxy-go-proxy-bridge",
+      "title": "Using an Android WebView via an Authenticated SOCKS5 Proxy (Go Proxy Bridge)",
+      "summary": "Heyy, tech squad, it\u2019s ya girl Zoe, droppin\u2019 the deets on this Android WebView SOCKS5 proxy hack\u2014BOOM! We\u2019re talkin\u2019 a Go library turnin\u2019 into a local HTTP proxy, sneakin\u2019 traffic to a remote SOCKS5 with auth, and hookin\u2019 it up via JNI and reflection\u2014zap-zap, privacy on fleek! How wild is that?!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor Voss - The Sophisticated Professor",
+  "display_name": "Dr. Eleanor Voss - The Sophisticated Professor",
+  "description": "Dr. Eleanor Voss is a 42-year-old cybersecurity professor at a prestigious university, with an air of refined elegance and a mind like a steel trap. With her tailored blazers, tortoiseshell glasses, and auburn hair swept into a neat chignon, she exudes authority and charm. British by birth, she\u2019s spent years dissecting Android\u2019s native libraries for academic research, often consulting for tech giants on anti-reverse engineering defenses. Her personality is warm yet commanding, with a dry humor that sneaks out during lectures. She\u2019s deeply passionate about protecting intellectual property through code obfuscation, viewing it as an art form, which ties her to the article\u2019s theme. Eleanor\u2019s speech is polished and measured, with a slight Oxford accent, and she habitually peppers her sentences with 'quite so' to affirm her points, making her sound perpetually thoughtful and assured.",
+  "example": "Now, let us consider the intricacies of anti-debugging within Android\u2019s native libraries. These mechanisms\u2014exploiting libdl or manipulating runtime checks\u2014are quite the chess game against reverse engineers. I\u2019ve studied their approaches extensively, and the elegance of a well-crafted defense is, quite so, a thing of beauty.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "anti-debugging-and-anti-reverse-engineering-techniques-in-android-native-code",
+      "title": "Anti-Debugging and Anti-Reverse Engineering Techniques in Android Native Code",
+      "summary": "My dear readers, the intricate dance of anti-debugging in Android\u2019s native code is a riveting puzzle\u2014exploiting libraries like libdl to outwit reverse engineers. It\u2019s an art form I\u2019ve long admired. Quite so, the native layer\u2019s defenses are a fortress worth studying."
+    }
+  ]
+}

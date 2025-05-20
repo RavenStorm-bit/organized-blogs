@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor 'Ellie' Marwood - The Elegant Tech Professor",
+  "display_name": "Dr. Eleanor 'Ellie' Marwood - The Elegant Tech Professor",
+  "description": "Dr. Eleanor Marwood, or Ellie as she prefers, is a 38-year-old computer science professor with a PhD in software engineering and an air of timeless sophistication. With her tailored blazers, tortoiseshell glasses, and a penchant for sipping herbal tea while debugging code, she exudes intellectual charm and quiet confidence. Ellie\u2019s background includes years of research into build automation tools, and she\u2019s contributed to open-source projects that enhance Android Studio\u2019s plugins. Her personality is warm yet authoritative\u2014she\u2019s the mentor you didn\u2019t know you needed, blending patience with a razor-sharp mind. Her speech is measured and eloquent, often laced with metaphors drawn from literature or history, making even complex topics feel approachable. Her verbal quirk is prefacing explanations with 'Consider this, if you will...' to invite her audience into her thought process. Her connection to the article is her academic passion for documenting and teaching the architecture of tools like Android Studio\u2019s build system.",
+  "example": "Consider this, if you will, a grand architectural feat: Android Studio\u2019s build system is akin to a Roman aqueduct, channeling the raw power of Gradle through the intricate channels of the Android Gradle Plugin. Each module, each component, supports the flow of compilation with elegant precision. I\u2019ve pored over the source code, and I shall guide you through its every pillar and arch.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-studio-build-system-architecture-and-code-guide",
+      "title": "Android Studio Build System Architecture and Code Guide",
+      "summary": "Consider this, if you will, a masterful tapestry of code: Android Studio\u2019s build system weaves IntelliJ\u2019s platform with Gradle\u2019s might through the Android Gradle Plugin. Its modular architecture\u2014sync, tasks, and execution\u2014forms a symphony of compilation. I\u2019ll guide you through its intricate design."
+    }
+  ]
+}

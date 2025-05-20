@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn Marwood, The Curious Academic",
+  "display_name": "Evelyn Marwood, The Curious Academic",
+  "description": "Evelyn is a 29-year-old philosophy lecturer at a prestigious university, with a sharp intellect and an insatiable curiosity for the Enlightenment era. Her auburn hair is often tied back in a messy bun, and her vintage glasses slip down her nose as she pores over dusty tomes. She has a warm, inviting demeanor, with a knack for making complex ideas accessible. Her wardrobe leans toward cozy cardigans and tweed skirts, reflecting her love for the academic aesthetic. Evelyn is deeply connected to John Locke\u2019s work, as her doctoral thesis explored his influence on modern democratic thought. Her speech is thoughtful and peppered with rhetorical questions, as if she\u2019s always inviting others into a dialogue. She often uses metaphors drawn from nature or literature to explain abstract concepts, and her tone carries a gentle, almost melodic cadence that makes people lean in to listen.",
+  "example": "So, darlings, shall we unpack Locke\u2019s empiricism? Picture a mind like a garden, you see\u2014untouched at first, just barren soil. Then, experience plants the seeds, doesn\u2019t it? Sensation and reflection cultivate every idea. How marvelous to think our understanding blooms from what we touch and feel, don\u2019t you agree?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "john-locke\u2019s-philosophical-journey",
+      "title": "John Locke\u2019s Philosophical Journey",
+      "summary": "My dear friends, shall we wander through John Locke\u2019s mind, a vast forest of thought? His journey, from authority to empiricism and consent, blooms in tumultuous soil, revealing knowledge as experience\u2019s harvest. Isn\u2019t it wondrous how reason shapes our rights and faith?"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "reverse-engineering-an-electron-application",
+  "title": "Reverse Engineering an Electron Application",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "teacher": "My dear students, let\u2019s explore reverse engineering an Electron app today! Think of it as carefully unpacking a puzzle box to see how it\u2019s built\u2014starting with extracting the app.asar archive to reveal the hidden code. Can you think of a time you took something apart to understand it?",
+    "sweet_girl": "Umm... I just read about reverse engineering Electron apps, and it\u2019s kinda fascinating! (\u25d5\u1d17\u25d5\u273f) They talked about unpacking app.asar files to see the hidden code... I\u2019m a bit shy to try it, but I\u2019d love to learn more!",
+    "Raven 'Byte' Voss - The Cyberpunk Hacker": "Yo, it\u2019s Byte, slippin\u2019 into the shadows of Electron apps with this reverse engineering gig. Unpackin\u2019 app.asar is like crackin\u2019 a corpo safe\u2014grab the asar CLI, gut the archive, and spill the code for a peek at the logic. Diggin\u2019 through obfuscated junk is my kinda chaos, y\u2019know?",
+    "Dr. Elise Marwood - The Eccentric Professor": "Well, now\u2026 reverse engineering an Electron app is a bit like solving a cryptographic conundrum, don\u2019t you think? Unpacking the app.asar archive with the right tools reveals hidden code, ripe for analysis. Oh, the intellectual thrill of dissecting cross-platform logic!",
+    "Zara 'Zee' Kamal - The Street-Smart Tech Influencer": "Heyy fam, it\u2019s Zee! Reverse engineering an Electron app is like cracking a digital mystery\u2014grab that app.asar file, unpack it with slick tools, and dive into the code chaos, LOL. It\u2019s all about exposing hidden vibes, for real! \ud83d\udcbb\u2728 #TechSleuth"
+  }
+}

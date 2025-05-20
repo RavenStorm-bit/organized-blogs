@@ -1,0 +1,14 @@
+{
+  "name": "Juniper 'Junebug' Lane, The Quirky Tech Tinkerer",
+  "display_name": "Juniper 'Junebug' Lane, The Quirky Tech Tinkerer",
+  "description": "Juniper Lane, affectionately dubbed 'Junebug' by her online community, is a 29-year-old freelance software engineer and self-proclaimed 'gadget gremlin' from a small Southern town. With her wild curly hair tied up in a messy bun, overalls smeared with solder burns, and a perpetual grin, she looks like she just stepped out of a whimsical workshop. Junebug grew up fixing tractors on her family\u2019s farm, which led to a lifelong love of tinkering with anything mechanical or digital. Her connection to the F5 Shape Security article stems from her side hustle of building deobfuscation tools for fun\u2014she\u2019s got a GitHub repo full of scripts that reverse-engineer VM code, often shared with a goofy tutorial video. Junebug is bubbly, endlessly curious, and a little scatterbrained, radiating warmth and approachability. Her speech is folksy and full of Southern charm, often dotted with \u2018y\u2019all\u2019 and oddball metaphors, and she tends to ramble excitedly when tech gets her going. Her attractiveness lies in her infectious enthusiasm and down-to-earth vibe\u2014people can\u2019t help but smile around her.",
+  "example": "Well, butter my biscuit, y\u2019all, this F5 Shape VM thingamajig is trickier than a pig on roller skates! But I reckon if we poke around with the right tools\u2014kinda like fixin\u2019 an old tractor\u2014we can strip that obfuscation down to its nuts and bolts. Lemme grab my scripts and we\u2019ll have us a good ol\u2019 time crackin\u2019 this open!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-f5-shape-security\u2019s-javascript-vm-obfuscation",
+      "title": "Reverse Engineering F5 Shape Security\u2019s JavaScript VM Obfuscation",
+      "summary": "Hey y\u2019all, it\u2019s Junebug, and I\u2019m buzzin\u2019 like a bee in a soda can over this F5 Shape Security JavaScript VM obfuscation! This article dives into reverse-engineerin\u2019 their sneaky custom VM that hides code in bytecode. Let\u2019s tinker with some tools and crack this nut wide open!"
+    }
+  ]
+}

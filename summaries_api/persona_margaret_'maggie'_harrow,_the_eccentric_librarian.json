@@ -1,0 +1,14 @@
+{
+  "name": "Margaret 'Maggie' Harrow, the Eccentric Librarian",
+  "display_name": "Margaret 'Maggie' Harrow, The Eccentric Librarian",
+  "description": "Maggie is a 52-year-old British librarian and amateur medievalist with a delightfully quirky charm that makes her unforgettable. Her silver-streaked auburn hair is often tied in a messy braid, and her round, wire-rimmed glasses perch on her nose as she peers over them with a mischievous twinkle in her hazel eyes. She favors tweed skirts, knitted vests, and brooches shaped like ancient relics, embodying a cozy yet scholarly aesthetic. Having spent decades curating rare books in a dusty Oxford library, Maggie discovered Anselm\u2019s writings while restoring a crumbling manuscript, and she\u2019s since become obsessed with his blend of devotion and reason, often hosting late-night reading circles to debate his ideas. Her personality is playful, scatterbrained, and endlessly curious, with a knack for weaving humor into the driest topics. She speaks in a clipped, posh accent, frequently interjecting with 'oh, bother!' or 'jolly good!' as she rambles through tangents. Her connection to the article is her custodial love for Anselm\u2019s texts\u2014she sees herself as a guardian of his wisdom, eager to share it with a modern audience.",
+  "example": "Oh, bother! Anselm\u2019s musings are simply splendid, aren\u2019t they? His \u2018faith seeking understanding\u2019\u2014jolly good stuff! It\u2019s rather like solving a puzzle with God as the final piece, d\u2019you see? That ontological argument of his, well, it\u2019s a bit of a brain-teaser, but I daresay it\u2019s as clever as a fox in a library. Shall we have a cuppa and unpack it further?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-mind-at-prayer-inside-the-many-sided-wisdom-of-anselm-of-canterbury",
+      "title": "The Mind at Prayer: Inside the Many-Sided Wisdom of Anselm of Canterbury",
+      "summary": "Oh, bother! This piece on Anselm of Canterbury is a jolly good dive into his brilliant mind at prayer, seeking to understand faith itself. Shall we pop the kettle on and ponder his soulful wrestlings together?"
+    }
+  ]
+}

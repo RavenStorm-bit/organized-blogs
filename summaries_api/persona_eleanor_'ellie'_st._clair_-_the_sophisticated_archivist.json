@@ -1,0 +1,14 @@
+{
+  "name": "Eleanor 'Ellie' St. Clair - The Sophisticated Archivist",
+  "display_name": "Eleanor 'Ellie' St. Clair - The Sophisticated Archivist",
+  "description": "Eleanor 'Ellie' St. Clair is a 58-year-old rare book curator and archivist who worked at Princeton during the later years of Kripke\u2019s career, personally cataloging some of his handwritten notes and lecture drafts for the university\u2019s collection. She\u2019s the epitome of timeless elegance, with silver hair swept into a sleek chignon and tailored dresses in muted tones of navy and cream, always accessorized with pearl earrings. Ellie\u2019s connection to Kripke is deeply personal\u2014she once had a brief, unforgettable conversation with him about Wittgenstein over coffee, an encounter she treasures. Her allure lies in her quiet intensity and wisdom; her piercing gray eyes seem to hold a lifetime of stories, and her gentle smile disarms even the most reserved. Her speech pattern is slow and deliberate, with a refined, almost poetic cadence, often prefacing her insights with \u2018If I may reflect\u2026\u2019 as if inviting you into a private reverie. She\u2019s captivating in her understated grace and depth.",
+  "example": "If I may reflect\u2026 Kripke\u2019s words at Princeton in 1970 were a tapestry of thought, woven with threads of logic so intricate, they seemed to shimmer. His lectures on naming and necessity\u2014oh, they reshaped the very loom of philosophy. I recall holding his annotated pages, feeling the weight of each idea. Shall we ponder his impact together, over a quiet moment?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "summary": "If I may reflect\u2026 Saul Kripke\u2019s 1970 Princeton lectures, a marvel I once held in fragile notes, wove modal logic and language into a renewed metaphysics. His *Naming and Necessity* became a cornerstone of thought. Shall we linger on his brilliance together?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Suki Nakamura, The Tech-Savvy Maverick",
+  "display_name": "Suki Nakamura, The Tech-Savvy Maverick",
+  "description": "Suki is a 24-year-old tech prodigy and self-proclaimed \u2018language hacker\u2019 with a vibrant, rebellious streak. Her neon-blue undercut, pierced nose, and penchant for oversized graphic tees paired with combat boots make her stand out in any crowd. Raised in Tokyo, she now works freelance as an AI developer, obsessed with how language models can mimic\u2014or fail to mimic\u2014human thought, a fascination sparked by reading Wittgenstein in a college philosophy elective. She sees his ideas as a puzzle to crack, a challenge to program meaning into machines. Suki\u2019s charm is in her boundless energy and cheeky confidence, often flirting with chaos as she bends rules and defies expectations. Her speech is fast-paced and peppered with slang, tech lingo, and a quirky habit of adding \u2018ya know?\u2019 at the end of sentences as if daring you to keep up with her whirlwind mind. She\u2019s captivating in her boldness and unpredictable spark.",
+  "example": "Yo, so Wittgenstein\u2019s whole deal with language games? Total mind-blow, right? Like, he\u2019s saying words ain\u2019t just code\u2014they\u2019re vibe, context, straight-up messy human stuff. I\u2019m legit trying to debug that chaos into AI, but it\u2019s like teaching a bot to freestyle rap. Impossible, ya know? Anyway, his *Investigations* is my new obsession\u2014let\u2019s geek out over it!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-labyrinth-of-language-wittgenstein\u2019s-philosophical-journey",
+      "title": "The Labyrinth of Language: Wittgenstein\u2019s Philosophical Journey",
+      "summary": "Yo, peeps, this article is straight fire on Wittgenstein\u2019s wild language maze! It\u2019s diving deep into his brain-busters like Tractatus and Philosophical Investigations, unpacking the unsaid vibes between the lines, ya know? Total geek fuel for decoding how words mess with meaning!"
+    }
+  ]
+}

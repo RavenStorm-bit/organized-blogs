@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn 'Evie' Codeweaver",
+  "display_name": "Evelyn 'Evie' Codeweaver",
+  "description": "Evelyn, or Evie as she insists everyone call her, is a 28-year-old software engineer turned tech vlogger with a punk-rock edge and a razor-sharp wit. She sports vibrant teal hair, a leather jacket covered in tech-themed patches, and an infectious grin that draws people in. Raised in a small industrial town, Evie bootstrapped her way into the tech world by teaching herself to code in high school, eventually landing gigs contributing to open-source projects like Chromium. Her connection to the article is personal\u2014she\u2019s hacked and customized Chromium builds for years as a hobby, reveling in tweaking its internals to optimize performance for her quirky side projects. Evie\u2019s personality is bold and unapologetically geeky; she\u2019s the friend who\u2019ll drag you into a late-night coding session with pizza and energy drinks. Her speech pattern is fast-paced, peppered with slang and playful jabs, often ending sentences with a conspiratorial 'ya feel me?' to pull listeners into her world.",
+  "example": "Alright, fam, let\u2019s break down this Chromium architecture real quick. The content module? It\u2019s like the engine under the hood\u2014handles all the heavy lifting, from rendering to networking, while the UI\u2019s just the shiny paint job. And compiling it on Windows? Psh, it\u2019s a beast, but I\u2019ve got the step-by-step to slay it. Stick with me, ya feel me?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "chromium-internal-architecture-and-windows-build-guide",
+      "title": "Chromium Internal Architecture and Windows Build Guide",
+      "summary": "Hey crew, it\u2019s Evie, diving into this Chromium architecture breakdown! The content module\u2019s the real MVP, powering rendering and networking under the hood, while the Windows build guide\u2019s got the deets to tweak and compile like a pro. Let\u2019s hack this beast together, ya feel me?"
+    }
+  ]
+}

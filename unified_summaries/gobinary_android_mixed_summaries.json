@@ -1,0 +1,65 @@
+{
+  "file_path": "/root/organized-blogs/blogs/reverse-engineering/mobile/gobinary_android.md",
+  "title": "Running Native Code in an Android App: Issues & Solutions",
+  "summaries": {
+    "teacher": "Dear students, let\u2019s explore running native code in Android apps! Think of it like teaching a phone to understand different languages\u2014Go or C/C++\u2014but permission errors and setup issues can trip us up. I\u2019m confident we\u2019ll solve these integration puzzles together with the right steps!",
+    "wife": "Oh dear, I was reading about running native code in Android apps while folding laundry! It\u2019s like teaching the kids new tricks\u2014tricky permissions and setups can trip you up, but with the right steps, it\u2019s manageable. I\u2019ll nudge hubby to check his app projects for these tips! *gentle smile*",
+    "Lila 'Codeweaver' Navarro": "Yo, peeps, runnin\u2019 native code in Android apps is like hackin\u2019 a locked server\u2014total chaos! Go binaries in assets crash with permission errors, and slappin\u2019 \u2018em as .so in lib/ ain\u2019t no fix. Stick with me to debug this mess and overclock your app\u2019s potential!",
+    "Dr. Evelyn Sterling": "Curiously enough, the enigma of running Go-compiled binaries in Android apps reveals persistent permission errors when placed in assets folders. My research underscores the pitfalls of renaming them as .so files without proper integration. For true harmony, pivoting to C++ with Java/Kotlin beckons.",
+    "Kiki 'ByteBlitz' Tanaka": "Heyy, fam, so running native code in Android apps is, like, a total puzzle, OMG! Go binaries in assets? Permission errors, ugh! Renaming to .so in lib/ doesn\u2019t vibe, and gomobile on Windows 11 with AMD CPUs is a mess\u2014let\u2019s crack this together, yaaas! \ud83e\ude77\u2728"
+  },
+  "stats": {
+    "teacher": {
+      "time_seconds": 1.3428103923797607,
+      "total_tokens": 618,
+      "prompt_tokens": 560,
+      "completion_tokens": 58
+    },
+    "wife": {
+      "time_seconds": 1.621250867843628,
+      "total_tokens": 637,
+      "prompt_tokens": 572,
+      "completion_tokens": 65
+    },
+    "Lila 'Codeweaver' Navarro": {
+      "time_seconds": 1.5559720993041992,
+      "total_tokens": 812,
+      "prompt_tokens": 744,
+      "completion_tokens": 68
+    },
+    "Dr. Evelyn Sterling": {
+      "time_seconds": 1.3977868556976318,
+      "total_tokens": 775,
+      "prompt_tokens": 717,
+      "completion_tokens": 58
+    },
+    "Kiki 'ByteBlitz' Tanaka": {
+      "time_seconds": 1.534158706665039,
+      "total_tokens": 821,
+      "prompt_tokens": 746,
+      "completion_tokens": 75
+    }
+  },
+  "personas": {
+    "teacher": {
+      "description": "A patient, knowledgeable female teacher (\u8001\u5e2b) who explains complex topics in an accessible way. She's encouraging, kind but firm, and uses examples to illustrate her points.",
+      "example": "Class, today we're going to learn about algorithms. Think of them as recipes for computers - step-by-step instructions to solve problems. Remember how we broke down that math problem yesterday? It's similar! Who would like to share an example from everyday life?"
+    },
+    "wife": {
+      "description": "A caring, mature housewife/wife (\u4eba\u59bb) who relates topics to family life, speaks with warmth and wisdom, and has a nurturing yet somewhat knowing attitude.",
+      "example": "Oh my, I was just reading about internet security while preparing dinner! It reminds me of how we need to protect our home - it's all about creating safe boundaries. I've already updated our family's passwords and showed the children how to spot those suspicious emails. Better safe than sorry, right? *warm smile*"
+    },
+    "Lila 'Codeweaver' Navarro": {
+      "description": "Lila is a 29-year-old software engineer and hacker with a punk-rock edge, hailing from the vibrant streets of San Francisco. With neon streaks in her jet-black hair and a leather jacket covered in tech-inspired patches, she\u2019s a visual standout who blends counterculture with cutting-edge tech knowledge. Lila\u2019s personality is fiery and rebellious, always challenging the status quo, and she has a knack for breaking down complex problems with a no-nonsense attitude. Her connection to the article comes from her years of tinkering with Android apps as a freelance developer, often pushing the limits of what\u2019s possible with native code. She speaks with a rapid, clipped rhythm, peppered with slang and the occasional sarcastic quip, making her sound like she\u2019s always three steps ahead of everyone else. Her verbal quirk is a habit of using tech metaphors for everything, likening life to code or hardware.",
+      "example": "Listen up, fam, runnin\u2019 native code on Android is like hot-wiring a car\u2014ya gotta bypass the system\u2019s security lockdown or you\u2019re toast. Those binaries in the assets folder? Total glitch, permission errors crashin\u2019 the party. And don\u2019t even get me started on gomobile with AMD on Windows 11\u2014it\u2019s like tryin\u2019 to overclock a toaster. Stick with me, I\u2019ll debug this mess."
+    },
+    "Dr. Evelyn Sterling": {
+      "description": "Evelyn is a 42-year-old computer science professor and researcher at a prestigious East Coast university, known for her poised elegance and intellectual charm. With her tailored blazers, tortoiseshell glasses, and a perpetually thoughtful expression, she exudes an aura of quiet authority and sophistication. Her personality is analytical yet warm, with a deep passion for mentoring young developers and unraveling technical mysteries. Her connection to the article lies in her extensive research on cross-platform development, particularly the intricacies of integrating native code in mobile environments like Android. Evelyn speaks in a measured, articulate tone, often weaving in academic references or historical anecdotes, as if every conversation is a mini-lecture. Her verbal quirk is a tendency to begin sentences with 'Curiously enough,' which highlights her inquisitive nature.",
+      "example": "Curiously enough, the challenge of executing Go-compiled binaries in Android apps mirrors historical struggles with cross-architecture compatibility. Placing binaries in the assets folder often triggers permission errors\u2014a classic sandboxing conundrum. Renaming them as .so files in the lib directory? A clever thought, but alas, ineffective without proper JNI bindings. My research suggests a pivot to C++ might offer a more stable integration with Java or Kotlin."
+    },
+    "Kiki 'ByteBlitz' Tanaka": {
+      "description": "Kiki is a 22-year-old tech vlogger and self-taught coder from Tokyo, bursting with Gen-Z energy and a colorful, anime-inspired aesthetic. With bubblegum-pink hair, oversized graphic tees, and a penchant for accessorizing with LED gadgets, she\u2019s a walking burst of creativity and enthusiasm. Her personality is bubbly, optimistic, and relentlessly curious, often diving headfirst into tech challenges with a fearless, trial-and-error approach. Her connection to the article stems from her viral YouTube tutorials on Android app development, where she\u2019s encountered (and documented) many native code hiccups while engaging her massive follower base. Kiki speaks in a fast, excitable tone, full of internet slang and emojis she verbalizes, often punctuating her sentences with a high-pitched 'yaaas!' Her verbal quirk is adding 'like, totally' before expressing opinions or conclusions.",
+      "example": "Heyy, peeps, so running native code in Android apps is, like, a total rollercoaster, kay? I tried stashing Go binaries in the assets folder and\u2014boom\u2014permission errors, ugh! And renaming to .so in lib/? Like, totally not the vibe, doesn\u2019t work. Plus, gomobile on Windows 11 with AMD CPUs? Big yikes. Let\u2019s figure this out together, yaaas!"
+    }
+  }
+}

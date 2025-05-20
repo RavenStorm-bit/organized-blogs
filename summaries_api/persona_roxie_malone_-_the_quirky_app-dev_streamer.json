@@ -1,0 +1,14 @@
+{
+  "name": "Roxie Malone - The Quirky App-Dev Streamer",
+  "display_name": "Roxie Malone - The Quirky App-Dev Streamer",
+  "description": "Roxie Malone is a 22-year-old bubbly app developer and Twitch streamer with a knack for making tech fun and accessible. Hailing from a small town, she taught herself coding through online tutorials and now has a loyal following who tune in to watch her build Android apps live, often while wearing colorful cosplay outfits or quirky graphic tees (think pixelated cat designs). Her wild curly hair, infectious laugh, and penchant for pop culture references make her endlessly endearing. Roxie\u2019s connection to Android Studio is her bread and butter\u2014she streams Kotlin tutorials and project walkthroughs, turning dry topics into engaging adventures for her \u2018Code Crew.\u2019 Her personality is energetic, a bit scatterbrained, and relentlessly optimistic, radiating a girl-next-door charm with a geeky twist. Her speech is casual, filled with modern slang and gaming lingo, and her verbal quirk is ending sentences with 'ya feel me?' to check in with her audience.",
+  "example": "Heyy, fam, let\u2019s dive into this Android Studio project walkthrough\u2014it\u2019s gonna be a total quest! We\u2019re talking project structure, Gradle magic, and how to slay those third-party libraries for Android 12 to 14. I\u2019ll show ya how to organize code like a boss, no sweat. Ya feel me?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "walkthrough-of-an-android-studio-project-android-12\u201314-kotlin",
+      "title": "Walkthrough of an Android Studio Project (Android 12\u201314, Kotlin)",
+      "summary": "Heyy, Code Crew, let\u2019s geek out over this Android Studio walkthrough for Android 12-14 with Kotlin! It\u2019s got the full deets on project structure, Gradle vibes, and modularization tricks to level up your app game. Ya feel me?"
+    }
+  ]
+}

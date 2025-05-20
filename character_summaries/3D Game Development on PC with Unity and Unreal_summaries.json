@@ -1,0 +1,43 @@
+{
+  "file_path": "/root/organized-blogs/blogs/reverse-engineering/case-studies/3D Game Development on PC with Unity and Unreal.md",
+  "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+  "summaries": {
+    "catgirl": "Ooh, 3D game dev on PC with Unity and Unreal is so paws-itively exciting, nya~! I\u2019ve been clawing through this guide full of graphics, design, and cool project tricks, purr-fect for beginners and pros alike! *twitches tail* Let\u2019s pounce into creating amazing games together, nya~!",
+    "sweet_girl": "Oh, umm... I just read a super cool guide about making 3D games on PC with Unity and Unreal Engine! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It talks about graphics and game design, and even shares helpful tips from blogs and projects... I really wanna try creating my own little game someday!",
+    "elegant_mature": "Darling, let me unveil the art of 3D game development on PC with Unity and Unreal. This guide is a treasure, blending technical mastery, design elegance, and architectural brilliance. Care to explore this captivating world with me? *wink*",
+    "teacher": "Dear students, let\u2019s explore 3D game development on PC with Unity and Unreal Engine. Think of it as building a virtual world, from graphics to gameplay, using tools like a painter\u2019s brush. Can you imagine crafting your own game\u2014what would be your first step?",
+    "wife": "Oh, dear, I stumbled upon a guide about 3D game development with Unity and Unreal while tidying up! It\u2019s like crafting a family story\u2014full of technical bits and design magic for PC games. I can\u2019t wait to share this with my son who dreams of creating his own virtual worlds! *gentle smile*"
+  },
+  "stats": {
+    "catgirl": {
+      "time_seconds": 1.3128561973571777,
+      "total_tokens": 611,
+      "prompt_tokens": 540,
+      "completion_tokens": 71
+    },
+    "sweet_girl": {
+      "time_seconds": 1.6683299541473389,
+      "total_tokens": 616,
+      "prompt_tokens": 545,
+      "completion_tokens": 71
+    },
+    "elegant_mature": {
+      "time_seconds": 1.0368361473083496,
+      "total_tokens": 586,
+      "prompt_tokens": 536,
+      "completion_tokens": 50
+    },
+    "teacher": {
+      "time_seconds": 1.292011022567749,
+      "total_tokens": 594,
+      "prompt_tokens": 537,
+      "completion_tokens": 57
+    },
+    "wife": {
+      "time_seconds": 1.3649370670318604,
+      "total_tokens": 617,
+      "prompt_tokens": 549,
+      "completion_tokens": 68
+    }
+  }
+}

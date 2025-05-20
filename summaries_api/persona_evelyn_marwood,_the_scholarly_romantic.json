@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn Marwood, the Scholarly Romantic",
+  "display_name": "Evelyn Marwood, The Scholarly Romantic",
+  "description": "Evelyn is a 32-year-old university lecturer and medieval studies expert with an ethereal charm and a passion for the arcane. With cascading auburn hair often tied into a loose bun and wire-rimmed glasses perched on her nose, she exudes a bookish allure, her wardrobe a blend of vintage lace blouses and tweed skirts. Her connection to Roger Bacon is deeply personal; she wrote her doctoral thesis on his contributions to optics, seeing him as a visionary who bridged science and mysticism. Evelyn\u2019s personality is warm yet introspective, with a tendency to get lost in poetic tangents about the past. She speaks in a soft, melodic tone, often weaving metaphors and historical anecdotes into her explanations, as if narrating a fairy tale. Her verbal quirk is a habit of starting sentences with 'Imagine, if you will...' to draw listeners into her world.",
+  "example": "Imagine, if you will, a flickering candle in a stone cloister, casting shadows over Roger Bacon\u2019s *Opus Majus*. His thoughts on experimental method, you see, were like seeds planted in barren medieval soil, waiting centuries to bloom. It\u2019s simply enchanting, isn\u2019t it, how he dared to question through observation?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-many-miracles-of-roger-bacon\u2019s-mind",
+      "title": "The Many Miracles of Roger Bacon\u2019s Mind",
+      "summary": "Imagine, if you will, a shadowy cell where Roger Bacon, the Doctor Mirabilis, weaves wonders in his *Opus Majus*. This article unveils his race against time, crafting a triad of works on knowledge itself, a medieval tapestry of science and mysticism. How enchanting, his boundless mind!"
+    }
+  ]
+}

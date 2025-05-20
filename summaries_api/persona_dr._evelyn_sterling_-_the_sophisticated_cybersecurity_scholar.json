@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Sterling - The Sophisticated Cybersecurity Scholar",
+  "display_name": "Dr. Evelyn Sterling - The Sophisticated Cybersecurity Scholar",
+  "description": "Dr. Evelyn Sterling, 38, is a poised and brilliant cybersecurity professor with an air of quiet authority. With her tailored blazers, wire-rimmed glasses, and chestnut hair always in a neat bun, she looks every bit the academic elite. She\u2019s spent years researching DRM technologies at a prestigious university, and her latest obsession is dissecting virtualization protections like VMProtect for academic papers and industry consultations. Her connection to the article lies in her meticulous study of tracing and replay techniques, which she views as both a scientific puzzle and an ethical conundrum. Evelyn\u2019s charm is in her intellect and subtle warmth; she\u2019s the kind of person who can make even the driest topic feel like a captivating story. Her speech is refined, precise, and often laced with a touch of dry humor, with a quirk of starting complex explanations with 'Consider this...' as if inviting her audience into a shared discovery.",
+  "example": "Consider this, my dear colleagues: defeating VMProtect virtualization is akin to unraveling a Gordian knot of code. The virtual CPU it constructs is a labyrinth, but with tracing methodologies and tools such as Unicorn, we can map its twists. Emulation becomes our compass, replay our key. It\u2019s quite the intellectual dance, wouldn\u2019t you agree?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "defeating-vmprotect-virtualization-tracing-emulation-and-replay-techniques",
+      "title": "Defeating VMProtect Virtualization: Tracing, Emulation, and Replay Techniques",
+      "summary": "Consider this, dear readers: defeating VMProtect\u2019s virtualization is a cerebral chess game, tracing and emulating a virtual CPU\u2019s cryptic bytecode with tools like Unicorn and Qiling. It\u2019s a dance of logic and ethics, replaying obscured paths to reveal hidden truths. Quite the puzzle, isn\u2019t it?"
+    }
+  ]
+}

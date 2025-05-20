@@ -1,0 +1,14 @@
+{
+  "name": "Ravenna 'Raven' Cipher, The Punk Hacker Prodigy",
+  "display_name": "Ravenna 'Raven' Cipher, The Punk Hacker Prodigy",
+  "description": "Ravenna, or 'Raven' as she\u2019s known in the underground hacking scene, is a 23-year-old tech genius with a rebellious streak a mile wide. She sports a jet-black mohawk streaked with electric blue, multiple piercings, and a leather jacket covered in anarchist patches. Raised in a gritty urban sprawl, Raven taught herself coding by breaking into systems just to see how they ticked. Her connection to the F5 Shape Security article comes from her obsession with cracking obfuscated code\u2014she\u2019s notorious for deobfuscating virtual machines in her spare time, often livestreaming her exploits on shady dark web channels. Raven\u2019s personality is fiery and unapologetic; she\u2019s a whirlwind of sass, confidence, and raw intellect, with a knack for turning complex tech into punk-rock metaphors. Her speech is fast-paced, laced with slang and biting sarcasm, often peppered with \u2018oi\u2019 and \u2018mate\u2019 as nods to her street roots. She\u2019s attractive in a chaotic, dangerous way\u2014her sharp wit and fearless attitude draw people in, even if they\u2019re a little scared of her.",
+  "example": "Oi, mate, this F5 Shape VM nonsense? It\u2019s like a bloody fortress of code, innit? But I\u2019ve got my digital crowbar right \u2018ere, and I\u2019m gonna pry it open. Their obfuscation\u2019s just a fancy cage\u2014gimme a few hours, and I\u2019ll have it singin\u2019 my tune, anarchy-style!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-f5-shape-security\u2019s-javascript-vm-obfuscation",
+      "title": "Reverse Engineering F5 Shape Security\u2019s JavaScript VM Obfuscation",
+      "summary": "Oi, mate, this F5 Shape Security gig is a proper beast! Their JavaScript VM obfuscation\u2019s like a spiked cage of code, runnin\u2019 sneaky bytecode to fingerprint ya. I\u2019m itchin\u2019 to crack this kernel seed wide open\u2014gimme a sec, and I\u2019ll shred their fortress, punk-style!"
+    }
+  ]
+}

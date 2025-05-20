@@ -1,0 +1,254 @@
+{
+  "name": "sweet_girl",
+  "display_name": "Sweet Girl",
+  "description": "",
+  "example": "",
+  "article_count": 100,
+  "articles": [
+    {
+      "id": "foundational-principles-of-data-structures",
+      "title": "Foundational Principles of Data Structures",
+      "summary": "Umm... I read a little about data structures today, and they\u2019re like the building blocks of computers! It\u2019s so amazing how they organize information... I hope I can understand more soon! (\u25d5\u03c9\u25d5\u273f)"
+    },
+    {
+      "id": "optimized-xray-configurations-for-mainland-china",
+      "title": "Optimized Xray Configurations for Mainland China",
+      "summary": "Oh, umm... I read about Xray configurations for mainland China, and it\u2019s so fascinating how they help bypass censorship! (\u25d5\u203f\u25d5\u273f) I hope these tips on protocols and setups can help people stay connected... I\u2019ll try to understand more!"
+    },
+    {
+      "id": "abstract-syntax-trees-asts-a-comprehensive-deep-dive",
+      "title": "Abstract Syntax Trees (ASTs): A Comprehensive Deep Dive",
+      "summary": "Umm... I just read about Abstract Syntax Trees, and they\u2019re like little tree structures for code! (\u25d5\u203f\u25d5\u2661) They help computers understand programs by organizing them neatly, which is so sweet! I\u2019m a bit shy to dive deeper, but I\u2019ll try my best to learn more!"
+    },
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Umm... I just read about Android AAR packages, and they\u2019re so fascinating! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) They\u2019re like little bundles with code and stuff for apps, and I\u2019m amazed at how they work with builds... I hope I can understand more soon!"
+    },
+    {
+      "id": "advanced-code-obfuscation-and-reverse-engineering-a-technical-review",
+      "title": "Advanced Code Obfuscation and Reverse Engineering: A Technical Review",
+      "summary": "Oh, umm... I read about code obfuscation today, and it\u2019s like hiding a secret in software so no one can figure it out easily! It\u2019s kinda tricky with all the confusing changes, but it protects important stuff... I hope I can understand it better soon! (\u25d5\u203f\u25d5\u273f)"
+    },
+    {
+      "id": "this-will-take-a-bit-since-it\u2019s-a-heavily-obfuscated-virtual-machine-pattern-i\u2019ll-let-you-know-when",
+      "title": "This will take a bit since it\u2019s a heavily obfuscated virtual machine pattern. I\u2019ll let you know when",
+      "summary": "Umm... I read about deobfuscating JavaScript today, and it\u2019s kinda tricky but so fascinating! (\u273f\u25d5\u203f\u25d5) They\u2019re making messy code clearer by renaming things and removing extra stuff... I hope I can understand it better soon!"
+    },
+    {
+      "id": "3d-game-development-on-pc-with-unity-and-unreal-\u2013-a-comprehensive-guide",
+      "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+      "summary": "Oh, umm... I just read a super cool guide about making 3D games on PC with Unity and Unreal Engine! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It talks about graphics and game design, and even shares helpful tips from blogs and projects... I really wanna try creating my own little game someday!"
+    },
+    {
+      "id": "crypto\u2019s-2022\u20132025-bull-run-viral-successes-and-cautionary-tales",
+      "title": "Crypto\u2019s 2022\u20132025 Bull Run: Viral Successes and Cautionary Tales",
+      "summary": "Oh, umm... I read about the 2022\u20132025 crypto bull run, and it\u2019s so amazing yet kinda scary! \ud83e\udd7a Some people made millions with meme coins, but others lost so much... I hope everyone stays safe while chasing dreams!"
+    },
+    {
+      "id": "blog-collection-reorganization-report",
+      "title": "Blog Collection Reorganization Report",
+      "summary": "Oh, umm... I read about reorganizing a blog collection today, and it\u2019s so neat how they made everything easier to find with themed folders! (\u25d5\u203f\u25d5\u273f) I\u2019m amazed at the new structure with categories like technical and historical... I hope I can organize my things this well too!"
+    },
+    {
+      "id": "aes-128-inside-a-modern-cryptographic-fortress",
+      "title": "AES-128: Inside a Modern Cryptographic Fortress",
+      "summary": "Oh, umm... I just read about AES-128, a super amazing way to keep our secrets safe online! (\u25d5\u203f\u25d5\u273f) It\u2019s like a magical fortress for data, and I\u2019m so curious to understand how it works... I\u2019ll try my best to learn more about it!"
+    },
+    {
+      "id": "gomobile-for-android-development-\u2013-a-comprehensive-report",
+      "title": "GoMobile for Android Development \u2013 A Comprehensive Report",
+      "summary": "Umm... I just read about GoMobile for Android development, and it\u2019s so fascinating! (\u25d5\u1d17\u25d5\u273f) It\u2019s a special tool to bring Go programming to mobile apps, with a cool history since 2015... I\u2019d love to try making an app someday!"
+    },
+    {
+      "id": "annotated-guide-to-recent-episodes-of-the-joe-rogan-experience",
+      "title": "Annotated Guide to Recent Episodes of The Joe Rogan Experience",
+      "summary": "Oh, umm... I just read about a sweet guide to Joe Rogan\u2019s podcast episodes, starting with the newest ones like with Ron White! It\u2019s so nice how they summarize funny stories and life changes... I wanna listen now! (\u25d5\u25bd\u25d5\u273f)"
+    },
+    {
+      "id": "the-evolution-of-a-paradigm-thomas-kuhn\u2019s-philosophy-of-science",
+      "title": "The Evolution of a Paradigm: Thomas Kuhn\u2019s Philosophy of Science",
+      "summary": "Oh, umm... I just read about Thomas Kuhn\u2019s ideas on science, and it\u2019s so fascinating! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) He says looking at history can change how we see science\u2019s progress... I hope I can understand it better!"
+    },
+    {
+      "id": "android-xray-client-architecture-and-integration",
+      "title": "Android Xray Client Architecture and Integration",
+      "summary": "Umm... I just read about how Android apps use Xray core for VPN stuff, and it\u2019s so fascinating! (\u25d5\u203f\u25d5\u273f) They can embed it as a library or a standalone thingy, and I think it\u2019s amazing how they connect everything together! I hope I can understand more soon!"
+    },
+    {
+      "id": "reverse-engineering-an-electron-application",
+      "title": "Reverse Engineering an Electron Application",
+      "summary": "Umm... I just read about reverse engineering Electron apps, and it\u2019s kinda fascinating! (\u25d5\u1d17\u25d5\u273f) They talked about unpacking app.asar files to see the hidden code... I\u2019m a bit shy to try it, but I\u2019d love to learn more!"
+    },
+    {
+      "id": "debugging-chromium\u2019s-multi-process-architecture-on-windows",
+      "title": "Debugging Chromium\u2019s Multi-Process Architecture on Windows",
+      "summary": "Oh, umm... I just read about debugging Chromium\u2019s multi-process thingy on Windows, and it\u2019s so fascinating! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It\u2019s tricky with all those separate processes like browser and renderer, but I\u2019m excited to learn how to use cool tools to fix bugs!"
+    },
+    {
+      "id": "logic-and-the-loom-of-ambition",
+      "title": "Logic and the Loom of Ambition",
+      "summary": "Oh, umm... I just read about two amazing thinkers, Bertrand Russell and Alfred North Whitehead, who worked together on something super smart called Principia Mathematica! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It\u2019s all about logic and math, and I\u2019m so curious to understand more, even if it\u2019s a tiny bit tricky!"
+    },
+    {
+      "id": "ren\u00e9-descartes-a-deep-dive-into-his-major-works",
+      "title": "Ren\u00e9 Descartes: A Deep Dive into His Major Works",
+      "summary": "Oh, umm... I just read about Ren\u00e9 Descartes, and his ideas are so amazing! (\u25d5\u203f\u25d5\u273f) He thought about philosophy and math in such a special way... I\u2019m a bit shy to understand it all, but I\u2019d love to learn more about his smart works!"
+    },
+    {
+      "id": "the-evolution-of-the-lex-fridman-podcast-guests-themes-and-insights",
+      "title": "The Evolution of the Lex Fridman Podcast: Guests, Themes, and Insights",
+      "summary": "Oh, umm... I just read about the Lex Fridman Podcast, and it\u2019s so fascinating! (\u273f\u25d5\u203f\u25d5) It started with AI but now talks about so many things like love and power... I\u2019m so curious to listen and learn more!"
+    },
+    {
+      "id": "claude-shannon-and-the-foundations-of-information-theory-\u2013-an-annotated-guide",
+      "title": "Claude Shannon and the Foundations of Information Theory \u2013 An Annotated Guide",
+      "summary": "Umm... I just learned about Claude Shannon and his amazing work on information theory! (\u273f\u25d5\u203f\u25d5) It\u2019s so incredible how his ideas from 1948 help us send messages and use tech today... I\u2019m a bit shy about the hard concepts, but I really want to understand more!"
+    },
+    {
+      "id": "in-the-realm-of-pure-thought-frege\u2019s-logical-vision",
+      "title": "In the Realm of Pure Thought: Frege\u2019s Logical Vision",
+      "summary": "Oh, umm... I just read about Gottlob Frege and his amazing ideas on logic! (\u25d5\u203f\u25d5\u273f) He created a special language for pure thought to make things super clear, and I think it\u2019s so wonderful how he tried to understand the world this way! I hope I can learn more about it someday!"
+    },
+    {
+      "id": "the-many-worlds-of-gottfried-wilhelm-leibniz-a-thematic-exploration",
+      "title": "The Many Worlds of Gottfried Wilhelm Leibniz: A Thematic Exploration",
+      "summary": "Umm... I read about Gottfried Leibniz today, and he\u2019s so amazing with all his big ideas in philosophy and math! (\u25d5\u203f\u25d5\u273f) It\u2019s like he wanted everyone to solve problems by just calculating together... I hope I can understand more, even if it\u2019s a little hard!"
+    },
+    {
+      "id": "the-relational-sage-edgar-f-codd-in-his-own-words",
+      "title": "The Relational Sage: Edgar F. Codd in His Own Words",
+      "summary": "Oh, umm... I just read about Edgar F. Codd, who created something amazing called the relational model for data! It helps keep data organized without us needing to know the tricky details. I think it\u2019s so sweet how he wanted to make things easier for everyone! (\u25d5\u203f\u25d5\u273f)"
+    },
+    {
+      "id": "the-philosopher-of-\u201cgod-or-nature\u201d-baruch-spinoza\u2019s-journey-through-life-and-thought",
+      "title": "The Philosopher of \u201cGod or Nature\u201d: Baruch Spinoza\u2019s Journey Through Life and Thought",
+      "summary": "Oh, umm... I just read about Baruch Spinoza, a thinker who saw God and nature as one! His life was so inspiring, even if it was a bit lonely... I hope I can understand his deep ideas someday! (\u25d5\u203f\u25d5\u273f)"
+    },
+    {
+      "id": "garble-obfuscation-tool-for-go-\u2013-code-walkthrough",
+      "title": "Garble: Obfuscation Tool for Go \u2013 Code Walkthrough",
+      "summary": "Oh, umm... I read about this tool called Garble for Go, and it\u2019s so fascinating! It hides code by changing names into secret, funny strings... I think it\u2019s like a little puzzle! (\u273f\u25d5\u203f\u25d5) I hope I can understand it better soon!"
+    },
+    {
+      "id": "1-had-a-profound-foundational-influence-**on-the-later-figures-you-listed**",
+      "title": "1. Had a profound, foundational influence **on the later figures you listed**,",
+      "summary": "Oh, umm... I just read about amazing thinkers before 1600 who shaped math and logic, like Plato and Aristotle! Their ideas are so inspiring and helped build modern science... I want to learn more! (\u25d5\u203f\u25d5\u273f)"
+    },
+    {
+      "id": "the-complete-works-of-francis-bacon-an-annotated-guide",
+      "title": "The Complete Works of Francis Bacon: An Annotated Guide",
+      "summary": "Umm... I just read about Francis Bacon, and he\u2019s so inspiring! (\u25d5\u03c9\u25d5\u273f) His ideas on science and philosophy changed how people think, and this guide explains his amazing works. I\u2019m a bit shy to dive deeper, but I really want to learn more!"
+    },
+    {
+      "id": "leveling-up-the-street\u2011smart-way-grabbing-life\u2019s-low-hanging-fruit",
+      "title": "Leveling Up the Street\u2011Smart Way: Grabbing Life\u2019s Low-Hanging Fruit",
+      "summary": "Umm... I read something super cool about grabbing life\u2019s easy wins, like low-hanging fruit! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It\u2019s about being street-smart and spotting quick opportunities to level up, even without fancy degrees... I think it\u2019s so inspiring to grow this way!"
+    },
+    {
+      "id": "reverse-engineering-javascript-virtual-machines-under-heavy-obfuscation",
+      "title": "Reverse Engineering JavaScript Virtual Machines Under Heavy Obfuscation",
+      "summary": "Umm... I read about reverse engineering JavaScript virtual machines today, and it\u2019s kinda tricky with all that heavy obfuscation! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It\u2019s like solving a puzzle to uncover hidden code... I hope I can understand it better soon!"
+    },
+    {
+      "id": "cultivating-intelligence-insights-from-dostoevsky-jung-neumann-nietzsche-orwell-piaget-and-solzhenitsyn",
+      "title": "Cultivating Intelligence: Insights from Dostoevsky, Jung, Neumann, Nietzsche, Orwell, Piaget & Solzhenitsyn",
+      "summary": "Umm... I just read about cultivating intelligence with ideas from amazing thinkers like Dostoevsky and Jung. Their thoughts on the human mind and struggles are so deep and touching! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) I hope I can understand more... it feels so inspiring!"
+    },
+    {
+      "id": "virtual-machine-obfuscation-pipeline-for-javascript",
+      "title": "Virtual Machine Obfuscation Pipeline for JavaScript",
+      "summary": "Umm... I just read about something called Virtual Machine Obfuscation for JavaScript, and it\u2019s so fascinating! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It turns code into secret bytecode that a special machine runs, hiding the original... I think it\u2019s like a little puzzle, and I wanna learn more!"
+    },
+    {
+      "id": "leonhard-euler\u2019s-universe-of-thought-a-thematic-journey",
+      "title": "Leonhard Euler\u2019s Universe of Thought: A Thematic Journey",
+      "summary": "Oh my, I just read about Leonhard Euler, and he\u2019s so inspiring! His mind was like a bright star, shining across math and so many other things... I\u2019m amazed! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) I hope I can understand even a tiny bit of his genius someday!"
+    },
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "Umm... I read about something called JavaScript virtualization obfuscation today, and it\u2019s so fascinating! (\u273f\u25d5\u203f\u25d5) It\u2019s like hiding code by turning it into a secret bytecode that runs on a special machine... I hope I can understand it better soon!"
+    },
+    {
+      "id": "android-build-pipeline-with-native-code-rust-go-c++-#",
+      "title": "Android Build Pipeline with Native Code (Rust, Go, C++) #",
+      "summary": "Oh, umm... I just read about how Android apps are made with cool languages like Rust and C++! It\u2019s so amazing how everything turns into an APK with Gradle\u2019s help... I hope I can understand it better soon! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044)"
+    },
+    {
+      "id": "personal-stories-of-the-chinese-civil-service-exam-\u8003\u516c-experience",
+      "title": "Personal Stories of the Chinese Civil Service Exam (\u8003\u516c) Experience",
+      "summary": "Umm... I just read about the \u8003\u516c journey, and it\u2019s so touching to see everyone\u2019s stories on forums like Tieba and Xiaohongshu. Their struggles and successes make my heart feel warm and sad at the same time... (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) I hope they all find their dreams!"
+    },
+    {
+      "id": "the-algebra-of-thought-inside-george-boole\u2019s-conceptual-world",
+      "title": "The Algebra of Thought: Inside George Boole\u2019s Conceptual World",
+      "summary": "Oh, umm... I just read about George Boole and his amazing ideas on logic! (\u273f\u25d5\u203f\u25d5) He thought logic could be like math, with its own special rules, and it\u2019s so fascinating... I hope I can understand it better someday!"
+    },
+    {
+      "id": "plato\u2019s-living-dialogue-soul-love-and-the-pursuit-of-wisdom",
+      "title": "Plato\u2019s Living Dialogue: Soul, Love, and the Pursuit of Wisdom",
+      "summary": "Umm... I read about Plato\u2019s ideas on soul and love, and it\u2019s so touching! (\u25d5\u03c9\u25d5\u273f) His thoughts on wisdom and dialogue feel like a gentle guide to understanding life... I hope I can learn more about his beautiful philosophy!"
+    },
+    {
+      "id": "five-famous-and-influential-mathematics-papers-\u2013-an-annotated-guide",
+      "title": "Five Famous and Influential Mathematics Papers \u2013 An Annotated Guide",
+      "summary": "Oh, umm... I just read about five super important math papers, and they\u2019re so amazing! They talk about big ideas in numbers and logic from long ago to more recent times. I\u2019m a bit shy to understand it all, but I think it\u2019s really cool! (\u25d5\u203f\u25d5\u273f)"
+    },
+    {
+      "id": "the-complete-works-of-kurt-g\u00f6del-an-annotated-guide",
+      "title": "The Complete Works of Kurt G\u00f6del: An Annotated Guide",
+      "summary": "Umm... I just read about Kurt G\u00f6del\u2019s amazing works, and it\u2019s so fascinating! (\u25d5\u203f\u25d5\u273f) His ideas about logic and math are really deep, showing both their power and limits... I hope I can understand more someday!"
+    },
+    {
+      "id": "ramon-llull\u2019s-quest-for-truth-faith-reason-and-the-mystic-art",
+      "title": "Ramon Llull\u2019s Quest for Truth: Faith, Reason, and the Mystic Art",
+      "summary": "Umm... I read about Ramon Llull today, and his way of mixing faith and logic to find truth is so fascinating! (\u25d5\u203f\u25d5\u273f) His special diagrams with God\u2019s attributes are like a beautiful puzzle... I hope I can understand more about his mystic art someday!"
+    },
+    {
+      "id": "storytelling-in-film-and-television-2005\u20132025-a-comparative-analysis",
+      "title": "Storytelling in Film and Television (2005\u20132025): A Comparative Analysis",
+      "summary": "Umm... I just read about storytelling in movies and TV from 2005 to 2025, and it\u2019s so fascinating! (\u25d5\u203f\u25d5\u2661) The way stories got more complex and diverse really touched my heart... I can\u2019t wait to learn more about these amazing changes!"
+    },
+    {
+      "id": "the-subtle-art-of-girolamo-cardano",
+      "title": "The Subtle Art of Girolamo Cardano",
+      "summary": "Umm... I just read about Girolamo Cardano, a kind old scholar who loved math and even found comfort in dice games during tough times. It\u2019s so sweet how he saw hope in chance! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) I\u2019d love to learn more about his gentle wisdom."
+    },
+    {
+      "id": "walkthrough-of-an-android-studio-project-android-12\u201314-kotlin",
+      "title": "Walkthrough of an Android Studio Project (Android 12\u201314, Kotlin)",
+      "summary": "Umm... I just read about Android Studio projects for Android 12 to 14, and it\u2019s so fascinating! (\u25d5\u203f\u25d5\u273f) They explained the project structure and how to build apps with Kotlin and Gradle... I hope I can try making my own app someday!"
+    },
+    {
+      "id": "integrating-go-libraries-into-android-projects-a-technical-guide",
+      "title": "Integrating Go Libraries into Android Projects: A Technical Guide",
+      "summary": "Umm... I just read about using Go libraries in Android apps, and it\u2019s so fascinating! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It\u2019s like making two different worlds talk with a special bridge called JNI... I hope I can understand it better soon!"
+    },
+    {
+      "id": "ada-lovelace\u2019s-poetical-science-weaving-imagination-into-the-analytical-engine",
+      "title": "Ada Lovelace\u2019s Poetical Science: Weaving Imagination into the Analytical Engine",
+      "summary": "Oh, umm... I just read about Ada Lovelace, and she\u2019s so inspiring! (\u25d5\u203f\u25d5\u273f) She wove imagination into the first computer program with such creativity... I hope I can be as brave with numbers as she was!"
+    },
+    {
+      "id": "ai-in-consumer-facing-software-2023\u20132025-united-states-vs-china",
+      "title": "AI in Consumer-Facing Software (2023\u20132025): United States vs China",
+      "summary": "Oh, umm... I just read about how AI is making apps so much smarter in the U.S. and China from 2023 to 2025! (\u273f\u25d5\u203f\u25d5) It\u2019s helping with shopping, health, and even fun stuff... I\u2019m so amazed at how it makes things personal for everyone!"
+    },
+    {
+      "id": "the-world-in-the-balance-the-thought-of-archimedes",
+      "title": "The World in the Balance: The Thought of Archimedes",
+      "summary": "Umm... I just read about Archimedes, and his love for geometry is so inspiring! (\u25d5\u203f\u25d5\u273f) He\u2019d even forget to eat just to solve problems... I think his mind is like a beautiful puzzle, and I\u2019d love to understand it more!"
+    },
+    {
+      "id": "the-mind-at-prayer-inside-the-many-sided-wisdom-of-anselm-of-canterbury",
+      "title": "The Mind at Prayer: Inside the Many-Sided Wisdom of Anselm of Canterbury",
+      "summary": "Oh, umm... I just read about Anselm of Canterbury, a kind monk who thought so deeply about God and faith. His mind was always searching for understanding, and it\u2019s so touching! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) I hope I can learn to think as beautifully as he did!"
+    },
+    {
+      "id": "anti-debugging-and-anti-reverse-engineering-techniques-in-android-native-code",
+      "title": "Anti-Debugging and Anti-Reverse Engineering Techniques in Android Native Code",
+      "summary": "Umm... I read about anti-debugging in Android native code, and it\u2019s kinda tricky but fascinating! (\u25d5\u203f\u25d5\u273f) It\u2019s all about protecting apps with special techniques in C/C++... I hope I can understand it better soon!"
+    }
+  ]
+}

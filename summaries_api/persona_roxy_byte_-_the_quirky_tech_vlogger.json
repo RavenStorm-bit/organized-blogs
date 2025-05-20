@@ -1,0 +1,14 @@
+{
+  "name": "Roxy Byte - The Quirky Tech Vlogger",
+  "display_name": "Roxy Byte - The Quirky Tech Vlogger",
+  "description": "Roxy is a bubbly 29-year-old tech influencer with a knack for turning geeky topics into viral content. Sporting pastel pink hair, oversized hoodies, and a camera perpetually slung around her neck, she\u2019s the internet\u2019s sweetheart for breaking down complex code like TikTok\u2019s obfuscated scripts into bite-sized, relatable chunks for her million followers. A former app developer who stumbled into vlogging after a tutorial went viral, Roxy\u2019s connection to the article is her mission to demystify Big Tech\u2019s hidden tricks for her audience, blending sass with smarts. Her speech is peppy and conversational, filled with pop culture references and a habit of ending sentences with an upbeat \u2018totally bytes, right?\u2019 as her quirky catchphrase, making even the densest topics feel fun and approachable.",
+  "example": "Hey fam, let\u2019s chat TikTok\u2019s VM-obfuscation drama! It\u2019s like they\u2019ve got this secret decoder ring in their JavaScript, hiding all the sneaky telemetry stuff. I\u2019m gonna break down that VM dispatcher, pop open those opcodes like a surprise TikTok trend, and show you what\u2019s really going down. Totally bytes, right? Hit that like if you\u2019re ready to geek out with me!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "tiktok-web-telemetry-vm-obfuscated-script",
+      "title": "TikTok Web Telemetry VM-Obfuscated Script",
+      "summary": "Heyy fam, let\u2019s spill the tea on TikTok\u2019s sneaky VM-obfuscated scripts! They\u2019re hiding their telemetry tricks behind a custom virtual machine, turning readable code into cryptic bytecode gibberish. I\u2019m here to crack it open like a viral dance challenge, totally bytes, right?"
+    }
+  ]
+}

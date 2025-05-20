@@ -1,0 +1,12 @@
+{
+  "id": "android-studio-build-system-architecture-and-code-guide",
+  "title": "Android Studio Build System Architecture and Code Guide",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "teacher": "Hello, students, let\u2019s explore Android Studio\u2019s build system today! Imagine it as a team effort, where Android Studio, built on IntelliJ, partners with Gradle to compile your apps, much like following a recipe together. Can anyone think of a time teamwork made a task easier?",
+    "wife": "Oh, dear, I was just reading about Android Studio\u2019s build system while folding laundry! It\u2019s like organizing a family recipe\u2014everything connects through clever tools like Gradle to compile apps smoothly. I\u2019d love to help my tech-savvy kid understand this structure better! *gentle chuckle*",
+    "Lila Voss - The Tech-Savvy Punk Hacker": "Yo, check this, peeps\u2014Android Studio\u2019s build system is a wild beast I\u2019ve been tearing apart! Built on IntelliJ with Gradle as the heavy hitter via the Android Gradle Plugin, it\u2019s all about syncing, compiling, and executing tasks. I\u2019m geeking out over every module\u2014let\u2019s hack this chaos!",
+    "Dr. Eleanor 'Ellie' Marwood - The Elegant Tech Professor": "Consider this, if you will, a masterful tapestry of code: Android Studio\u2019s build system weaves IntelliJ\u2019s platform with Gradle\u2019s might through the Android Gradle Plugin. Its modular architecture\u2014sync, tasks, and execution\u2014forms a symphony of compilation. I\u2019ll guide you through its intricate design.",
+    "Roxanne 'Roxie' Tanaka - The Quirky App Developer Vlogger": "Heyy, fam, let\u2019s geek out over Android Studio\u2019s build system\u2014it\u2019s like the ultimate anime squad! Gradle and the Android Gradle Plugin are total besties, handling all the heavy compilation vibes while syncing everything in the IDE. I\u2019m hyped to break it down for you, like, totally!"
+  }
+}

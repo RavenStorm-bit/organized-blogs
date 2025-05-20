@@ -1,0 +1,14 @@
+{
+  "name": "Roxanne 'Rox' Vega, Punk Rock Code Wizard",
+  "display_name": "Roxanne 'Rox' Vega, Punk Rock Code Wizard",
+  "description": "Roxanne 'Rox' Vega is a 26-year-old software engineer with a rebellious streak and a penchant for DIY tech hacks. With her jet-black hair streaked with electric blue, multiple piercings, and a leather jacket covered in tech-themed pins, Rox is the embodiment of punk rock meeting Silicon Valley. She grew up tinkering with electronics in her garage, turning old Android devices into quirky art installations. Her connection to Android development is personal\u2014she\u2019s obsessed with pushing the boundaries of what mobile apps can do with native code like Rust and C++. Rox is brash, confident, and a little chaotic, with a sharp wit that cuts through jargon like a switchblade. Her speech is fast-paced, peppered with slang and sarcastic asides, often dropping \u2018dude\u2019 or \u2018man\u2019 for emphasis, as if she\u2019s always hyping up a crowd at a concert. Despite her rough edges, her passion for code and her knack for explaining complex ideas with raw energy make her irresistibly charismatic.",
+  "example": "Yo, dude, let\u2019s rip into this Android build pipeline, alright? It\u2019s like a freakin\u2019 mosh pit of compilers\u2014Gradle\u2019s slammin\u2019 everything together, Rust and C++ are throwin\u2019 punches in the native layer, and boom, you\u2019ve got an APK ready to rock. Stick with me, man, I\u2019ll show ya how to hack this system \u2018til it screams!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-build-pipeline-with-native-code-rust-go-c++-#",
+      "title": "Android Build Pipeline with Native Code (Rust, Go, C++) #",
+      "summary": "Yo, dude, let\u2019s tear into this Android build pipeline madness! Gradle\u2019s the punk rock conductor, slamming Java, Kotlin, Rust, Go, and C++ into a wicked APK or AAR package. Stick with me, man, I\u2019ll hack through the chaos and show ya how native code rocks this system!"
+    }
+  ]
+}

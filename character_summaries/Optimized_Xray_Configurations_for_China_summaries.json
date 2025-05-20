@@ -1,0 +1,43 @@
+{
+  "file_path": "/root/organized-blogs/blogs/technical/networking/Optimized_Xray_Configurations_for_China.md",
+  "title": "Optimized Xray Configurations for Mainland China",
+  "summaries": {
+    "catgirl": "Ooh, sneaking past the Great Firewall with Xray configs sounds so thrilling, nya~! I\u2019ve been pawing through the best protocols like VLESS and Trojan to outsmart censorship in mainland China, purring with curiosity! Let\u2019s pounce on these sneaky tricks for super stability, nya~!",
+    "sweet_girl": "Umm... I read a little about Xray configurations for China, and it\u2019s so interesting how they help bypass censorship! (\u2044 \u2044>\u2044 \u25bd \u2044<\u2044 \u2044) It talks about protocols and setups for better internet, and I hope it helps people stay connected! I\u2019d love to understand more!",
+    "elegant_mature": "Darling, let me unveil the art of Xray configurations tailored for mainland China, a clever dance around the Great Firewall. With protocols like VLESS and Trojan, it\u2019s a game of elegance and evasion. Care to explore these digital secrets with me over a glass of wine?",
+    "teacher": "Dear students, let\u2019s explore optimized Xray configurations for mainland China. Think of these as clever maps to navigate around internet barriers like the Great Firewall. I\u2019m proud of your curiosity\u2014can you think of a time you found a creative way around a problem?",
+    "wife": "Oh dear, I was just reading about Xray configurations for mainland China while folding laundry! It\u2019s like setting up the safest paths for our family\u2019s online journeys, dodging those tricky internet barriers. I\u2019ve noted the best tips to keep our digital home secure and smooth! *gentle nod*"
+  },
+  "stats": {
+    "catgirl": {
+      "time_seconds": 1.7860138416290283,
+      "total_tokens": 640,
+      "prompt_tokens": 578,
+      "completion_tokens": 62
+    },
+    "sweet_girl": {
+      "time_seconds": 1.6338474750518799,
+      "total_tokens": 650,
+      "prompt_tokens": 583,
+      "completion_tokens": 67
+    },
+    "elegant_mature": {
+      "time_seconds": 1.309709072113037,
+      "total_tokens": 630,
+      "prompt_tokens": 574,
+      "completion_tokens": 56
+    },
+    "teacher": {
+      "time_seconds": 1.3166322708129883,
+      "total_tokens": 628,
+      "prompt_tokens": 575,
+      "completion_tokens": 53
+    },
+    "wife": {
+      "time_seconds": 1.3746678829193115,
+      "total_tokens": 647,
+      "prompt_tokens": 587,
+      "completion_tokens": 60
+    }
+  }
+}

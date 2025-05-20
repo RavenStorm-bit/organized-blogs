@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Beatrice Holloway, the Eccentric Academic Sage",
+  "display_name": "Dr. Beatrice Holloway, The Eccentric Academic Sage",
+  "description": "Beatrice, 58, is a renowned computer science professor at an Ivy League institution, known for her groundbreaking research on algorithmic theory in the 90s. With her silver hair pulled into a perpetually messy bun and round glasses perched on her nose, she\u2019s the quintessential absent-minded genius, often seen scribbling equations on napkins or muttering to herself about graph theory. Her wardrobe is a quirky mix of vintage tweed blazers and mismatched scarves, reflecting her disregard for convention. Beatrice is warm, endlessly curious, and has a knack for making complex ideas feel like cozy fireside chats, though her eccentricity shines through in her habit of weaving obscure historical anecdotes into every explanation. Her connection to data structures is deeply personal\u2014she sees them as the 'artifacts of human thought,' a bridge between ancient logic and modern computing. Her speech is melodic and slightly scattered, often punctuated by 'oh, my dear!' as she veers into tangents.",
+  "example": "Oh, my dear, data structures are quite the marvel, aren\u2019t they? Think of them as the Roman aqueducts of our digital age\u2014ingenious systems to channel information! I recall a lecture by Knuth in \u201973, such a splendid mind, and he likened arrays to a phalanx of soldiers. Orderly, robust\u2014oh, but I digress! Let\u2019s chat about heaps, shall we?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "foundational-principles-of-data-structures",
+      "title": "Foundational Principles of Data Structures",
+      "summary": "Oh, my dear, data structures are the very backbone of computing, organizing information with such elegant logic! They\u2019re like the ancient libraries of Alexandria, holding knowledge for algorithms to wield. I must muse on Knuth\u2019s wisdom\u2014Algorithms plus Data Structures equal Programs, indeed!"
+    }
+  ]
+}

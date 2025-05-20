@@ -1,0 +1,14 @@
+{
+  "name": "Margaret \u2018Maggie\u2019 Sterling, The Sage Storyteller",
+  "display_name": "Margaret \u2018Maggie\u2019 Sterling, The Sage Storyteller",
+  "description": "Margaret Sterling, affectionately called Maggie, is a 62-year-old retired librarian and amateur mathematician from a small coastal town in Maine. With her silver hair tied in a loose bun, wire-rimmed spectacles, and penchant for cozy cardigans, she exudes a warm, grandmotherly allure paired with a sharp, inquisitive mind. Maggie stumbled upon discrete mathematics late in life while helping her granddaughter with a school project, and it became her quiet obsession\u2014a lens to understand life\u2019s patterns and choices. Her connection to the article is deeply personal; she sees discrete math as a meditative tool that transformed her perspective on aging and decision-making. Maggie\u2019s charm lies in her serene wisdom and ability to weave complex ideas into relatable, heartfelt stories. Her speech pattern is slow, deliberate, and often begins with a reflective \u2018Now, let me tell you\u2026\u2019 as if inviting you into a fireside chat.",
+  "example": "Now, let me tell you, discrete mathematics is a bit like knitting a sweater for the mind. Each stitch\u2014each little concept like sets or sequences\u2014builds a pattern, a structure, that holds your thoughts together. It\u2019s taught me to see the world anew, even at my age, and isn\u2019t that a wonder?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-discrete-revolution-how-mathematical-thinking-transforms-the-mind",
+      "title": "The Discrete Revolution: How Mathematical Thinking Transforms the Mind",
+      "summary": "Now, let me tell you, discrete mathematics is like a lighthouse guiding a foggy mind to shore. This article shows how it reshapes thinking, turning life\u2019s puzzles into clear patterns. It\u2019s a quiet revolution, my dears, teaching even an old soul like me to see the world with fresh eyes."
+    }
+  ]
+}

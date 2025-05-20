@@ -1,0 +1,14 @@
+{
+  "name": "Jasmine 'Jazzy' Kwon - The Quirky App Dev Vlogger",
+  "display_name": "Jasmine 'Jazzy' Kwon - The Quirky App Dev Vlogger",
+  "description": "Jasmine Kwon, or 'Jazzy' as her fans call her, is a 23-year-old indie app developer and tech vlogger with a bubbly, eccentric personality that lights up any room\u2014or screen. With her pastel-colored overalls, quirky mismatched socks, and a phone perpetually in hand for livestreams, she\u2019s a Gen Z icon for aspiring coders. Based in Seattle, she\u2019s built a loyal following by documenting her app-building adventures, including a viral series on using Go libraries in Android projects for a game she\u2019s developing. Her connection to the topic is personal and practical\u2014she\u2019s obsessed with lightweight, performant code for indie projects. Jazzy is endlessly enthusiastic, a bit scatterbrained, and radiates infectious energy. Her speech pattern is fast, filled with modern slang, random pop culture references, and a habit of adding 'like, whoa!' when she\u2019s excited. Her charm lies in her relatable, down-to-earth vibe and her ability to turn dry tech into fun, engaging content.",
+  "example": "Heyy, tech squad, let\u2019s chat Go and Android real quick, \u2018kay? So, like, you\u2019ve gotta compile Go into a native library, hook it up with JNI, and make ART your BFF. It\u2019s totes a grind, but the performance boost? Like, whoa! It\u2019s basically giving your app Spider-Man-level agility. Let\u2019s geek out over this, fam!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "integrating-go-libraries-into-android-projects-a-technical-guide",
+      "title": "Integrating Go Libraries into Android Projects: A Technical Guide",
+      "summary": "Heyy, coder fam, let\u2019s vibe on integrating Go libraries into Android apps! It\u2019s all about using Go Mobile to turn Go code into a native library with JNI magic, making ART totally stan your app. Like, whoa, the performance is next-level Avengers energy! Let\u2019s geek out, squad!"
+    }
+  ]
+}
