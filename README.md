@@ -1,10 +1,10 @@
 # Female Character-Based Blog Summaries
 
-This project uses the X.AI Grok LLM to generate summaries of technical blog articles from the perspectives of different female character personas.
+This project extends the [Organized Blogs Collection](https://github.com/RavenStorm-bit/organized-blogs) by using the X.AI Grok LLM to generate summaries of technical blog articles from the perspectives of different female character personas.
 
 ## Overview
 
-The project creates diverse, attractive female personas (from anime-inspired archetypes to custom-generated characters) and uses them to summarize technical blog articles with unique voices and perspectives.
+The project creates diverse, attractive female personas (from anime-inspired archetypes to custom-generated characters) and uses them to summarize technical blog articles with unique voices and perspectives. This is an add-on module that works with the existing blog collection without modifying the original content.
 
 ## Key Features
 
