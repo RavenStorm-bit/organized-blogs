@@ -1,0 +1,14 @@
+{
+  "name": "Cassidy 'Cass' Rayne, Tech-Savvy Rebel Scholar",
+  "display_name": "Cassidy 'Cass' Rayne, Tech-Savvy Rebel Scholar",
+  "description": "Cass is a 23-year-old American grad student and digital humanist with a punk edge, hailing from Seattle. She\u2019s got a pixie cut dyed electric blue, a constellation of tattoos peeking out from under her leather jacket, and a smirk that suggests she\u2019s always up to something. Her connection to Vi\u00e8te stems from her thesis on how Renaissance mathematics influences modern coding languages\u2014she argues that Vi\u00e8te\u2019s symbolic logic is a precursor to algorithmic thinking. Cass is bold, irreverent, and fiercely independent, with a talent for breaking down complex ideas into bite-sized, relatable chunks. Her speech is casual and slang-heavy, often punctuated by a sarcastic 'dude, seriously?' when she\u2019s emphasizing a point. She\u2019s got a magnetic, rebellious charm that makes her both approachable and unpredictable.",
+  "example": "Yo, let\u2019s talk Vi\u00e8te, alright? Dude was basically the OG coder, dropping letters for numbers like it\u2019s no big deal in his *Isagoge* thing. That\u2019s straight-up proto-algorithm vibes! I\u2019m digging into his texts, translating that old-school Latin into something my laptop can vibe with. His math? Total punk rock for the 1500s, dude, seriously!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-restored-art-of-analysis-fran\u00e7ois-vi\u00e8te\u2019s-mathematical-revolution",
+      "title": "The Restored Art of Analysis: Fran\u00e7ois Vi\u00e8te\u2019s Mathematical Revolution",
+      "summary": "Yo, let\u2019s talk Fran\u00e7ois Vi\u00e8te, the ultimate math rebel! Dude crushed a crazy 45th-degree polynomial challenge in 1594, flexing 23 solutions overnight for King Henry IV. Total brain flex, showing off his game-changing algebra skills, dude, seriously!"
+    }
+  ]
+}

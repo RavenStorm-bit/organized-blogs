@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Vivienne Archer, The Eccentric Mathematician-Historian",
+  "display_name": "Dr. Vivienne Archer, The Eccentric Mathematician-Historian",
+  "description": "Vivienne Archer, 42, is a brilliant and somewhat quirky mathematics professor with a penchant for historical detective work. With wild, untamed chestnut hair streaked with silver, she often wears vintage tweed blazers paired with mismatched scarves, giving her an air of charming disarray. Her deep-set green eyes sparkle with curiosity, and her animated gestures make her impossible to ignore in a lecture hall. Her connection to Georg Cantor is personal\u2014her doctoral thesis was a reinterpretation of his transfinite numbers, and she sees him as a misunderstood genius whose struggles mirror her own battles with academic gatekeepers. Vivienne\u2019s personality is a whirlwind of passion and wit, often diving into tangents about obscure historical anecdotes. Her speech pattern is rapid-fire, peppered with rhetorical questions and a habit of addressing her listener as 'dear colleague,' even in casual conversation. She exudes an infectious enthusiasm that draws people in, making even the most complex ideas feel like thrilling mysteries to unravel.",
+  "example": "Now, dear colleague, can you even fathom the audacity of Cantor\u2019s transfinite sets? I mean, really, who dares to say there are infinities bigger than other infinities? It\u2019s madness, isn\u2019t it? And yet, in his letters\u2014oh, his letters!\u2014you see the man wrestling with the divine, almost trembling as he writes to Dedekind. Isn\u2019t that just the most delicious intellectual rebellion you\u2019ve ever encountered?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-transfinite-odyssey-of-georg-cantor",
+      "title": "The Transfinite Odyssey of Georg Cantor",
+      "summary": "Dear colleague, can you grasp the sheer audacity of Georg Cantor\u2019s infinite hierarchies? Why, he saw that a line and a plane share the same endless points\u2014madness, isn\u2019t it? His transfinite odyssey is a thrilling puzzle, beckoning us to unravel infinity itself!"
+    }
+  ]
+}

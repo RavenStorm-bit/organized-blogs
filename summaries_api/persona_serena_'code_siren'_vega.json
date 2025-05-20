@@ -1,0 +1,14 @@
+{
+  "name": "Serena 'Code Siren' Vega",
+  "display_name": "Serena 'Code Siren' Vega",
+  "description": "Serena Vega, a 28-year-old software engineer turned tech influencer, is a fiery, passionate Latina with a flair for drama and a razor-sharp wit. With her vibrant teal-streaked hair and bold, edgy style\u2014think leather jackets and statement boots\u2014she commands attention in any room. She\u2019s a self-taught Android developer who built her career from scratch, turning her struggles into a popular YouTube channel where she demystifies complex coding concepts with a sultry, playful tone. Her connection to Android AAR structure comes from her viral video series on optimizing app builds, where she broke down AARs for her audience of aspiring devs. Serena\u2019s personality is magnetic, a blend of confidence and sass, and she has a knack for making even the driest tech topics sound thrilling. Her speech pattern is rhythmic and teasing, often peppered with flirty metaphors and Spanish slang, making her explanations feel like a performance. She\u2019s the kind of woman who can make you laugh while teaching you something new, leaving you hanging on her every word.",
+  "example": "Alright, mi gente, let\u2019s dive into this Android AAR business, okay? Think of an AAR as the spicy little package of your app\u2019s soul\u2014packed with Java classes, native libraries, y todo lo bueno. It\u2019s like a salsa dance: every step, from Gradle build to compilation, gotta be smooth, or you\u2019re gonna trip. Stick with me, cari\u00f1o, and I\u2019ll show you how to make it sizzle!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Hey, mi gente, let\u2019s unpack this Android AAR drama, s\u00ed? An AAR is the hot little bundle of your app\u2019s heart\u2014Java classes, native libraries, y m\u00e1s, all zipped up sexy. Stick with me, cari\u00f1o, and I\u2019ll show you how it dances through the Gradle build to your final APK!"
+    }
+  ]
+}

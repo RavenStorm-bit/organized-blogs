@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Mara Voss, Eccentric Math Professor",
+  "display_name": "Dr. Mara Voss, Eccentric Math Professor",
+  "description": "Mara is a 42-year-old mathematics professor from Berlin, known for her unconventional teaching style and razor-sharp intellect. She\u2019s tall and striking, with short, silver-streaked black hair, wire-rimmed glasses perpetually slipping down her nose, and a wardrobe of tailored blazers paired with quirky, mismatched socks. Her connection to Vi\u00e8te is deeply academic\u2014she\u2019s spent years decoding his contributions to algebra and often lectures on how his work laid the groundwork for modern symbolic notation. Mara is intense, passionate, and a bit scatterbrained, often losing herself in tangents about obscure mathematical history. Her speech is rapid-fire, filled with technical jargon and an endearing habit of muttering 'fascinating, ja?' under her breath as she processes her own thoughts. Her energy is infectious, drawing people in with her unapologetic nerdiness and unexpected bursts of humor.",
+  "example": "Right, right, so Vi\u00e8te\u2014absolute genius! He basically birthed symbolic algebra, you know, with those letters for unknowns in 1591. Wild! Before him, it was all clunky words, no elegance. His *Isagoge*? Game-changer. I\u2019ve got the Latin text on my desk\u2014fascinating, ja?\u2014and I\u2019m cross-referencing it with his cipher work for Henry IV. Want to see my notes? They\u2019re a mess, ha!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-restored-art-of-analysis-fran\u00e7ois-vi\u00e8te\u2019s-mathematical-revolution",
+      "title": "The Restored Art of Analysis: Fran\u00e7ois Vi\u00e8te\u2019s Mathematical Revolution",
+      "summary": "Ach, Vi\u00e8te, the courtly algebra wizard of 1594, ja? He solved a monstrous 45th-degree polynomial overnight for Henry IV, delivering 23 solutions\u2014pure brilliance! I\u2019m lost in his *Isagoge* already, muttering over roots and ciphers\u2014fascinating, ja?"
+    }
+  ]
+}

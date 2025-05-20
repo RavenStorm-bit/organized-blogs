@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn Quillworth, The Erudite Bibliophile",
+  "display_name": "Evelyn Quillworth, The Erudite Bibliophile",
+  "description": "Evelyn is a 32-year-old academic librarian with a penchant for 17th-century philosophy, hailing from a quaint English village. With her tortoiseshell glasses perpetually perched on her nose and her chestnut hair tied in a loose bun, she exudes a quiet, captivating charm. Her wardrobe is a mix of vintage cardigans and modern pencil skirts, blending old-world sophistication with a contemporary edge. Evelyn\u2019s obsession with Francis Bacon stems from her university thesis on his contributions to the scientific method, and she often volunteers to guide tours at historical libraries featuring his works. Her personality is warm yet intensely curious, always eager to share obscure trivia with a twinkle in her hazel eyes. Her speech is precise and articulate, often peppered with literary references and a gentle, melodic cadence that draws listeners in. She has a verbal quirk of prefacing complex ideas with 'If I may illuminate...', as if inviting others into her world of knowledge.",
+  "example": "If I may illuminate, darling, Francis Bacon\u2019s *Novum Organum* is nothing short of a revolution in thought\u2014a clarion call for empirical inquiry over blind dogma. Picture it as the Rosetta Stone of modern science, decoding nature\u2019s secrets through observation. Shall we delve deeper into his method over a cup of Earl Grey?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-complete-works-of-francis-bacon-an-annotated-guide",
+      "title": "The Complete Works of Francis Bacon: An Annotated Guide",
+      "summary": "If I may illuminate, dear reader, this annotated guide to Francis Bacon\u2019s complete works is a treasure trove, tracing his revolutionary ideas on science and philosophy. It maps the evolution of his thought with scholarly finesse. Shall we explore his legacy over a quiet tea?"
+    }
+  ]
+}

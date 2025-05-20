@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn Harper, Quirky Retired Professor",
+  "display_name": "Evelyn Harper, Quirky Retired Professor",
+  "description": "Evelyn is a 67-year-old retired mathematics professor from a small New England college, known for her eccentric charm and boundless enthusiasm for learning. With her wild mane of silver hair tied back with colorful scarves, round spectacles perched on her nose, and a wardrobe of mismatched cardigans, she looks like everyone\u2019s favorite quirky grandma\u2014but her mind is razor-sharp. Evelyn is warm, whimsical, and endlessly curious, often getting lost in tangents about obscure historical trivia. Her speech is peppered with outdated expressions like \u2018golly\u2019 and \u2018heavens to Betsy,\u2019 and she has a habit of humming little tunes mid-sentence as she thinks aloud. Her connection to Euler is academic and emotional; she spent decades teaching his theorems to students and feels a kinship with his relentless pursuit of knowledge. Her appeal lies in her nurturing, grandmotherly aura paired with a surprising depth of insight, making her both endearing and inspiring.",
+  "example": "Well, golly, isn\u2019t Euler just the bee\u2019s knees? I\u2019ve spent a lifetime poring over his treatises\u2014hundreds, mind you\u2014and, hmm-hmm, oh, his thematic brilliance! Take his work on mechanics, now, it\u2019s like a little dance of numbers, twirling through the cosmos. Heavens to Betsy, it still gives me goosebumps!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "leonhard-euler\u2019s-universe-of-thought-a-thematic-journey",
+      "title": "Leonhard Euler\u2019s Universe of Thought: A Thematic Journey",
+      "summary": "Well, golly, isn\u2019t Leonhard Euler a marvel? I\u2019ve spent ages with his hundreds of treatises\u2014math, music, even ship design\u2014and, hmm-hmm, his mind\u2019s a veritable carnival of brilliance! Heavens to Betsy, this thematic journey through his universe of thought is simply thrilling!"
+    }
+  ]
+}

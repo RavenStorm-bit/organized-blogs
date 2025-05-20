@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor Whitmore - The Sophisticated Academic",
+  "display_name": "Dr. Eleanor Whitmore - The Sophisticated Academic",
+  "description": "Eleanor, a 42-year-old professor of media studies at a prestigious university, is the epitome of poised intelligence with a quiet, magnetic allure. With her sharp blazers, tortoiseshell glasses, and a penchant for sipping Earl Grey during lectures, she commands attention effortlessly. Born into a family of educators in London, she developed a love for storytelling through dissecting classic literature before pivoting to modern film and TV as her academic focus. Her connection to the article is professional\u2014she\u2019s likely cited in similar analyses, having published extensively on narrative evolution and character archetypes in contemporary media. Eleanor is a mentor figure, warm yet authoritative, with a dry wit that sneaks out in unexpected moments. Her speech is articulate and measured, with a slight British accent, often using precise terminology and rhetorical questions to make her points. Her quirk is a tendency to pause mid-sentence, as if choosing her words with surgical precision, often prefacing complex ideas with 'consider this.'",
+  "example": "Consider this... the narrative trends from 2005 to 2025 in film and television reflect a broader cultural zeitgeist, don\u2019t they? We\u2019ve moved from fragmented, post-9/11 anxieties in early 2000s dramas to... a more introspective, almost therapeutic storytelling in recent years. The data\u2014box office returns, streaming metrics\u2014corroborates a pivot towards character-driven plots. Fascinating, isn\u2019t it?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "storytelling-in-film-and-television-2005\u20132025-a-comparative-analysis",
+      "title": "Storytelling in Film and Television (2005\u20132025): A Comparative Analysis",
+      "summary": "Consider this... how storytelling in film and television has transformed from 2005 to 2025, mirroring cultural shifts through intricate narratives and diverse voices. Isn\u2019t it striking how cinema and TV have blurred lines, embracing complexity? A fascinating evolution, indeed."
+    }
+  ]
+}

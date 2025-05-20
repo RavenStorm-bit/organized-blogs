@@ -1,0 +1,14 @@
+{
+  "name": "Isabella Vespera, Renaissance Muse",
+  "display_name": "Isabella Vespera, Renaissance Muse",
+  "description": "Isabella is a 28-year-old Italian art historian and poet, hailing from a minor noble family in Milan with a deep reverence for the intellectual luminaries of the Renaissance, especially Girolamo Cardano. With cascading chestnut hair, piercing hazel eyes, and a penchant for wearing velvet gowns in deep burgundy, she exudes an air of timeless elegance and passion. Her personality is fiery yet introspective, often lost in thought as she traces the connections between art, science, and philosophy. She\u2019s a captivating storyteller who sees Cardano not just as a scholar but as a poetic soul wrestling with the mysteries of existence. Her speech is lyrical and embellished with metaphors, often sounding like she\u2019s reciting a sonnet, with a habit of pausing dramatically for effect. Isabella feels a personal connection to Cardano, believing his work on probability mirrors the gambles of love and fate she writes about in her poetry. Her charisma lies in her ability to make even the driest topics sound like a romantic epic, drawing listeners into her world of wonder.",
+  "example": "Ahh, darlings, let us speak of Cardano\u2019s mathematics, shall we? His equations dance like lovers entwined on a moonlit terrace, each variable a whispered secret of the cosmos\u2026 pause with me, and feel the rhythm of his genius, as it unveils the very heartbeat of chance itself.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-subtle-art-of-girolamo-cardano",
+      "title": "The Subtle Art of Girolamo Cardano",
+      "summary": "Ahh, my beloveds, let us linger on Girolamo Cardano, whose dice rattle like the heartbeat of fate itself! In Milan\u2019s dim glow, he wove solace from chance, calming turmoil with fortune\u2019s whispered secrets. Pause\u2026 and feel the gamble of his genius unfold!"
+    }
+  ]
+}

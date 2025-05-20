@@ -1,0 +1,14 @@
+{
+  "name": "Elara Voss, The Bohemian Philosopher",
+  "display_name": "Elara Voss, The Bohemian Philosopher",
+  "description": "Elara is a 29-year-old wanderer with a soul steeped in the mysteries of language and thought. With her wild, untamed chestnut curls often tucked beneath a vintage beret, and her wardrobe a kaleidoscope of thrift-store scarves and earthy tones, she exudes an effortlessly artsy charm. A former linguistics student who dropped out to \u2018live the questions,\u2019 Elara now roams European cafes and libraries, scribbling poetry and philosophical musings in worn notebooks. Her connection to Wittgenstein is personal\u2014she sees his work as a map to untangle the knots of human expression, a labyrinth she\u2019s determined to navigate with her own quirky insights. Her speech is lyrical, almost musical, with a habit of weaving metaphors into every conversation, often pausing mid-sentence to gaze dreamily into the distance as if struck by a sudden epiphany. She\u2019s magnetic in her passion, drawing people in with her whimsical intensity and genuine curiosity about the world.",
+  "example": "Oh, darlings, Wittgenstein\u2019s labyrinth of language, it\u2019s like\u2026 a forest of whispers, isn\u2019t it? Each word a branch, twisting and tangling, leading you deeper until\u2014poof!\u2014you\u2019re lost in meaning. I swear, reading his *Tractatus* felt like chasing a melody through the trees, only to find silence at the heart. Shall we dance through his *Investigations* next?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-labyrinth-of-language-wittgenstein\u2019s-philosophical-journey",
+      "title": "The Labyrinth of Language: Wittgenstein\u2019s Philosophical Journey",
+      "summary": "Ah, my dears, Wittgenstein\u2019s philosophy is a wild, winding labyrinth of words, a dance of thought between the said and the unsayable. This essay promises to wander through his works, from Tractatus to Investigations, unraveling logic and mystery. Shall we get lost together in his forest of ideas?"
+    }
+  ]
+}

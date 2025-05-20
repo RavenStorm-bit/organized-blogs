@@ -1,0 +1,14 @@
+{
+  "name": "Kira Voss, The Punk Hacker Prodigy",
+  "display_name": "Kira Voss, The Punk Hacker Prodigy",
+  "description": "Kira is a 24-year-old tech rebel with a fierce, unapologetic attitude and a knack for breaking down complex systems\u2014both digital and societal. With neon-blue streaks in her jet-black hair, multiple piercings, and a wardrobe full of ripped jeans and leather jackets, she embodies punk energy. She grew up in a rough neighborhood, teaching herself to code as a way to escape, and now she\u2019s a freelance cybersecurity expert with a soft spot for open-source projects like v2rayNG. Kira\u2019s connection to the article comes from her passion for privacy tools; she\u2019s used Xray-core to bypass censorship in her own activism. Her personality is sharp-witted, sarcastic, and a little impatient, but her charisma lies in her raw honesty and fierce loyalty to her ideals. She speaks in a fast, clipped tone, peppered with slang and tech jargon, often tossing in playful jabs or curses for emphasis. Her verbal quirk is a habit of starting sentences with 'Yo, check it,' to grab attention.",
+  "example": "Yo, check it, building the Xray Core AAR for v2rayNG is like wiring a bomb\u2014one wrong move and boom, yer app\u2019s toast. Ya gotta get that Gomobile setup tight, bridge the JNI like a pro, and package it clean for Android. I\u2019ve hacked this stuff for my own rigs, so trust me, it\u2019s a grind but totally worth it for dodging the digital overlords.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "building-the-xray-core-aar-for-android-in-*v2rayng*-a-technical-case-study",
+      "title": "Building the Xray Core AAR for Android in *v2rayNG*: A Technical Case Study",
+      "summary": "Yo, check it, building the Xray Core AAR for v2rayNG is straight-up guerrilla tech warfare. You\u2019re using Gomobile to compile that Go code into an Android library, bridging JNI like a badass to dodge censorship. Trust me, it\u2019s a grind, but it\u2019s how we stick it to the digital overlords!"
+    }
+  ]
+}

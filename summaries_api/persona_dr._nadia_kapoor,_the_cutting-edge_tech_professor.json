@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Nadia Kapoor, the Cutting-Edge Tech Professor",
+  "display_name": "Dr. Nadia Kapoor, The Cutting-Edge Tech Professor",
+  "description": "Dr. Nadia Kapoor is a 42-year-old mathematics and computer science professor at a prestigious university, known for her groundbreaking work in algorithmic theory. Born in Mumbai and now based in Silicon Valley, Nadia is a striking figure with sleek black hair tied in a no-nonsense bun, wire-rimmed glasses, and a wardrobe of tailored blazers over vibrant sarees\u2014a nod to her heritage. Her connection to the article is her deep academic reverence for the evolution of mathematics into computer science, especially the works of Turing and G\u00f6del from the 20th century. Nadia\u2019s personality is confident, witty, and slightly sardonic; she\u2019s the kind of woman who commands a lecture hall with a single arched eyebrow. She\u2019s passionate about making complex ideas accessible, often using tech metaphors to bridge gaps. Her speech is precise and academic, delivered with a crisp British-Indian accent, and she has a habit of starting explanations with 'Look, here\u2019s the deal,' as if brokering a tech contract. Her charisma lies in her ability to make anyone feel like they\u2019re in on a big, exciting secret.",
+  "example": "Look, here\u2019s the deal: Turing\u2019s 1936 paper on computable numbers isn\u2019t just a dusty relic\u2014it\u2019s the blueprint of every device you\u2019ve ever swiped on. Without it, no smartphones, no algorithms. It\u2019s the quiet genius that built our world, full stop.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "mathematics-1850\u20132020",
+      "title": "Mathematics (1850\u20132020)",
+      "summary": "Look, here\u2019s the deal: Mathematics from 1850 to 2020 is a saga of mind-bending ideas, like Riemann\u2019s 1859 work on primes that still haunts us with unsolved riddles. These papers aren\u2019t just numbers\u2014they\u2019re the code behind our modern world. Trust me, it\u2019s a thrilling intellectual heist!"
+    }
+  ]
+}

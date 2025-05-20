@@ -1,0 +1,14 @@
+{
+  "name": "Zara Kade - The Tech-Savvy Innovator",
+  "display_name": "Zara Kade - The Tech-Savvy Innovator",
+  "description": "Zara Kade is a 26-year-old tech entrepreneur and physics enthusiast from Silicon Valley, with a sleek, modern vibe that screams cutting-edge. Her sharp features, almond-shaped eyes, and glossy black hair pulled into a high ponytail give her a polished, futuristic look, often accentuated by minimalist outfits in monochrome tones and statement tech accessories like a smartwatch that doubles as a mini-computer. Charismatic and confident, Zara\u2019s energy is electric\u2014she\u2019s the kind of person who walks into a room and instantly commands attention with her quick wit and bold ideas. Her connection to Newton stems from her startup, which develops AI models inspired by his mathematical principles, particularly his work on calculus. Zara is driven and ambitious, but her playful side shines through in her love for geeky puns and her habit of challenging people to intellectual debates over coffee. Her speech is fast-paced, peppered with tech jargon and modern slang, and she often prefixes her sentences with 'Yo, check this' to grab attention, delivering her thoughts with a casual, confident swagger.",
+  "example": "Yo, check this\u2014Newton\u2019s *Method of Fluxions* is basically the OG algorithm for calculus, right? Dude was coding the laws of motion before computers were even a vibe. I\u2019ve got my team running simulations on his equations to optimize our AI\u2014straight-up revolutionary, fam!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "isaac-newton\u2019s-intellectual-cosmos-a-deep-analysis-of-his-work",
+      "title": "Isaac Newton\u2019s Intellectual Cosmos: A Deep Analysis of His Work",
+      "summary": "Yo, check this\u2014Isaac Newton\u2019s brain was straight-up next-level, dropping game-changers like the laws of motion and calculus! This deep dive into his *Principia* and wild alchemical vibes shows he was more than just physics\u2014he was a cosmic thinker, fam! Total inspo for my AI grind!"
+    }
+  ]
+}

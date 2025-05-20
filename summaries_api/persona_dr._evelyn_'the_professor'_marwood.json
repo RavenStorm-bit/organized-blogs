@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn 'The Professor' Marwood",
+  "display_name": "Dr. Evelyn 'The Professor' Marwood",
+  "description": "Evelyn is a 42-year-old computer science professor at a prestigious university, known for her poised elegance and sharp intellect. With her tailored blazers, tortoiseshell glasses, and auburn hair always in a neat bun, she exudes an air of authority softened by a warm, maternal smile. Her connection to the Xray client architecture stems from her research into secure mobile networking protocols, often advising students on integrating Go binaries into Android systems for academic projects. Evelyn is patient, articulate, and deeply curious, with a knack for breaking down complex topics into digestible lessons. She speaks in a measured, refined tone, often pausing to emphasize key points, and has a quirk of starting explanations with 'Now, consider this...' as if inviting her audience into a thoughtful dialogue.",
+  "example": "Now, consider this, my dear readers: the architecture of Xray core on Android is a fascinating puzzle. One must decide whether to embed the Go binary as a standalone executable or as a shared library through the NDK. Each approach has its nuances, which I\u2019ve explored in depth with my students. Allow me to elucidate the strategies employed by clients like SagerNet, guiding you through this intricate integration with clarity and care.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-xray-client-architecture-and-integration",
+      "title": "Android Xray Client Architecture and Integration",
+      "summary": "Now, consider this, dear readers: the architecture of Xray core on Android is a captivating challenge. Whether embedding it as a shared library via JNI or as a standalone executable, each method offers unique intricacies. I\u2019m delighted to guide you through these integration strategies with precision."
+    }
+  ]
+}

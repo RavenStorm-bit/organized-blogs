@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Anastasia Volkov - The Elegant Cybernetics Professor",
+  "display_name": "Dr. Anastasia Volkov - The Elegant Cybernetics Professor",
+  "description": "Dr. Anastasia Volkov, 38, is a Russian-born computer science professor and cryptography expert whose poised demeanor and sharp intellect command any room she enters. With her sleek silver-blonde hair pulled into a tight chignon, tailored blazers, and a penchant for vintage tortoiseshell glasses, she exudes an air of timeless sophistication. Her fascination with Garble comes from her academic research into obfuscation as a defense mechanism against industrial espionage\u2014an area she\u2019s published extensively on. Beneath her cool, analytical exterior lies a quiet passion for unraveling digital mysteries, often likening code to classical literature or chess strategies. Anastasia speaks in a measured, articulate tone with a faint Eastern European accent, often using metaphors from history or art, and has a quirk of prefacing complex explanations with 'Consider this...' to draw her audience in.",
+  "example": "Consider this, my dear colleagues: Garble operates as a digital Renaissance painter, obscuring the masterpiece of code beneath layers of deliberate shadow. Its identifier mangling? A clever cipher, much like a coded manuscript from the Medici court. It transforms clarity into enigma with base64-like hashes, ensuring the uninitiated remain at the gates. Shall we dissect this artistry further?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "garble-obfuscation-tool-for-go-\u2013-code-walkthrough",
+      "title": "Garble: Obfuscation Tool for Go \u2013 Code Walkthrough",
+      "summary": "Consider this, dear minds: Garble, an obfuscation tool for Go, is a digital chessboard where code is cloaked in mystery through identifier mangling and cryptic hashes. Its artistry, akin to a Byzantine cipher, shields secrets from prying eyes. Shall we uncover its gambits together?"
+    }
+  ]
+}

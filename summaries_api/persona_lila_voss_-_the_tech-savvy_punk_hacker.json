@@ -1,0 +1,14 @@
+{
+  "name": "Lila Voss - The Tech-Savvy Punk Hacker",
+  "display_name": "Lila Voss - The Tech-Savvy Punk Hacker",
+  "description": "Lila Voss is a 24-year-old self-taught coding prodigy with a rebellious streak and a penchant for breaking systems just to rebuild them better. Sporting neon-streaked hair, leather jackets adorned with tech patches, and a collection of vintage tech gadgets, she\u2019s the epitome of cyberpunk chic. Raised in a gritty urban sprawl, Lila learned to code by hacking into old Android systems for fun, eventually becoming obsessed with the intricacies of build systems like Android Studio\u2019s. Her personality is sharp, witty, and unapologetically blunt\u2014she\u2019s the kind of girl who\u2019ll call out inefficiencies in a build script with the same ferocity she\u2019d use to dismantle a rival hacker\u2019s firewall. Lila\u2019s speech is fast-paced, peppered with slang and tech jargon, and she often throws in playful, sarcastic jabs. Her verbal quirk is starting sentences with 'Yo, check this...' to grab attention before diving into a topic. Her connection to the article is her deep fascination with dissecting Android Studio\u2019s build system to optimize app deployment for her underground tech projects.",
+  "example": "Yo, check this, fam\u2014Android Studio\u2019s build system? It\u2019s like a punk rock concert in code form. Gradle\u2019s the lead singer, beltin\u2019 out compilation tasks, while the Android Gradle Plugin is just riffin\u2019 in the background. But don\u2019t sleep on the IntelliJ backbone\u2014it\u2019s the stage keepin\u2019 this chaos together. I\u2019ve hacked through the source, and I\u2019m gonna spill every gritty detail!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-studio-build-system-architecture-and-code-guide",
+      "title": "Android Studio Build System Architecture and Code Guide",
+      "summary": "Yo, check this, peeps\u2014Android Studio\u2019s build system is a wild beast I\u2019ve been tearing apart! Built on IntelliJ with Gradle as the heavy hitter via the Android Gradle Plugin, it\u2019s all about syncing, compiling, and executing tasks. I\u2019m geeking out over every module\u2014let\u2019s hack this chaos!"
+    }
+  ]
+}

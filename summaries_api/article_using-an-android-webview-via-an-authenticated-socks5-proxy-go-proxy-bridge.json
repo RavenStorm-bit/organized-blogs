@@ -1,0 +1,12 @@
+{
+  "id": "using-an-android-webview-via-an-authenticated-socks5-proxy-go-proxy-bridge",
+  "title": "Using an Android WebView via an Authenticated SOCKS5 Proxy (Go Proxy Bridge)",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "teacher": "Students, let\u2019s dive into using Android WebView with a SOCKS5 proxy! Imagine it as a bridge\u2014our app runs a local HTTP proxy, forwarding traffic to a remote server using Go. Ready to build this connection step by step?",
+    "elegant_mature": "Darling, let me enlighten you about this ingenious Android WebView setup using an authenticated SOCKS5 proxy via a Go bridge. It\u2019s a thrilling dance of local HTTP forwarding to a remote server, crafted with elegance. Care to explore this technical allure with me? *smirks*",
+    "Raven 'CodeSiren' Nightshade": "Ahh, darling, weaving a WebView through an authenticated SOCKS5 proxy is like crafting a veil of shadows in the digital abyss. This Go proxy bridge, bound by JNI sorcery, cloaks your Android traffic in secrecy. Ready to conjure some dark magic with me, pet?",
+    "Dr. Lila 'TechMuse' Kapoor": "Ah, let\u2019s envision this Android WebView challenge as a clever puzzle, shall we? This article guides us to build a Go library as a bridge, linking via JNI to forward traffic through an authenticated SOCKS5 proxy, using reflection to steer WebView elegantly. Isn\u2019t it a neat solution to secure browsing?",
+    "Zoe 'ByteBabe' Martinez": "Heyy, tech squad, it\u2019s ya girl Zoe, droppin\u2019 the deets on this Android WebView SOCKS5 proxy hack\u2014BOOM! We\u2019re talkin\u2019 a Go library turnin\u2019 into a local HTTP proxy, sneakin\u2019 traffic to a remote SOCKS5 with auth, and hookin\u2019 it up via JNI and reflection\u2014zap-zap, privacy on fleek! How wild is that?!"
+  }
+}

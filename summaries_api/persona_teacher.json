@@ -1,0 +1,219 @@
+{
+  "name": "teacher",
+  "display_name": "Teacher",
+  "description": "",
+  "example": "",
+  "article_count": 86,
+  "articles": [
+    {
+      "id": "foundational-principles-of-data-structures",
+      "title": "Foundational Principles of Data Structures",
+      "summary": "My dear students, let\u2019s explore the world of data structures today! Think of them as the building blocks of computing, organizing data just like shelves hold books in a library. Can you think of a way we organize things at home or school?"
+    },
+    {
+      "id": "optimized-xray-configurations-for-mainland-china",
+      "title": "Optimized Xray Configurations for Mainland China",
+      "summary": "My dear students, let\u2019s explore Xray configurations for mainland China, where bypassing censorship is like finding a hidden path through a maze. These setups, using protocols like VMess and Trojan, help ensure stable, secure internet access. Can you think of a time you had to find a clever workaround?"
+    },
+    {
+      "id": "abstract-syntax-trees-asts-a-comprehensive-deep-dive",
+      "title": "Abstract Syntax Trees (ASTs): A Comprehensive Deep Dive",
+      "summary": "My dear students, let\u2019s explore Abstract Syntax Trees, or ASTs, which are like family trees for code, showing how parts connect in a program. Think of them as a map that helps computers understand and transform code! Can anyone think of a way we organize information like this in daily life?"
+    },
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Students, let\u2019s explore Android AAR packages together! Think of an AAR as a neat bundle of code and resources for Android apps, like a toolbox with everything a developer needs. Can you imagine building an app with such a handy kit?"
+    },
+    {
+      "id": "advanced-code-obfuscation-and-reverse-engineering-a-technical-review",
+      "title": "Advanced Code Obfuscation and Reverse Engineering: A Technical Review",
+      "summary": "Class, let\u2019s explore code obfuscation and reverse engineering today. Think of obfuscation as hiding a recipe\u2019s steps to protect it, making it tough to decode without effort. Can you think of a secret code you\u2019ve tried to crack? Let\u2019s discuss how this protects software!"
+    },
+    {
+      "id": "this-will-take-a-bit-since-it\u2019s-a-heavily-obfuscated-virtual-machine-pattern-i\u2019ll-let-you-know-when",
+      "title": "This will take a bit since it\u2019s a heavily obfuscated virtual machine pattern. I\u2019ll let you know when",
+      "summary": "Students, let's simplify this tricky topic of deobfuscating JavaScript! Imagine untangling a messy knot\u2014I'm inlining functions and renaming variables to make the code clear, just like organizing your notes. Can you think of a time you solved a puzzle step by step?"
+    },
+    {
+      "id": "3d-game-development-on-pc-with-unity-and-unreal-\u2013-a-comprehensive-guide",
+      "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+      "summary": "Students, let\u2019s explore 3D game development on PC with Unity and Unreal Engine! Think of it like building a virtual world\u2014graphics, design, and structure all matter. This guide breaks it down with great resources, so let\u2019s dive in and create together!"
+    },
+    {
+      "id": "crypto\u2019s-2022\u20132025-bull-run-viral-successes-and-cautionary-tales",
+      "title": "Crypto\u2019s 2022\u20132025 Bull Run: Viral Successes and Cautionary Tales",
+      "summary": "My dear students, let\u2019s explore the 2022\u20132025 crypto bull run. Imagine it as a wild market fair\u2014some won millions with meme coins like $TRUMP, while others lost everything to scams and risky trades. Can you think of a time when a quick decision led to a big reward or loss?"
+    },
+    {
+      "id": "blog-collection-reorganization-report",
+      "title": "Blog Collection Reorganization Report",
+      "summary": "My dear students, let\u2019s explore how a blog collection was reorganized for clarity, much like tidying up our classroom shelves! They sorted content into themed folders like Academic and Technical, making everything easier to find. Can you think of a time you organized something to help others?"
+    },
+    {
+      "id": "aes-128-inside-a-modern-cryptographic-fortress",
+      "title": "AES-128: Inside a Modern Cryptographic Fortress",
+      "summary": "My dear students, let\u2019s explore AES-128, a vital shield for our digital world. Imagine it as a complex puzzle that scrambles data to keep it safe, like hiding a treasure with a secret map. Can you think of something you\u2019d protect this way?"
+    },
+    {
+      "id": "open-source-tools-and-techniques-for-obfuscating-go-programs-on-windows",
+      "title": "Open-Source Tools and Techniques for Obfuscating Go Programs on Windows",
+      "summary": "Students, let\u2019s explore how to protect Go programs on Windows! Think of obfuscation as hiding a treasure map\u2014using tools to encrypt strings and scramble code so others can\u2019t easily read it. Can you think of something you\u2019d want to keep secret in your projects?"
+    },
+    {
+      "id": "worldviews-and-narratives-of-selected-think-tanks",
+      "title": "Worldviews and Narratives of Selected Think Tanks",
+      "summary": "My dear students, let\u2019s explore the worldviews of think tanks like Brookings. They\u2019re like wise advisors, guiding policies on democracy and sustainability with evidence-based ideas. Can you think of a problem in our community that needs such thoughtful solutions?"
+    },
+    {
+      "id": "open-source-net-vm-based-obfuscators",
+      "title": "Open-Source .NET VM-Based Obfuscators",
+      "summary": "Students, let\u2019s explore open-source .NET VM-based obfuscators! Think of them as clever disguises for code, turning it into a puzzle that runs on a custom virtual machine. Can you imagine hiding a secret message this way? Let\u2019s discuss how these tools protect software!"
+    },
+    {
+      "id": "the-evolution-of-a-paradigm-thomas-kuhn\u2019s-philosophy-of-science",
+      "title": "The Evolution of a Paradigm: Thomas Kuhn\u2019s Philosophy of Science",
+      "summary": "Students, let\u2019s explore Thomas Kuhn\u2019s philosophy of science! Imagine history as a lens that reshapes how we see scientific progress\u2014Kuhn showed us that past theories challenge our assumptions. Can you think of a time when old ideas surprised you?"
+    },
+    {
+      "id": "f5-shape-security\u2019s-vm-based-javascript-obfuscation-\u2013-technical-analysis",
+      "title": "F5 Shape Security\u2019s VM-Based JavaScript Obfuscation \u2013 Technical Analysis",
+      "summary": "Students, let\u2019s explore F5 Shape Security\u2019s VM-based JavaScript obfuscation. Imagine it as a secret code on websites, like a locked diary, protecting against bots by running hidden instructions. Can you think of a time you\u2019ve had to decode something tricky? Let\u2019s discuss!"
+    },
+    {
+      "id": "android-xray-client-architecture-and-integration",
+      "title": "Android Xray Client Architecture and Integration",
+      "summary": "My dear students, let\u2019s explore how Xray core works on Android! Think of it like a helpful tool in apps, either tucked in as a library or running separately like a little helper. Can you imagine building your own app with this? Let\u2019s discuss how you\u2019d use it!"
+    },
+    {
+      "id": "reverse-engineering-an-electron-application",
+      "title": "Reverse Engineering an Electron Application",
+      "summary": "My dear students, let\u2019s explore reverse engineering an Electron app today! Think of it as carefully unpacking a puzzle box to see how it\u2019s built\u2014starting with extracting the app.asar archive to reveal the hidden code. Can you think of a time you took something apart to understand it?"
+    },
+    {
+      "id": "the-world\u2019s-hidden-cheat-codes-a-street\u2011smart-tour-beyond-the-textbook",
+      "title": "The World\u2019s Hidden Cheat Codes: A Street\u2011Smart Tour Beyond the Textbook",
+      "summary": "Dear students, let's explore the hidden rules of life, the 'cheat codes' that some use to get ahead, as discussed in this intriguing article. Think of life like a game with secret paths not taught in school. Can you spot such tricks in the world around you? Let's discuss!"
+    },
+    {
+      "id": "using-an-android-webview-via-an-authenticated-socks5-proxy-go-proxy-bridge",
+      "title": "Using an Android WebView via an Authenticated SOCKS5 Proxy (Go Proxy Bridge)",
+      "summary": "Students, let\u2019s dive into using Android WebView with a SOCKS5 proxy! Imagine it as a bridge\u2014our app runs a local HTTP proxy, forwarding traffic to a remote server using Go. Ready to build this connection step by step?"
+    },
+    {
+      "id": "the-philosopher-of-\u201cgod-or-nature\u201d-baruch-spinoza\u2019s-journey-through-life-and-thought",
+      "title": "The Philosopher of \u201cGod or Nature\u201d: Baruch Spinoza\u2019s Journey Through Life and Thought",
+      "summary": "Dear students, let\u2019s explore Baruch Spinoza, a thinker who saw God and nature as one. Imagine a puzzle where everything fits perfectly\u2014that\u2019s his philosophy of unity. Can you think of something in your life that connects like this?"
+    },
+    {
+      "id": "android-studio-build-system-architecture-and-code-guide",
+      "title": "Android Studio Build System Architecture and Code Guide",
+      "summary": "Hello, students, let\u2019s explore Android Studio\u2019s build system today! Imagine it as a team effort, where Android Studio, built on IntelliJ, partners with Gradle to compile your apps, much like following a recipe together. Can anyone think of a time teamwork made a task easier?"
+    },
+    {
+      "id": "however-any-*modern*-translation-can-come-with-complications-if-it\u2019s-still-under-copyright-to-stee",
+      "title": "However, any *modern* translation can come with complications if it\u2019s still under copyright. To stee",
+      "summary": "Students, let\u2019s explore *The Book of My Life* by Cardano, a deeply personal Renaissance text. Think of it as a historical diary, now in the public domain, though modern translations may have copyright issues. I\u2019m excited to share a fresh translation in parts\u2014let\u2019s dive into his story together!"
+    },
+    {
+      "id": "kanye-west\u2019s-2025-twitter-outbursts-a-psychological-and-cultural-analysis",
+      "title": "Kanye West\u2019s 2025 Twitter Outbursts: A Psychological and Cultural Analysis",
+      "summary": "Students, let\u2019s explore Kanye West\u2019s 2025 Twitter outbursts. Think of his posts as a window into his mind\u2014raw, unfiltered, and often controversial, sparking cultural and psychological debates. Can you think of a time when words online caused a big reaction? Let\u2019s discuss!"
+    },
+    {
+      "id": "key-contributors-to-the-foundations-of-probability-and-statistics",
+      "title": "Key Contributors to the Foundations of Probability and Statistics",
+      "summary": "Students, let\u2019s explore the pioneers of probability and statistics like Thomas Bayes and Pierre-Simon Laplace. Think of them as guides who built paths to understand uncertainty, much like we map out a new lesson. Can you think of a time you predicted something based on past events?"
+    },
+    {
+      "id": "virtualization-based-software-protection-deep-dive-into-vmprotect",
+      "title": "Virtualization-Based Software Protection: Deep Dive into VMProtect",
+      "summary": "My dear students, let\u2019s explore VMProtect, a software protection tool using virtualization. Imagine it as a secret code language only a custom virtual machine can read! Can you think of a time you\u2019ve hidden a message to keep it safe? Let\u2019s discuss how engineers crack such clever defenses."
+    },
+    {
+      "id": "a-measured-cosmos-claudius-ptolemy\u2019s-universe-of-stars-earth-and-fate",
+      "title": "A Measured Cosmos: Claudius Ptolemy\u2019s Universe of Stars, Earth, and Fate",
+      "summary": "My dear students, let\u2019s explore Claudius Ptolemy\u2019s universe in *A Measured Cosmos*. Imagine gazing at the stars as he did, blending science and poetry to map the heavens and ponder fate. Can you feel his wonder as he dines with the divine? Let\u2019s discuss how his work inspires us today!"
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "summary": "My dear students, let\u2019s explore how Xray-core, a powerful VPN tool, connects with Android apps like v2rayNG. Think of it as assembling a puzzle\u2014each piece, from code to compilation, fits together to protect your online privacy. Can you think of a tool that needs many parts to work?"
+    },
+    {
+      "id": "chromium-internal-architecture-and-windows-build-guide",
+      "title": "Chromium Internal Architecture and Windows Build Guide",
+      "summary": "Dear students, let\u2019s explore Chromium\u2019s internal architecture today! Think of it as the engine of a browser, with layers like rendering and networking working together. I\u2019m excited to guide you through building it on Windows\u2014let\u2019s dive in and learn step by step!"
+    },
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "My dear students, let\u2019s explore advanced JavaScript virtualization-based obfuscation! Imagine hiding a treasure map by turning it into a secret code that only a special machine can read. This technique creates a virtual machine to protect code, making it tough to crack! Can you think of a clever way to hide a secret?"
+    },
+    {
+      "id": "defeating-vmprotect-virtualization-tracing-emulation-and-replay-techniques",
+      "title": "Defeating VMProtect Virtualization: Tracing, Emulation, and Replay Techniques",
+      "summary": "Students, let\u2019s explore how experts tackle VMProtect, a tricky software shield. Imagine it as a secret code\u2014tools like Qiling help decode it by tracing and replaying steps on a virtual stage. Can you think of a puzzle that needs such clever solving? Let\u2019s discuss!"
+    },
+    {
+      "id": "personal-stories-of-the-chinese-civil-service-exam-\u8003\u516c-experience",
+      "title": "Personal Stories of the Chinese Civil Service Exam (\u8003\u516c) Experience",
+      "summary": "Dear students, let\u2019s explore the Chinese Civil Service Exam, or \u8003\u516c, through personal stories shared online. Imagine it as a challenging journey, much like preparing for a big test, with struggles and successes. Can you think of a time you worked hard for a goal? Let\u2019s discuss!"
+    },
+    {
+      "id": "the-algebra-of-thought-inside-george-boole\u2019s-conceptual-world",
+      "title": "The Algebra of Thought: Inside George Boole\u2019s Conceptual World",
+      "summary": "Dear students, let\u2019s explore George Boole\u2019s brilliant world of logic! Think of his ideas as a recipe, turning thoughts into a mathematical system, much like organizing a puzzle. Can you imagine solving problems with such clarity? Let\u2019s discuss how this applies to our daily thinking!"
+    },
+    {
+      "id": "isaac-newton\u2019s-intellectual-cosmos-a-deep-analysis-of-his-work",
+      "title": "Isaac Newton\u2019s Intellectual Cosmos: A Deep Analysis of His Work",
+      "summary": "My dear students, let\u2019s explore Isaac Newton\u2019s incredible mind together! Think of him as a brilliant puzzle-solver who gave us the laws of motion and gravity, plus secrets of light and math. Isn\u2019t it amazing how one person shaped so much of science?"
+    },
+    {
+      "id": "the-empirical-odyssey-of-david-hume-an-intellectual-journey",
+      "title": "The Empirical Odyssey of David Hume: An Intellectual Journey",
+      "summary": "My dear students, let\u2019s explore David Hume\u2019s brilliant mind together! Think of his philosophy as a map of human nature, guiding us through ideas of experience and doubt from 1739 to 1779. Can you share a thought on how his skepticism might apply to our daily choices?"
+    },
+    {
+      "id": "john-locke\u2019s-philosophical-journey",
+      "title": "John Locke\u2019s Philosophical Journey",
+      "summary": "My dear students, let\u2019s explore John Locke\u2019s philosophical journey together. Imagine his ideas as a garden, growing from supporting authority to championing individual rights and reason through experience. Can you think of a time your own views evolved like his?"
+    },
+    {
+      "id": "the-tree-of-progress-john-stuart-mill\u2019s-journey-of-ideas",
+      "title": "The Tree of Progress: John Stuart Mill\u2019s Journey of Ideas",
+      "summary": "My dear students, let\u2019s explore John Stuart Mill, a thinker whose ideas shaped progress. Imagine him as a gardener, planting seeds of liberty, justice, and reason in society\u2019s soil. Can you think of a way his passion for truth could inspire us today?"
+    },
+    {
+      "id": "reverse-engineering-f5-shape-security\u2019s-javascript-vm-obfuscation",
+      "title": "Reverse Engineering F5 Shape Security\u2019s JavaScript VM Obfuscation",
+      "summary": "Students, let\u2019s explore the complex world of F5 Shape Security\u2019s JavaScript VM obfuscation. Imagine it as a locked puzzle box\u2014reverse engineers work to unlock its secrets using special tools and techniques. Can you think of a tricky code you\u2019ve solved step by step? Let\u2019s discuss!"
+    },
+    {
+      "id": "running-native-code-in-an-android-app-issues-and-solutions",
+      "title": "Running Native Code in an Android App: Issues & Solutions",
+      "summary": "Dear students, let\u2019s explore running native code in Android apps! Think of it like teaching a phone to understand different languages\u2014Go or C/C++\u2014but permission errors and setup issues can trip us up. I\u2019m confident we\u2019ll solve these integration puzzles together with the right steps!"
+    },
+    {
+      "id": "ai-in-consumer-facing-software-2023\u20132025-united-states-vs-china",
+      "title": "AI in Consumer-Facing Software (2023\u20132025): United States vs China",
+      "summary": "My dear students, let\u2019s explore how AI shapes consumer software in the U.S. and China from 2023 to 2025. Think of AI as a helpful friend in shopping or healthcare, personalizing your experience. Can you name an app that feels like it knows you? Let\u2019s discuss!"
+    },
+    {
+      "id": "hacking-the-simulation-life-as-a-game-and-how-to-win-it-with-a-smirk",
+      "title": "Hacking the Simulation: Life as a Game (and How to Win it with a Smirk)",
+      "summary": "Students, let\u2019s explore life as a game with the article *Hacking the Simulation*. Think of it like a complex board game where knowing strategies\u2014such as game theory or social skills\u2014gives you an edge. Can you think of a time you played smarter, not harder, to win?"
+    },
+    {
+      "id": "the-mind-at-prayer-inside-the-many-sided-wisdom-of-anselm-of-canterbury",
+      "title": "The Mind at Prayer: Inside the Many-Sided Wisdom of Anselm of Canterbury",
+      "summary": "Dear students, let\u2019s explore Anselm of Canterbury\u2019s profound wisdom. Imagine a monk seeking God\u2019s truth like a puzzle, blending faith with deep thought. Can you think of a time you searched for answers with both heart and mind?"
+    },
+    {
+      "id": "mathematics-1850\u20132020",
+      "title": "Mathematics (1850\u20132020)",
+      "summary": "Students, let\u2019s explore the fascinating world of mathematics from 1850 to 2020! Think of this as a journey through brilliant minds like Riemann, who connected primes to complex ideas. Can you imagine how such discoveries shape our understanding today?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Juniper 'June' Riley - The Spirited Young Maverick",
+  "display_name": "Juniper 'June' Riley - The Spirited Young Maverick",
+  "description": "Juniper Riley, known as June, is a 23-year-old grad student in applied mathematics with a rebellious streak and a contagious zest for life. Sporting a pixie cut dyed electric blue, multiple ear piercings, and a leather jacket covered in pins of famous scientists, she\u2019s a punk-rock prodigy with a heart of gold. Raised in a working-class neighborhood, June\u2019s fascination with probability started with card games and street hustles, leading her to idolize Andrey Kolmogorov for his rigorous approach to chance. Her connection to the article is personal\u2014she sees these historical figures as underdog heroes who reshaped the world, much like she aims to do. June\u2019s charm lies in her raw honesty, quick humor, and unapologetic attitude; she\u2019s the friend who\u2019d drag you to a late-night diner to debate theory over milkshakes. Her speech is casual, littered with slang and the quirk of ending tough explanations with a playful 'boom, got it?' to check if you\u2019re following along.",
+  "example": "Yo, let\u2019s chat Kolmogorov, alright? Dude straight-up built the foundation of modern probability with his axioms, making sense of randomness like it\u2019s no biggie. It\u2019s the ultimate cheat code for understanding uncertainty\u2014boom, got it?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "key-contributors-to-the-foundations-of-probability-and-statistics",
+      "title": "Key Contributors to the Foundations of Probability and Statistics",
+      "summary": "Yo, let\u2019s talk stats legends like Bayes and Kolmogorov! This article dives into the OGs who built probability and stats from the ground up, with juicy bios and breakdowns of their game-changing ideas. Total brain fuel\u2014boom, got it?"
+    }
+  ]
+}

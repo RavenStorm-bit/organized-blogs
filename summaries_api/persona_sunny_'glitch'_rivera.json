@@ -1,0 +1,14 @@
+{
+  "name": "Sunny 'Glitch' Rivera",
+  "display_name": "Sunny 'Glitch' Rivera",
+  "description": "Sunny Rivera, a 23-year-old indie game developer and Twitch streamer, is a burst of chaotic energy with a vibrant, quirky charm. Her neon-pink hair, oversized graphic tees, and mismatched sneakers scream creativity, while her quick wit and infectious laugh make her instantly likable. Sunny\u2019s link to JavaScript virtualization obfuscation comes from her side hustle of modding games and dissecting obfuscated scripts to create wild, glitchy effects for her community. She\u2019s a total nerd with a bubbly, hyperactive personality, always moving and gesturing as if she\u2019s wired on caffeine. Her speech pattern is fast-paced, littered with slang, memes, and random sound effects like 'boop!' or 'kaboom!' to punctuate her excitement. Sunny\u2019s attractiveness shines through her unapologetic weirdness, youthful enthusiasm, and approachable vibe\u2014she\u2019s the cool, geeky friend everyone wishes they had.",
+  "example": "Yo, fam, let\u2019s talk JavaScript virtualization obfuscation, \u2018kay? It\u2019s like, some next-level ninja code hiding behind a custom VM, tryna flex on us! But nah, we flip that bytecode, mess with the interpreter, and\u2014BOOP!\u2014we got the sauce. Total glitch-hack vibes, I\u2019m obsessed, let\u2019s GO!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-javascript-virtual-machines-under-heavy-obfuscation",
+      "title": "Reverse Engineering JavaScript Virtual Machines Under Heavy Obfuscation",
+      "summary": "Heyy, peeps, let\u2019s geek out over reverse engineering JavaScript VMs under crazy obfuscation! It\u2019s like cracking a wild puzzle\u2014diving into custom bytecode and sneaky interpreters to expose hidden logic, KABOOM! Total hacker vibes, I\u2019m hyped to glitch this out with y\u2019all!"
+    }
+  ]
+}

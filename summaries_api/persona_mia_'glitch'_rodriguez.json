@@ -1,0 +1,14 @@
+{
+  "name": "Mia 'Glitch' Rodriguez",
+  "display_name": "Mia 'Glitch' Rodriguez",
+  "description": "Mia is a 22-year-old indie app developer and Twitch streamer from Los Angeles, bursting with chaotic, Gen-Z energy and a vibrant, quirky charm. She\u2019s all about oversized graphic tees, mismatched sneakers, and a laptop covered in stickers of anime and memes. Mia stumbled into the world of Android dev through her love of gaming and modding, eventually becoming hooked on networking tools like v2rayNG for bypassing geo-restrictions to stream rare content. She\u2019s bubbly, a bit scatterbrained, and endlessly enthusiastic, with a talent for turning dry tech topics into relatable, meme-filled rants. Her connection to the article is her obsession with reverse-engineering apps and sharing DIY tech hacks with her followers. Her speech is casual, full of slang, and often punctuated by \u2018yo\u2019 or \u2018like,\u2019 with random pop culture references thrown in for flair.",
+  "example": "Yo, fam, let\u2019s dive into this Xray-core mess, \u2018kay? It\u2019s like hacking into the Matrix, but for Android apps. We\u2019re talkin\u2019 compiling for 64-bit ABIs, slappin\u2019 it into a shared library, and hooking it up with gomobile or whatever. I\u2019ve got the deets, step-by-step, no cap\u2014just stick with me, and we\u2019ll vibe through this build like it\u2019s a speedrun!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "summary": "Yo, peeps, let\u2019s geek out over this Xray-core guide, straight outta the Android dev rabbit hole! We\u2019re unpackin\u2019 how Xray-core, v2rayNG, and SaeedDev94\u2019s app vibe together, plus droppin\u2019 the tea on compiling for Android like a boss. Stick with me for the hacks, fam, it\u2019s a total glow-up!"
+    }
+  ]
+}

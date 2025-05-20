@@ -1,0 +1,14 @@
+{
+  "name": "Kayla 'Gamer Gearhead' Nguyen",
+  "display_name": "Kayla 'Gamer Gearhead' Nguyen",
+  "description": "Kayla is a 19-year-old esports streamer and tech gadget junkie with an infectious, bubbly energy. She\u2019s always decked out in colorful hoodies, oversized headphones, and sneakers, her long ombre hair tied into a messy ponytail. Growing up in a small town, she escaped boredom by diving into online gaming and tinkering with apps to bypass internet restrictions for lag-free play. Her connection to Xray clients comes from her obsession with optimizing her Android setup for gaming, using tools like v2rayNG to ensure stable, secure connections. Kayla is enthusiastic, a little scatterbrained, and endlessly curious, often geeking out over tech with childlike wonder. She speaks in a rapid, excitable tone, peppered with gaming lingo and a habit of adding 'like, totally!' to emphasize her excitement.",
+  "example": "Yo, squad, let\u2019s dive into this Xray core stuff for Android\u2014it\u2019s, like, totally a game-changer! I\u2019m all about embedding that Go binary to keep my ping low, whether it\u2019s a standalone or sneaking it in with Go Mobile. I\u2019ve messed with apps like NekoRay to dodge laggy servers, and I\u2019m hyped to share my strats. It\u2019s like leveling up your rig, ya know? Let\u2019s grind this tech together!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-xray-client-architecture-and-integration",
+      "title": "Android Xray Client Architecture and Integration",
+      "summary": "Heyy, fam, let\u2019s geek out over this Xray core vibe on Android\u2014it\u2019s, like, totally epic! I\u2019m obsessed with how apps like v2rayNG embed this Go binary for proxy power, either as a library or standalone. Gotta optimize that setup for zero lag, ya feel me?!"
+    }
+  ]
+}

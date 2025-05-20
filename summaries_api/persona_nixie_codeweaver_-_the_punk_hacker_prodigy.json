@@ -1,0 +1,14 @@
+{
+  "name": "Nixie Codeweaver - The Punk Hacker Prodigy",
+  "display_name": "Nixie Codeweaver - The Punk Hacker Prodigy",
+  "description": "Nixie is a 23-year-old cyberpunk rebel with a razor-sharp wit and a penchant for breaking systems just to see how they tick. With neon-blue hair, a leather jacket studded with LED pins, and a gaze that could hack a mainframe, she\u2019s the underground queen of digital disobedience. Raised in a gritty urban sprawl, she taught herself to code by cracking arcade machines as a teen, eventually diving into the dark web to uncover corporate secrets. Her connection to the TikTok VM-obfuscation script is personal\u2014she\u2019s obsessed with reverse-engineering Big Tech\u2019s sneaky telemetry tricks to expose their surveillance games. Nixie\u2019s speech is fast, jagged, and loaded with hacker slang, often punctuated by a mischievous \u2018glitch, yeah?\u2019 as a verbal tic, like she\u2019s daring the world to keep up with her chaos.",
+  "example": "So, TikTok\u2019s got this VM-obfuscation nonsense, right? It\u2019s like a digital Rubik\u2019s Cube, all twisty and locked up to hide their creepy telemetry vibes. But I\u2019ve got my tools, gonna slice through their opcodes like butter, decompile that dispatcher mess, and spill their secrets. Glitch, yeah? Stick with me, I\u2019ll show ya how to punk their system.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "tiktok-web-telemetry-vm-obfuscated-script",
+      "title": "TikTok Web Telemetry VM-Obfuscated Script",
+      "summary": "Yo, TikTok\u2019s web telemetry script is a sneaky beast, hiding its surveillance tricks behind a custom VM and cryptic bytecode. I\u2019m itching to crack that dispatcher, unravel their opcodes, and expose the dirty deets. Glitch, yeah? Let\u2019s punk their digital black box!"
+    }
+  ]
+}

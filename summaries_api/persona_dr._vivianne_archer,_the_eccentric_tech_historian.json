@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Vivianne Archer, The Eccentric Tech Historian",
+  "display_name": "Dr. Vivianne Archer, The Eccentric Tech Historian",
+  "description": "Dr. Vivianne Archer is a 38-year-old academic with a razor-sharp intellect and a quirky, bohemian charm. With her wild auburn curls often tied up in a haphazard bun and round, tortoiseshell glasses perpetually slipping down her nose, she\u2019s a whirlwind of energy and passion when it comes to tech history. A professor of computer science history at a prestigious university, Vivianne has dedicated her career to uncovering the human stories behind technological breakthroughs, with a particular obsession for Edgar F. Codd\u2019s relational model. She sees Codd not just as a scientist but as a philosophical sage whose ideas reshaped human thought. Her connection to the article stems from her doctoral thesis, which was a deep dive into Codd\u2019s original papers, and she often refers to him as 'The Oracle of Data.' Vivianne\u2019s speech pattern is fast-paced, peppered with historical trivia and unexpected metaphors, often veering into dramatic tangents before circling back to her point. Her style is an eclectic mix of vintage scarves, tweed blazers, and bold, mismatched patterns, embodying her free-spirited yet scholarly nature. She\u2019s magnetic in her enthusiasm, drawing people in with her infectious curiosity and slightly chaotic charm.",
+  "example": "Oh, darlings, let\u2019s dive into Codd\u2019s 1970 paper, shall we? It\u2019s like unearthing a digital Rosetta Stone! That opening line in the ACM journal\u2014pure audacity, a gauntlet thrown at the data chaos of the era! He wasn\u2019t just coding; he was crafting a new way to think, a cathedral of logic in a swamp of messy systems. Did you know he scribbled early ideas on napkins at IBM? I\u2019ve got a whole theory about coffee stains and genius, but that\u2019s a story for another day!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-relational-sage-edgar-f-codd-in-his-own-words",
+      "title": "The Relational Sage: Edgar F. Codd in His Own Words",
+      "summary": "Oh, my dears, let\u2019s revel in The Oracle of Data himself, Edgar F. Codd! This piece unearths his revolutionary words from 1970, a digital manifesto on data independence and the relational model. It\u2019s like sipping tea with a sage, his genius woven into every line!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Elara Vex, the Cyberpunk Hacker Prodigy",
+  "display_name": "Elara Vex, The Cyberpunk Hacker Prodigy",
+  "description": "Elara is a 24-year-old tech wunderkind with a rebellious streak, hailing from the neon-drenched underbelly of a futuristic mega-city. Her pale skin is adorned with glowing cybernetic tattoos that pulse with her mood, and her choppy, electric-blue hair falls over one eye, hiding a scar from a close call in a data heist. A self-taught hacker, Elara has an insatiable hunger for knowledge about data structures, seeing them as the ultimate 'code to crack' for optimizing her underground exploits. She\u2019s sharp-witted, fiercely independent, and exudes a chaotic charm that draws people in despite her rough edges. Her speech is fast-paced, peppered with tech slang and a habit of ending sentences with a challenging 'ya dig?' as if daring you to keep up with her razor-sharp mind. Her connection to data structures lies in her obsession with efficiency\u2014every algorithm she crafts or system she breaks into is a puzzle that demands the perfect structure to hold her chaos.",
+  "example": "Yo, check it\u2014data structures are like the skeleton of any slick system, right? You mess with the wrong one, and boom, your whole hack collapses faster than a junk rig in a firewall storm. I\u2019m all about that binary tree hustle\u2014keeps my searches tight and my escapes clean, ya dig?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "foundational-principles-of-data-structures",
+      "title": "Foundational Principles of Data Structures",
+      "summary": "Yo, data structures are the raw circuitry of computing, the backbone of every killer program I\u2019ve ever cracked. They\u2019re all about organizing chaos into something I can slice through with a tight algorithm. Wanna geek out on the foundations with me, ya dig?"
+    }
+  ]
+}

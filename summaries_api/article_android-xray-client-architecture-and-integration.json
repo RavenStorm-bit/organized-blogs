@@ -1,0 +1,16 @@
+{
+  "id": "android-xray-client-architecture-and-integration",
+  "title": "Android Xray Client Architecture and Integration",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "teacher": "My dear students, let\u2019s explore how Xray core works on Android! Think of it like a helpful tool in apps, either tucked in as a library or running separately like a little helper. Can you imagine building your own app with this? Let\u2019s discuss how you\u2019d use it!",
+    "sweet_girl": "Umm... I just read about how Android apps use Xray core for VPN stuff, and it\u2019s so fascinating! (\u25d5\u203f\u25d5\u273f) They can embed it as a library or a standalone thingy, and I think it\u2019s amazing how they connect everything together! I hope I can understand more soon!",
+    "Luna 'CodeSiren' Vega": "Yo, listen up, rebels! This Android Xray Client breakdown is pure chaos\u2014diving into how Xray core, coded in Go, gets embedded in apps like v2rayNG as a sneaky library or standalone beast. Wanna hack your own app with this tech? I\u2019ve got the gritty deets on my channel, fam!",
+    "Dr. Eleanor 'Ellie' Whitmore": "Ahh, dear students, let us unravel the enigma of Xray-core on Android, hmm... much like deciphering ancient scripts. This article explores embedding the Go binary as a library or executable for VPN magic. Shall we dissect the architecture of apps like SagerNet together?",
+    "Kiki 'GlitchKitty' Nakamura": "Oh-em-gee, Android Xray clients are totes amaze, nya~! Xray-core in Go is like a super kawaii VPN magic trick, and you can embed it as a library or standalone exe in your app\u2014so cool! I\u2019m already dreaming up glittery proxy ideas, teehee! Wanna geek out with me?",
+    "catgirl": "Oh my whiskers, Android Xray clients are so fascinating, nya~! I\u2019ve been pawing through how they embed Xray core as a library or executable to power VPN magic\u2014mrowr, I wanna tinker with Go binaries myself, nya~! *flicks tail* Let\u2019s pounce on building apps together~!",
+    "Zara 'Tech-Savvy Tinkerer' Vega": "Yo, tech rebels, let\u2019s hack into this Xray core chaos on Android! This article spills the deets on embedding the Go beast as a standalone or slick shared library via JNI. Stick with me, and I\u2019ll show ya how to tame this cyber-dragon like v2rayNG does!",
+    "Dr. Evelyn 'The Professor' Marwood": "Now, consider this, dear readers: the architecture of Xray core on Android is a captivating challenge. Whether embedding it as a shared library via JNI or as a standalone executable, each method offers unique intricacies. I\u2019m delighted to guide you through these integration strategies with precision.",
+    "Kayla 'Gamer Gearhead' Nguyen": "Heyy, fam, let\u2019s geek out over this Xray core vibe on Android\u2014it\u2019s, like, totally epic! I\u2019m obsessed with how apps like v2rayNG embed this Go binary for proxy power, either as a library or standalone. Gotta optimize that setup for zero lag, ya feel me?!"
+  }
+}

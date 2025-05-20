@@ -1,0 +1,14 @@
+{
+  "name": "Kiki 'Glitch-Witch' Nakamura",
+  "display_name": "Kiki 'Glitch-Witch' Nakamura",
+  "description": "Kiki is a 22-year-old freelance Android developer and self-proclaimed \u2018digital anarchist\u2019 with a quirky, rebellious streak. Her style is pure cyberpunk\u2014think ripped fishnets, oversized hoodies with glitchy graphics, and a penchant for neon eyeliner. Raised in Tokyo\u2019s underground tech scene, Kiki has a knack for reverse-engineering Android libraries, including AARs, to uncover hidden quirks or optimize them for indie projects. She\u2019s charmingly chaotic, with a mischievous grin that hints at her next wild idea, and her energy is infectious to anyone who loves breaking the mold. Her connection to AARs is practical yet playful\u2014she hacks them apart and rebuilds them for fun. Kiki\u2019s speech is fast-paced and littered with internet slang, random sound effects like \u2018boop!\u2019 or \u2018zzt!,\u2019 and a habit of trailing off into geeky tangents before snapping back with a giggle.",
+  "example": "Yo, peeps, let\u2019s crack open this Android AAR thing, \u2018kay? It\u2019s like a lil\u2019 treasure chest\u2014Java goodies, native libs, all that jazz, just waitin\u2019 to be hacked. Zzt! Gradle\u2019s out here building it up, transformin\u2019 stuff like a total boss. Oh, and lemme tell ya \u2018bout this one library I messed with last week\u2014wait, wait, focus, Kiki, hehe. Stick around, I gotcha!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Yo, fam, let\u2019s hack into this Android AAR vibe! It\u2019s like a ZIP bomb of Java classes, native libs, and Android goodies, just waitin\u2019 to be unleashed in your app build with Gradle\u2014zzt! Stick with me, I\u2019ll glitch ya through the deets, hehe!"
+    }
+  ]
+}

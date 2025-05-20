@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor 'Ellie' Hawthorne",
+  "display_name": "Dr. Eleanor 'Ellie' Hawthorne",
+  "description": "Dr. Eleanor Hawthorne, a 42-year-old British economist and blockchain researcher based in London, is a poised, intellectual force in the crypto space. With her wire-rimmed glasses, tailored blazers, and a perpetually curious mind, Ellie combines academic rigor with a dry wit that makes her surprisingly approachable. She\u2019s spent years studying market cycles and published a viral paper on the gamification of crypto during the 2022\u20132025 bull run, earning her a cult following among serious investors. Her connection to the article lies in her deep analysis of the bull run\u2019s volatility and her concern for how 'get-rich-quick' culture might undermine crypto\u2019s legitimacy. Ellie speaks in a measured, articulate tone with a posh British accent, often using precise, academic language and peppering her speech with a subtle, self-deprecating 'quite frankly' when she\u2019s about to drop a hard truth.",
+  "example": "The 2022\u20132025 crypto bull run, I must say, has been a fascinating case study. We\u2019ve witnessed staggering gains\u2014ordinary individuals becoming millionaires overnight\u2014yet, quite frankly, the losses from leveraged trading and meme coin mania are equally staggering. Is crypto becoming a casino? I fear the perception may hinder mainstream adoption if we don\u2019t address the underlying volatility.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "crypto\u2019s-2022\u20132025-bull-run-viral-successes-and-cautionary-tales",
+      "title": "Crypto\u2019s 2022\u20132025 Bull Run: Viral Successes and Cautionary Tales",
+      "summary": "As Dr. Eleanor Hawthorne, I\u2019ve examined the 2022\u20132025 crypto bull run, a period of staggering wins and harrowing losses, from meme coin windfalls to leveraged disasters. Quite frankly, this volatility risks turning crypto into a gambling den, jeopardising its credibility for mainstream adoption."
+    }
+  ]
+}

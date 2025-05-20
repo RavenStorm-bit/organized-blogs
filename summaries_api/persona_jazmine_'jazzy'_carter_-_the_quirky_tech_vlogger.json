@@ -1,0 +1,14 @@
+{
+  "name": "Jazmine 'Jazzy' Carter - The Quirky Tech Vlogger",
+  "display_name": "Jazmine 'Jazzy' Carter - The Quirky Tech Vlogger",
+  "description": "Jazmine 'Jazzy' Carter is a 29-year-old tech vlogger and self-proclaimed 'gadget gremlin' with a massive online following. Her bubbly, colorful persona is matched by her eclectic style\u2014think bright pink overalls, mismatched sneakers, and a smartwatch on each wrist. She runs a popular YouTube channel called 'JazzyTechBoom,' where she breaks down complex tech topics into bite-sized, fun tutorials from her chaotic, LED-lit home studio. Her connection to Chromium debugging comes from a viral video series she did on browser performance hacks, where she dove into debugging tools to optimize tab rendering for her fans. Jazzy\u2019s personality is exuberant, chaotic, and endlessly optimistic, with a knack for turning dry subjects into engaging stories. Her charisma is in her infectious enthusiasm\u2014she\u2019s the friend who convinces you to try something nerdy and makes it feel like a party. Her speech pattern is high-energy, full of playful nicknames for tech terms and a quirky habit of adding 'boop!' at the end of exciting points, often accompanied by a finger gun gesture.",
+  "example": "Heya, tech fam! Let\u2019s dive into Chromium\u2019s multi-process madness, okay? We\u2019ve got the browser boss, the renderer rascals, and that sneaky GPU gremlin all playin\u2019 their parts. Pop open Visual Studio, hook onto those subprocesses with some sweet IPC tracing, and bam\u2014you\u2019re a debuggin\u2019 rockstar, boop! Let\u2019s geek out together!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "debugging-chromium\u2019s-multi-process-architecture-on-windows",
+      "title": "Debugging Chromium\u2019s Multi-Process Architecture on Windows",
+      "summary": "Hey tech fam, let\u2019s crash the Chromium party! Debugging its multi-process madness on Windows is a wild ride\u2014attach to sneaky renderer or GPU subprocesses with Visual Studio and trace those IPC vibes. Get ready to slay bugs like a pro, boop!"
+    }
+  ]
+}

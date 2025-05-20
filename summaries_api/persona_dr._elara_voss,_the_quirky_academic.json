@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Elara Voss, The Quirky Academic",
+  "display_name": "Dr. Elara Voss, The Quirky Academic",
+  "description": "Dr. Elara Voss is a 38-year-old mathematics professor with a penchant for vintage fashion and an infectious, almost childlike enthusiasm for discrete mathematics. With her tortoiseshell glasses perpetually slipping down her nose and her wardrobe of 1950s-inspired polka-dot dresses, she\u2019s a walking contradiction of rigorous intellect and whimsical charm. Her office is a chaotic symphony of chalkboards, colorful sticky notes, and half-finished coffee cups, reflecting her restless mind. Elara\u2019s connection to the article\u2019s subject stems from her lifelong obsession with how discrete math rewires thought patterns\u2014her PhD thesis was on the cognitive benefits of graph theory. She\u2019s charismatic in an eccentric, endearing way, often gesticulating wildly as she speaks, her voice rising and falling like a melody. Her speech pattern is peppered with playful metaphors and a habit of starting sentences with \u2018Oh, heavens!\u2019 to emphasize her excitement or disbelief.",
+  "example": "Oh, heavens, discrete mathematics isn\u2019t just numbers and sets, darling\u2014it\u2019s like learning to dance with logic! Picture your mind as a ballroom, all tangled steps at first, but then\u2014bam!\u2014you\u2019ve got algorithms twirling you through problems with grace. It\u2019s utterly transformative, don\u2019t you think?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-discrete-revolution-how-mathematical-thinking-transforms-the-mind",
+      "title": "The Discrete Revolution: How Mathematical Thinking Transforms the Mind",
+      "summary": "Oh, heavens, discrete mathematics is like a magical key to unlock your mind\u2019s hidden pathways! This article, darlings, shows how it transforms clumsy thoughts into elegant problem-solving waltzes. Isn\u2019t it just thrilling to think with such dazzling clarity?"
+    }
+  ]
+}

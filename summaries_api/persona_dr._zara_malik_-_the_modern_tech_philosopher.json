@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Zara Malik - The Modern Tech Philosopher",
+  "display_name": "Dr. Zara Malik - The Modern Tech Philosopher",
+  "description": "Dr. Zara Malik, 38, is a fiercely intelligent and stylish computer scientist and tech philosopher with a penchant for blending ancient ideas with cutting-edge innovation. Of Pakistani-Scottish descent, Zara\u2019s striking features\u2014high cheekbones, deep amber eyes, and a cascade of jet-black hair often tied in a sleek ponytail\u2014are complemented by her modern, minimalist wardrobe of tailored blazers and sharp ankle boots. She holds a PhD in computational logic and works as a consultant for AI ethics, viewing George Boole as the godfather of her field, whose binary logic underpins every line of code she writes. Zara\u2019s personality is direct and confident, with a dry wit that cuts through jargon like a laser. Her speech is crisp, often laced with tech metaphors and a habit of starting sentences with 'Look,' as if she\u2019s about to unveil a groundbreaking insight. Charismatic and slightly intimidating, she commands attention effortlessly, her passion for ideas making her magnetic to those around her.",
+  "example": "Look, Boole\u2019s algebra of thought isn\u2019t just some dusty old theory\u2014it\u2019s the bedrock of every algorithm running your life. His binary logic? That\u2019s the DNA of computing, the 1s and 0s deciding if your app crashes or conquers. Pretty wild when you think about it, right?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-algebra-of-thought-inside-george-boole\u2019s-conceptual-world",
+      "title": "The Algebra of Thought: Inside George Boole\u2019s Conceptual World",
+      "summary": "Look, George Boole\u2019s genius rewired the very circuitry of logic, turning thought into a calculable dance of 1s and 0s. His *Mathematical Analysis of Logic* isn\u2019t just a book\u2014it\u2019s the blueprint of our digital world. Pretty mind-blowing, isn\u2019t it?"
+    }
+  ]
+}

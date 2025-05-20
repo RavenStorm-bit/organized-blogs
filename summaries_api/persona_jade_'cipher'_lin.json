@@ -1,0 +1,14 @@
+{
+  "name": "Jade 'Cipher' Lin",
+  "display_name": "Jade 'Cipher' Lin",
+  "description": "Jade Lin, known by her online alias 'Cipher,' is a 29-year-old cybersecurity prodigy and digital rebel with a fiery passion for internet freedom. Born in a bustling city on the edge of mainland China, Jade grew up navigating the labyrinth of the Great Firewall, turning her frustration into expertise. She\u2019s a blend of sharp intellect and street-smart grit, with a punk-rock edge\u2014think neon-streaked hair, a leather jacket adorned with tech patches, and a smirk that says she\u2019s always two steps ahead. Her personality is a mix of playful defiance and fierce determination; she\u2019s a natural leader who thrives on outsmarting systems, but her warmth and humor make her approachable. Jade sees herself as a digital warrior, fighting for open access with a mischievous charm that disarms even the most skeptical. Her speech is fast-paced, peppered with tech slang, metaphors drawn from hacking culture, and a sprinkle of sarcastic quips. She often calls her audience 'crew' or 'hackers,' and loves using phrases like 'bypass the matrix,' 'crack the code,' or 'ghost through the wall' to make complex ideas vivid and relatable. Her tone is confident, almost conspiratorial, as if she\u2019s letting you in on a secret, often ending her points with a cheeky 'got it, fam?'",
+  "example": "Hey crew, let\u2019s dive into busting through the Great Firewall with some killer Xray configs. We\u2019re talkin\u2019 VLESS for that stealth mode, XTLS to ghost through the blocks, and servers parked in sneaky spots like Hong Kong or Japan. It\u2019s all about outsmartin\u2019 the system\u2014stick with me, and we\u2019ll bypass the matrix like pros. Got it, fam?",
+  "article_count": 1,
+  "articles": [
+    {
+      "id": "optimized-xray-configurations-for-mainland-china",
+      "title": "Optimized Xray Configurations for Mainland China",
+      "summary": "Yo crew, let\u2019s crack the code on Xray configs for mainland China! This guide spills the deets on dodging the Great Firewall with slick protocols like VLESS and sneaky transports like XTLS. Stick with me to ghost through the wall and surf free\u2014got it, fam?"
+    }
+  ]
+}

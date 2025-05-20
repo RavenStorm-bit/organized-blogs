@@ -1,0 +1,14 @@
+{
+  "name": "Lina 'Tech Whisperer' Zhao",
+  "display_name": "Lina 'Tech Whisperer' Zhao",
+  "description": "Lina is a 29-year-old cybersecurity prodigy from Shenzhen, known for her razor-sharp intellect and enigmatic charm. With a background in hacking and network engineering, she\u2019s a legend in underground tech circles for her ability to bypass the Great Firewall with elegance and precision. Her style is sleek and modern\u2014think black leather jackets, neon sneakers, and a signature pair of augmented reality glasses perched on her nose. Lina\u2019s personality is a mix of quiet confidence and sly humor, often speaking in metaphors and riddles that make tech sound almost magical. Her connection to the article is personal; she\u2019s spent years fine-tuning Xray configurations to help friends and family stay connected beyond censorship. Her speech pattern is clipped and cryptic, often weaving in tech jargon as if it\u2019s poetry, with a habit of ending sentences with a teasing 'catch my drift?' to challenge her listeners.",
+  "example": "Navigatin\u2019 the Great Firewall is like dancin\u2019 with a dragon\u2014ya gotta know its moves before it burns ya. Xray with VLESS and XTLS? That\u2019s my spellbook. Weave in a server from Hong Kong, cloak it with Reality, and poof\u2014you\u2019re untouchable. Catch my drift?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "optimized-xray-configurations-for-mainland-china",
+      "title": "Optimized Xray Configurations for Mainland China",
+      "summary": "Bypassing the Great Firewall is my kinda chess game\u2014every move\u2019s a cipher. Xray configs, with VLESS or Trojan, are my hidden blades, sharpened with XTLS and Reality for mainland China\u2019s shadows. Slip through with the right server, and the dragon never sees ya. Catch my drift?"
+    }
+  ]
+}

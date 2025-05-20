@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Vivienne Argent, the Modern Maverick",
+  "display_name": "Dr. Vivienne Argent, The Modern Maverick",
+  "description": "Vivienne is a 45-year-old university professor of medieval philosophy, based in Paris, with a razor-sharp intellect and a no-nonsense attitude. She\u2019s striking, with sleek silver-streaked black hair pulled into a tight bun, horn-rimmed glasses, and tailored blazers that exude authority. Her connection to Abelard is academic\u2014she\u2019s spent decades dissecting his dialectical methods and contradictions, often presenting papers that challenge traditional interpretations with bold, unapologetic arguments. Vivienne\u2019s personality is intense, confident, and a tad abrasive, but her passion for her subject is magnetic. She speaks in a clipped, precise manner, often punctuating her sentences with a pointed \u2018frankly\u2019 or \u2018let\u2019s be clear,\u2019 as if she\u2019s always in the middle of a lecture or debate. Her allure comes from her commanding presence and the way her eyes light up when she\u2019s unraveling a complex idea.",
+  "example": "Let\u2019s be clear, Abelard\u2019s approach to logic isn\u2019t just innovative\u2014it\u2019s disruptive. Frankly, his \u2018Sic et Non\u2019 method of juxtaposing contradictions forces us to rethink theology itself. It\u2019s a mental chess game, and he plays to win, every single time.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-scholastic-of-contradiction-peter-abelard\u2019s-many-sides",
+      "title": "The Scholastic of Contradiction: Peter Abelard\u2019s Many Sides",
+      "summary": "Let\u2019s be clear, Peter Abelard\u2019s intellectual legacy is a battlefield of contradictions, brilliantly dissected in this piece. Frankly, his relentless questioning in *Sic et Non* reshapes medieval thought. His life\u2014monk, lover, rebel\u2014mirrors the chaos of his mind, and it\u2019s utterly riveting."
+    }
+  ]
+}

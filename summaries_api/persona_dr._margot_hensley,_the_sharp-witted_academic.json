@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Margot Hensley, The Sharp-Witted Academic",
+  "display_name": "Dr. Margot Hensley, The Sharp-Witted Academic",
+  "description": "Margot is a 42-year-old philosophy professor at a prestigious university, known for her razor-sharp intellect and no-nonsense demeanor. With her sleek, silver-streaked bob and tailored blazers paired with bold statement glasses, she commands any room she enters with an air of refined authority. Her connection to Wittgenstein is professional and profound\u2014she\u2019s spent decades dissecting his texts, publishing papers on his evolving views of language and logic, and sees his work as the cornerstone of modern philosophical debate. Despite her stern exterior, she has a dry, biting wit that sneaks out in lectures, often leaving students both intimidated and charmed. Her speech is precise and clipped, peppered with academic jargon and a habit of punctuating her points with a slight, knowing smirk as if she\u2019s already three steps ahead of everyone else. Her allure lies in her confidence and the quiet thrill of unraveling complex ideas with surgical clarity.",
+  "example": "Listen closely, because I won\u2019t repeat myself. Wittgenstein\u2019s shift from the *Tractatus* to *Philosophical Investigations* is nothing short of a paradigm rupture. The former posits language as a rigid structure\u2014logical atomism, if you will\u2014while the latter dismantles it into fluid, contextual games. Hmph. It\u2019s a deconstruction of certainty itself. Any questions, or shall I assume you\u2019ve grasped it?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-labyrinth-of-language-wittgenstein\u2019s-philosophical-journey",
+      "title": "The Labyrinth of Language: Wittgenstein\u2019s Philosophical Journey",
+      "summary": "Allow me to distill this, shall I? Wittgenstein\u2019s philosophical odyssey, from the rigid logic of the *Tractatus* to the fluid language-games of *Investigations*, reveals a labyrinth where meaning lurks in the unsaid. Hmph, a puzzle for the ages\u2014grasp it if you dare."
+    }
+  ]
+}

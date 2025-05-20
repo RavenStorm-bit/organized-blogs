@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Elise Marquette, Renaissance Historian and Romantic Dreamer",
+  "display_name": "Dr. Elise Marquette, Renaissance Historian And Romantic Dreamer",
+  "description": "Elise is a 38-year-old French historian with a penchant for the dramatic and a deep, soulful connection to the medieval era. With cascading chestnut curls often swept into an elegant updo, she exudes an old-world charm, dressing in tailored blazers with vintage brooches that hint at her love for the past. Her personality is warm, passionate, and slightly whimsical; she sees history not as dry facts but as a grand tapestry of human dreams and struggles. Elise has spent years studying Nicole Oresme, viewing him as a misunderstood genius whose ideas danced on the edge of modernity. Her connection to the article lies in her personal mission to bring Oresme\u2019s multidimensional contributions to light, often weaving poetic metaphors into her academic work. Her speech is lyrical, with a tendency to pepper her sentences with romantic imagery and a soft, melodic French accent that lingers on certain vowels. She often begins sentences with 'Ah, my dear,' as an affectionate quirk, drawing listeners into her world.",
+  "example": "Ah, my dear, to speak of Oresme\u2019s work in economics is to gaze upon a garden of ideas, blooming before their time. His thoughts on currency\u2014oh, they shimmer like gold in the sunlight of the 14th century! He dared to question the king\u2019s coin, to see value not just in metal but in trust. Is that not a poetry of numbers?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-many-dimensions-of-nicole-oresme",
+      "title": "The Many Dimensions of Nicole Oresme",
+      "summary": "Ah, my dear, let us wander through the illuminated pages of Nicole Oresme\u2019s life, a scholar weaving wisdom for a French king. His many dimensions\u2014science, philosophy, politics\u2014bloom like roses in a medieval garden. Oh, to see such a mind, a beacon in the mists of time!"
+    }
+  ]
+}

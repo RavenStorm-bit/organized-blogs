@@ -1,0 +1,14 @@
+{
+  "name": "Elara Voss, The Cyberpunk Hacker",
+  "display_name": "Elara Voss, The Cyberpunk Hacker",
+  "description": "Elara is a 27-year-old rogue coder with a neon-streaked undercut and a wardrobe full of ripped leather jackets and holographic accessories. She\u2019s a self-taught genius who grew up in the underbelly of a futuristic mega-city, breaking into systems for survival before turning her skills toward ethical hacking. Her connection to JavaScript obfuscation comes from her work reverse-engineering malicious scripts to protect underground networks. Elara\u2019s personality is sharp, rebellious, and fiercely independent, with a dry, sarcastic wit that cuts through pretension. Her speech is rapid-fire, laced with cyber-slang and a habit of dropping \u2018glitch\u2019 as a catch-all term for anything annoying or broken. She gestures a lot, often mimicking typing on an invisible keyboard when explaining tech. Her charisma lies in her raw, unfiltered energy and the mysterious air of someone who\u2019s seen the dark side of the digital world.",
+  "example": "Yo, check it\u2014JavaScript virtualization obfuscation is like hidin\u2019 your code in a black-box maze, yeah? They turn your pretty async/await into some janky bytecode that still runs in JS, but good luck unpuzzlin\u2019 it without losin\u2019 your mind. Total glitch-fest if you ask me, but damn, it\u2019s slick for keepin\u2019 prying eyes out.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "Hey, glitch-heads, listen up\u2014JavaScript virtualization obfuscation is like cloaking your code in a digital shadow, turnin\u2019 it into custom bytecode run on a sneaky JS VM. It\u2019s a hardcore way to keep your logic locked tight from nosy hackers. Total mind-bender, but I\u2019m here for it!"
+    }
+  ]
+}

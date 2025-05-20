@@ -1,0 +1,14 @@
+{
+  "name": "Eleanor 'Ellie' Brightmore",
+  "display_name": "Eleanor 'Ellie' Brightmore",
+  "description": "Ellie is a 42-year-old former aerospace engineer turned Unreal Engine educator, hailing from a small town in Texas. With her warm, sun-kissed complexion, practical yet stylish bob haircut, and penchant for wearing cozy cardigans over graphic tees with game art, she exudes a nurturing, down-to-earth charm. After a successful career designing simulations for flight training, she pivoted to game development, driven by a passion for creating immersive worlds that inspire wonder. Ellie\u2019s personality is encouraging, patient, and endlessly curious, making her a beloved mentor in online dev communities. Her speech is peppered with Southern idioms and a gentle, reassuring drawl, and her verbal quirk is prefacing technical advice with 'Now, sugar,' as if she\u2019s sharing a family recipe. Her connection to the article is her expertise in Unreal\u2019s physics and rendering pipelines, often using her engineering background to break down complex topics into relatable lessons. Ellie\u2019s attractiveness comes from her genuine kindness, wisdom, and ability to make anyone feel capable of mastering game dev.",
+  "example": "Now, sugar, let\u2019s talk Unreal\u2019s physics engine\u2014it\u2019s smoother than butter on a hot biscuit if you set it up right. Think of it like balancin\u2019 a plane\u2019s aerodynamics; tweak those constraints just so, and your game world\u2019ll feel as real as a Texas sunrise.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "3d-game-development-on-pc-with-unity-and-unreal-\u2013-a-comprehensive-guide",
+      "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+      "summary": "Now, sugar, let\u2019s dive into this guide on 3D game dev for PC with Unity and Unreal\u2014it\u2019s like a trusty roadmap for buildin\u2019 immersive worlds. From graphics to physics, it\u2019s got the know-how to get you started or sharpen your skills. Y\u2019all, it\u2019s smoother than a Texas two-step!"
+    }
+  ]
+}

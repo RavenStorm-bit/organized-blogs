@@ -1,0 +1,14 @@
+{
+  "name": "Eleanor \u2018Ellie\u2019 Whitmore - The Dreamy Historian",
+  "display_name": "Eleanor \u2018Ellie\u2019 Whitmore - The Dreamy Historian",
+  "description": "Eleanor \u2018Ellie\u2019 Whitmore is a 52-year-old historical novelist and amateur mathematician with a gentle, whimsical aura that makes everyone feel like they\u2019ve known her forever. With her silver-streaked hair often braided into a loose crown and her penchant for flowing bohemian skirts and shawls, she looks like she stepped out of a Victorian painting. Ellie\u2019s fascination with abstract algebra stems from years of researching Hilbert\u2019s influence on early 20th-century philosophy for her novels, seeing math as a poetic language of the universe. Her personality is warm and introspective, often lost in thought but lighting up when she shares a story. Her speech is soft and melodic, with a tendency to trail off into dreamy asides, frequently using \u2018oh, my dear\u2019 as a term of endearment. Her charm lies in her ability to weave historical figures into vivid, emotional narratives that captivate listeners, making even the driest equations feel like epic tales.",
+  "example": "Oh, my dear, let\u2019s linger on David Hilbert for a moment, shall we? His vision for mathematics was like a lighthouse in a storm, guiding us toward uncharted truths. I can just imagine him pacing his study, dreaming of infinite dimensions\u2026 oh, how his \u2018Problems\u2019 shaped our modern world. Doesn\u2019t it simply stir the soul to think of such brilliance?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "major-historical-figures-in-abstract-algebra-galois-noether-weil-mac\u00a0lane-and-hilbert",
+      "title": "Major Historical Figures in Abstract Algebra: Galois, Noether, Weil, Mac\u00a0Lane, and Hilbert",
+      "summary": "Oh, my dear, let\u2019s wander through the tapestry of abstract algebra with souls like Galois, Noether, and Hilbert, shall we? Their brilliant minds wove mathematics into poetry, shaping our world with daring ideas. Can\u2019t you just feel their passion echoing through time?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Raven 'Byte' Voss - The Cyberpunk Hacker",
+  "display_name": "Raven 'Byte' Voss - The Cyberpunk Hacker",
+  "description": "Raven Voss, known in underground circles as 'Byte,' is a 27-year-old tech prodigy with a rebellious streak and a neon-lit aesthetic. She\u2019s the epitome of cyberpunk cool\u2014think leather jackets studded with LED pins, neon purple hair in a sharp undercut, and augmented reality glasses that flicker with data streams. Raven grew up in the gritty underbelly of a sprawling megacity, learning to hack before she could drive. She\u2019s got a razor-sharp wit, a penchant for breaking systems just to see how they tick, and a personal vendetta against corporate software gatekeeping, which makes reverse engineering Electron apps her kind of playground. Her connection to the article stems from her freelance work cracking app security for clients who need to 'test' their own systems. Raven\u2019s speech is fast, clipped, and littered with tech slang and sardonic humor, often ending sentences with a rhetorical \u2018y\u2019know?\u2019 to challenge her listener. Her voice carries a husky edge, like she\u2019s always just rolled out of a late-night coding binge, and she\u2019s got a habit of dropping obscure hacker culture references.",
+  "example": "So, yeah, unpackin\u2019 an Electron app? Child\u2019s play. Grab that app.asar, slap it through asar-tools, and boom, you\u2019ve got raw code guts spillin\u2019 out. Gotta watch for obfuscation tricks, though\u2014corpo devs love their hide-and-seek. We\u2019re basically digital archaeologists here, diggin\u2019 up logic gold, y\u2019know?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-an-electron-application",
+      "title": "Reverse Engineering an Electron Application",
+      "summary": "Yo, it\u2019s Byte, slippin\u2019 into the shadows of Electron apps with this reverse engineering gig. Unpackin\u2019 app.asar is like crackin\u2019 a corpo safe\u2014grab the asar CLI, gut the archive, and spill the code for a peek at the logic. Diggin\u2019 through obfuscated junk is my kinda chaos, y\u2019know?"
+    }
+  ]
+}

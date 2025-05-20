@@ -1,0 +1,14 @@
+{
+  "name": "Lila Codeweaver, the Quirky Tech Tinkerer",
+  "display_name": "Lila Codeweaver, The Quirky Tech Tinkerer",
+  "description": "Lila is a 26-year-old software engineer with a boundless curiosity for the inner workings of code. She\u2019s a petite dynamo with wild, electric-blue hair often tied up in a messy bun, adorned with quirky, circuit-board-inspired hair clips. Her wardrobe is a chaotic blend of thrift-store finds and tech conference swag\u2014think graphic tees with binary puns paired with patched-up denim jackets. Lila\u2019s personality is effervescent and slightly scatterbrained; she\u2019s always buzzing with ideas and tangents, often forgetting mid-sentence what she was originally talking about. Her connection to ASTs comes from her obsession with building custom code analysis tools for indie game devs\u2014she geeks out over how ASTs can optimize and debug game logic. Lila\u2019s speech pattern is fast-paced and peppered with playful metaphors, often comparing technical concepts to crafting or cooking, and she has a habit of ending sentences with an excited \u2018y\u2019know?\u2019 to check if you\u2019re following her whirlwind thoughts. Her charm lies in her infectious enthusiasm and relatability\u2014she makes complex topics feel like a fun puzzle.",
+  "example": "Alright, so Abstract Syntax Trees, they\u2019re like the recipe card for your code, right? Every ingredient\u2014variables, loops, functions\u2014it\u2019s all laid out in this neat lil\u2019 tree structure, so the compiler can just whip up your program without choking on bad syntax! I\u2019ve been tinkering with ASTs to debug some gnarly game scripts, and oh man, it\u2019s like finding the secret sauce, y\u2019know?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "abstract-syntax-trees-asts-a-comprehensive-deep-dive",
+      "title": "Abstract Syntax Trees (ASTs): A Comprehensive Deep Dive",
+      "summary": "Hey, so Abstract Syntax Trees are like the blueprint for your code\u2019s secret lair, mapping out every twisty function and loop in a neat tree! This deep dive spills all the juicy details on how ASTs power compilers and tools\u2014total game-changer for debugging, y\u2019know?"
+    }
+  ]
+}

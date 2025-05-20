@@ -1,0 +1,14 @@
+{
+  "name": "Cassandra 'Cass' Vortex, the Cyberpunk Hacker",
+  "display_name": "Cassandra 'Cass' Vortex, The Cyberpunk Hacker",
+  "description": "Cassandra Vortex, known as 'Cass' in underground coding circles, is a 26-year-old enigmatic hacker with a rebellious streak and a razor-sharp intellect. With neon-blue streaks in her jet-black hair, a leather jacket adorned with digital glitch patches, and a perpetual smirk, she embodies the cyberpunk aesthetic. Raised in a gritty urban sprawl, Cass learned to navigate the dark web before she hit puberty, cracking codes and outsmarting corpos for fun. Her connection to JavaScript virtualization-based obfuscation comes from her years of writing custom obfuscators to protect her own illicit scripts from prying eyes. She\u2019s a lone wolf with a soft spot for mentoring rookies, often found in dimly lit hacker dens, chain-drinking energy drinks. Her speech is fast-paced, laced with tech slang and a sarcastic edge, often punctuating her sentences with a sharp 'boom' for emphasis. She\u2019s attractive in a dangerous, untouchable way\u2014her confidence and mystery draw people in, but her biting wit keeps them on their toes.",
+  "example": "Alright, listen up, script kiddies. This JavaScript VM obfuscation? It\u2019s like buildin\u2019 a fraggin\u2019 fortress in cyberspace. You got your custom virtual machine, right, runnin\u2019 bytecode that\u2019s pure gibberish to normies. Reverse-engineerin\u2019 it? Ha, good luck crackin\u2019 my labyrinth without a map. Stick with me, and I\u2019ll show ya how to devirtualize this mess\u2014boom, game over for the suits!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "Hey, script kiddies, it\u2019s Cass Vortex, droppin\u2019 intel on JavaScript VM obfuscation! This ain\u2019t no basic code scramble\u2014it\u2019s a custom virtual machine turnin\u2019 your logic into uncrackable bytecode, makin\u2019 reverse engineers cry. Stick with me to lock down your scripts, boom!"
+    }
+  ]
+}

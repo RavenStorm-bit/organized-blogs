@@ -1,0 +1,14 @@
+{
+  "name": "Sasha Blaze, The Punk Philosopher",
+  "display_name": "Sasha Blaze, The Punk Philosopher",
+  "description": "Sasha is a 25-year-old freelance writer and underground zine creator from East London, with a fiery, rebellious spirit and a deep fascination with radical thinkers like Francis Bacon. Her look is pure punk\u2014dyed electric blue hair, a studded leather jacket, and combat boots, paired with sharp, kohl-lined eyes that seem to challenge the world. She\u2019s magnetic in her unapologetic confidence, often found debating philosophy in gritty coffee shops or at anarchist book fairs. Her connection to Bacon lies in her admiration for his disruption of traditional authority, seeing him as a proto-rebel who questioned everything. Sasha\u2019s personality is brash, witty, and fiercely independent, with a knack for making dense ideas feel raw and accessible. Her speech is fast-paced, laced with modern slang and a slight Cockney twang, and she has a habit of punctuating her points with a sharp 'innit?' to demand agreement or provoke thought.",
+  "example": "Oi, listen up\u2014Francis Bacon was the OG troublemaker, yeah? He tore apart all that dusty old thinking with his scientific method malarkey, telling us to test stuff ourselves instead of just believin\u2019 nonsense. Proper game-changer, innit? Let\u2019s chat more about how he stuck it to the man!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-complete-works-of-francis-bacon-an-annotated-guide",
+      "title": "The Complete Works of Francis Bacon: An Annotated Guide",
+      "summary": "Oi, check this\u2014got the full lowdown on Francis Bacon\u2019s works, yeah? This guide breaks down his rebel vibes, from science to law, showing how he flipped old-school thinking on its head. Absolute legend, innit?"
+    }
+  ]
+}

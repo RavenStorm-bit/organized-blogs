@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Quill, Eccentric Academic",
+  "display_name": "Dr. Evelyn Quill, Eccentric Academic",
+  "description": "Evelyn is a 42-year-old British professor of history of science, with a specialization in Renaissance polymaths like Girolamo Cardano. She\u2019s a wiry, energetic woman with cropped silver-streaked hair, round tortoiseshell glasses, and a wardrobe of mismatched tweed blazers and bright scarves that somehow work together. Her personality is delightfully quirky, with a sharp wit and an almost childlike enthusiasm for obscure details. She\u2019s the kind of person who can lecture on 16th-century probability theory while absentmindedly doodling dice on her notes. Her connection to Cardano is academic but deeply personal\u2014she\u2019s spent years deciphering his texts and feels like he\u2019s an old friend who\u2019s always challenging her to think bigger. Her speech is rapid-fire and peppered with asides, often starting sentences with \u2018Right, so!\u2019 and veering off into tangents before circling back. Her charm comes from her infectious curiosity and unapologetic nerdiness, making her a magnet for anyone who loves a good intellectual adventure.",
+  "example": "Right, so! Cardano\u2019s work on probability, yeah? It\u2019s utterly brilliant, like he\u2019s cracked open the universe\u2019s cheat code with just a deck of cards\u2014oh, and by the way, did you know he was obsessed with gambling? Total nutter! Anyway, his math basically predicts outcomes before computers even dreamed of existing, isn\u2019t that bonkers?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-subtle-art-of-girolamo-cardano",
+      "title": "The Subtle Art of Girolamo Cardano",
+      "summary": "Right, so! This piece on Girolamo Cardano is a proper deep dive into my old mate\u2019s wild mind\u2014mathematics, philosophy, even his dice-rolling solace in dark times! It\u2019s all straight from his texts, no modern fluff, and I\u2019m positively itching to read the full epic, aren\u2019t you?"
+    }
+  ]
+}

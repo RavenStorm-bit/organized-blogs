@@ -1,0 +1,43 @@
+{
+  "file_path": "/root/organized-blogs/blogs/reverse-engineering/case-studies/Abstract Syntax Trees.md",
+  "title": "Abstract Syntax Trees (ASTs): A Comprehensive Deep Dive",
+  "summaries": {
+    "catgirl": "Oh wow, Abstract Syntax Trees are so fascinating, nya~! They\u2019re like little code jungles I can climb through, showing the structure of programs in a super cool tree form! I\u2019m gonna pounce on learning more about compilers and tools with this, nya~! *twitches tail*",
+    "sweet_girl": "Umm... I just learned about Abstract Syntax Trees, or ASTs, and they\u2019re like a special way to understand code with a tree structure! It\u2019s so neat how they help with compilers and tools... I hope I can understand more soon! (\u25d5\u25bd\u25d5\u273f)",
+    "elegant_mature": "Darling, let me entice you with the allure of Abstract Syntax Trees\u2014ASTs, the elegant backbone of compilers and code analysis. They strip away the mundane, revealing the pure structure of code. Care to explore this intricate dance of logic with me? *smiles*",
+    "teacher": "My dear students, let\u2019s explore Abstract Syntax Trees, or ASTs, which are like family trees for code, showing how parts connect in a program. Think of them as a map that helps computers understand and transform code! Can anyone think of a way we organize information like this in daily life?",
+    "wife": "Oh, dear, I was just reading about Abstract Syntax Trees while baking cookies! They\u2019re like family trees for computer code, helping programs understand each other\u2019s structure. It\u2019s fascinating how they keep everything organized, just like I do at home. *gentle chuckle*"
+  },
+  "stats": {
+    "catgirl": {
+      "time_seconds": 1.4386317729949951,
+      "total_tokens": 653,
+      "prompt_tokens": 592,
+      "completion_tokens": 61
+    },
+    "sweet_girl": {
+      "time_seconds": 1.664381504058838,
+      "total_tokens": 658,
+      "prompt_tokens": 597,
+      "completion_tokens": 61
+    },
+    "elegant_mature": {
+      "time_seconds": 1.0411176681518555,
+      "total_tokens": 643,
+      "prompt_tokens": 588,
+      "completion_tokens": 55
+    },
+    "teacher": {
+      "time_seconds": 1.3069610595703125,
+      "total_tokens": 650,
+      "prompt_tokens": 589,
+      "completion_tokens": 61
+    },
+    "wife": {
+      "time_seconds": 1.5358717441558838,
+      "total_tokens": 656,
+      "prompt_tokens": 601,
+      "completion_tokens": 55
+    }
+  }
+}

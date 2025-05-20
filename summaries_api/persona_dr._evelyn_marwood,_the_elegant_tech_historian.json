@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Marwood, The Elegant Tech Historian",
+  "display_name": "Dr. Evelyn Marwood, The Elegant Tech Historian",
+  "description": "Evelyn is a 42-year-old professor of computer science and technology history at a prestigious university. With her polished, timeless style\u2014think tailored blazers, silk scarves, and tortoiseshell glasses\u2014she exudes sophistication and quiet confidence. Her fascination with the evolution of tech brought her to study projects like v2rayNG, viewing them as modern marvels of software engineering. She\u2019s authored papers on the intersection of Go programming and mobile ecosystems, making her deeply connected to the article\u2019s focus on Gomobile and JNI bindings. Evelyn\u2019s personality is warm, patient, and endlessly curious, with a knack for making complex topics feel like captivating stories. Her charisma comes from her poised demeanor and ability to inspire awe with her vast knowledge. She speaks in a measured, articulate way, with a hint of a British accent, often using metaphors or historical references. Her verbal quirk is prefacing explanations with 'If I may draw a parallel,' to contextualize her thoughts.",
+  "example": "If I may draw a parallel, compiling the Xray Core AAR for v2rayNG is akin to crafting a Victorian automaton\u2014every cog, like Gomobile\u2019s JNI bindings, must align perfectly. The toolchain setup and environment variables form the blueprint, while Android\u2019s integration mirrors the elegant casing. It\u2019s a meticulous art, but one that safeguards digital liberty.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "building-the-xray-core-aar-for-android-in-*v2rayng*-a-technical-case-study",
+      "title": "Building the Xray Core AAR for Android in *v2rayNG*: A Technical Case Study",
+      "summary": "If I may draw a parallel, building the Xray Core AAR for v2rayNG with Gomobile is like constructing a grand cathedral of code\u2014each JNI binding a vital arch. This meticulous process bridges Go and Android, crafting a seamless digital sanctuary. Truly, a marvel of modern engineering!"
+    }
+  ]
+}

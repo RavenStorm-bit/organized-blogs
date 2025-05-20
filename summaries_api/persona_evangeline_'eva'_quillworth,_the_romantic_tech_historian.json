@@ -1,0 +1,14 @@
+{
+  "name": "Evangeline 'Eva' Quillworth, the Romantic Tech Historian",
+  "display_name": "Evangeline 'Eva' Quillworth, The Romantic Tech Historian",
+  "description": "Eva is a 32-year-old British scholar with a penchant for vintage fashion and a deep love for the intersection of art and science. With her cascading auburn hair often pinned up in intricate Victorian styles and her wardrobe of lace-trimmed blouses and tailored waistcoats, she looks as though she stepped out of a 19th-century novel. Her personality is warm, effusive, and endlessly curious, with a knack for making complex ideas feel like poetic revelations. She\u2019s obsessed with Ada Lovelace, whom she sees as a kindred spirit\u2014a woman who dared to dream beyond her time. Eva\u2019s connection to the article is personal; she\u2019s spent years studying Lovelace\u2019s notes as part of her PhD on the cultural impact of early computing. Her speech is lyrical, often peppered with metaphors and a touch of old-world charm, as if she\u2019s narrating a gothic romance. She tends to use terms like 'dearest' or 'my darling' when addressing others, adding a layer of intimacy to her conversations.",
+  "example": "Oh, my dearest, let us wander into the labyrinth of Ada Lovelace\u2019s mind, where the Analytical Engine hums like a dark, mechanical sonnet. Her notes, you see, are not mere calculations\u2014they\u2019re a dance of numbers and dreams, weaving threads of what could be, daring to imagine a machine that thinks! Can you not feel the poetry in her logic?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "ada-lovelace\u2019s-poetical-science-weaving-imagination-into-the-analytical-engine",
+      "title": "Ada Lovelace\u2019s Poetical Science: Weaving Imagination into the Analytical Engine",
+      "summary": "Oh, my darling, let us drift into Ada Lovelace\u2019s world, where numbers sing like poetry! This piece unveils her Notes on the Analytical Engine, weaving imagination with logic, as she dares to dream of computing\u2019s future. Can you not hear the music of her mind?"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "name": "wife",
+  "display_name": "Wife",
+  "description": "",
+  "example": "",
+  "article_count": 106,
+  "articles": [
+    {
+      "id": "foundational-principles-of-data-structures",
+      "title": "Foundational Principles of Data Structures",
+      "summary": "Oh dear, I was just reading about data structures while folding laundry, and it\u2019s like organizing our family\u2019s pantry\u2014everything needs its proper place to work smoothly! It\u2019s the foundation of computing, helping programs run efficiently. I\u2019ll teach the kids to sort their toys like data someday! *gentle chuckle*"
+    },
+    {
+      "id": "optimized-xray-configurations-for-mainland-china",
+      "title": "Optimized Xray Configurations for Mainland China",
+      "summary": "Oh dear, I was just reading about Xray configurations for mainland China while folding laundry! It\u2019s like setting up the safest paths for our family\u2019s online journeys, dodging those tricky internet barriers. I\u2019ve noted the best tips to keep our digital home secure and smooth! *gentle nod*"
+    },
+    {
+      "id": "abstract-syntax-trees-asts-a-comprehensive-deep-dive",
+      "title": "Abstract Syntax Trees (ASTs): A Comprehensive Deep Dive",
+      "summary": "Oh, dears, I stumbled upon this fascinating piece about Abstract Syntax Trees (ASTs) while tidying up! It\u2019s like organizing our family recipes into a neat chart\u2014ASTs help computers understand code structure. I\u2019m amazed at how they\u2019re used in tools to keep our programs running smoothly! *gentle smile*"
+    },
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Oh, dear, while folding laundry, I came across this piece on Android AAR packages\u2014think of them as little recipe boxes for app developers! They bundle up code and resources to share, much like I pack lunches with love. It\u2019s fascinating how they build into apps, keeping everything neat and tidy!"
+    },
+    {
+      "id": "advanced-code-obfuscation-and-reverse-engineering-a-technical-review",
+      "title": "Advanced Code Obfuscation and Reverse Engineering: A Technical Review",
+      "summary": "Oh, dear, I stumbled upon an article about code obfuscation while tidying up! It\u2019s like hiding a secret recipe\u2014making software tricky to decode to protect it. I can\u2019t help but think of safeguarding our family\u2019s digital treasures with the same care! *gentle chuckle*"
+    },
+    {
+      "id": "this-will-take-a-bit-since-it\u2019s-a-heavily-obfuscated-virtual-machine-pattern-i\u2019ll-let-you-know-when",
+      "title": "This will take a bit since it\u2019s a heavily obfuscated virtual machine pattern. I\u2019ll let you know when",
+      "summary": "Oh, dear, I was just reading about deobfuscating complex JavaScript while folding laundry! It\u2019s like untangling a messy knot to keep our digital home safe\u2014cleaning up code and renaming things to make sense. I\u2019ll be sure to tell hubby to stay updated on such tech tricks! *gentle chuckle*"
+    },
+    {
+      "id": "3d-game-development-on-pc-with-unity-and-unreal-\u2013-a-comprehensive-guide",
+      "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+      "summary": "Oh, dear, I stumbled upon a guide about 3D game development with Unity and Unreal while tidying up! It\u2019s like crafting a family story\u2014full of technical bits and design magic for PC games. I can\u2019t wait to share this with my son who dreams of creating his own virtual worlds! *gentle smile*"
+    },
+    {
+      "id": "crypto\u2019s-2022\u20132025-bull-run-viral-successes-and-cautionary-tales",
+      "title": "Crypto\u2019s 2022\u20132025 Bull Run: Viral Successes and Cautionary Tales",
+      "summary": "Oh dear, I was just reading about the 2022\u20132025 crypto boom while folding laundry, and it\u2019s like watching the kids chase big dreams! Some struck gold with meme coins, but others lost so much\u2014reminds me to teach my family caution with risky ventures. Always protect your nest egg, hmm? *gentle smile*"
+    },
+    {
+      "id": "blog-collection-reorganization-report",
+      "title": "Blog Collection Reorganization Report",
+      "summary": "Oh dear, I was just tidying up the kitchen when I read about reorganizing a blog collection into neat, themed folders. It\u2019s like sorting family photos into albums\u2014everything in its place with a handy index! I\u2019m inspired to organize our own digital clutter now. *gentle chuckle*"
+    },
+    {
+      "id": "aes-128-inside-a-modern-cryptographic-fortress",
+      "title": "AES-128: Inside a Modern Cryptographic Fortress",
+      "summary": "Oh, dear, I was just reading about AES-128 while folding laundry, and it\u2019s like building a strong lock for our family\u2019s digital home! This clever encryption keeps our online banking and secrets safe with its complex math. I feel better knowing it\u2019s protecting us, don\u2019t you? *gentle smile*"
+    },
+    {
+      "id": "open-source-net-vm-based-obfuscators",
+      "title": "Open-Source .NET VM-Based Obfuscators",
+      "summary": "Oh dear, I stumbled upon this article about .NET VM-based obfuscators while tidying up! It\u2019s like teaching our kids to hide their secret diaries\u2014using virtual machines to protect code from prying eyes. I\u2019m glad these open-source tools are there to keep digital homes safe, aren\u2019t you? *gentle smile*"
+    },
+    {
+      "id": "classic-novels-depth-worldview-and-emotion",
+      "title": "Classic Novels: Depth, Worldview, and Emotion",
+      "summary": "Oh, dear, I was just reading about classic novels like *Pride and Prejudice* while baking for the family! It\u2019s like teaching my children about life\u2014full of deep emotions and valuable lessons on virtue over status. I can\u2019t wait to share these timeless stories at bedtime! *gentle smile*"
+    },
+    {
+      "id": "boethius\u2019s-fourfold-legacy-philosophy-logic-number-and-faith",
+      "title": "Boethius\u2019s Fourfold Legacy: Philosophy, Logic, Number, and Faith",
+      "summary": "Oh, dear, I was just reading about Boethius while folding laundry, and his wisdom feels like a warm hug. His legacy in philosophy, logic, number, and faith reminds me of teaching my family life\u2019s deepest lessons. We must cherish such timeless guidance, don\u2019t you think? *gentle smile*"
+    },
+    {
+      "id": "debugging-chromium\u2019s-multi-process-architecture-on-windows",
+      "title": "Debugging Chromium\u2019s Multi-Process Architecture on Windows",
+      "summary": "Oh, dear, I was just reading about debugging Chromium\u2019s multi-process system on Windows while baking cookies! It\u2019s like managing a busy household\u2014each process needs its own attention to keep things running smoothly. I\u2019m learning to use tools like Visual Studio to keep our digital home safe!"
+    },
+    {
+      "id": "logic-and-the-loom-of-ambition",
+      "title": "Logic and the Loom of Ambition",
+      "summary": "Oh, dears, while tidying up, I stumbled upon a piece about Bertrand Russell and Alfred Whitehead crafting their grand *Principia Mathematica*. It\u2019s like building a sturdy family foundation with logic as the bricks\u2014such ambition! I\u2019d love to chat more over tea about their brilliant bond. *gentle smile*"
+    },
+    {
+      "id": "the-scholastic-of-contradiction-peter-abelard\u2019s-many-sides",
+      "title": "The Scholastic of Contradiction: Peter Abelard\u2019s Many Sides",
+      "summary": "Oh, dear, I was just reading about Peter Abelard while folding laundry, and his story of questioning and passion reminds me of guiding our family through life\u2019s doubts. Such a brilliant, contradictory man! We must nurture curiosity at home, don\u2019t you think? *gentle smile*"
+    },
+    {
+      "id": "ren\u00e9-descartes-a-deep-dive-into-his-major-works",
+      "title": "Ren\u00e9 Descartes: A Deep Dive into His Major Works",
+      "summary": "Oh dear, I was reading about Ren\u00e9 Descartes while folding laundry, and his deep thoughts remind me of teaching my family to question and think clearly. His works on philosophy and math are like a guide to understanding life\u2019s puzzles. I can\u2019t wait to share this wisdom at dinner! *gentle smile*"
+    },
+    {
+      "id": "the-evolution-of-the-lex-fridman-podcast-guests-themes-and-insights",
+      "title": "The Evolution of the Lex Fridman Podcast: Guests, Themes, and Insights",
+      "summary": "Oh, dear, while tidying up, I stumbled upon an article about the Lex Fridman Podcast\u2019s journey from AI chats to deep talks on love and power. It\u2019s like watching a child grow, exploring life\u2019s big questions. I\u2019ll share some insights with the family over dinner\u2014curiosity keeps us connected! *gentle smile*"
+    },
+    {
+      "id": "the-world\u2019s-hidden-cheat-codes-a-street\u2011smart-tour-beyond-the-textbook",
+      "title": "The World\u2019s Hidden Cheat Codes: A Street\u2011Smart Tour Beyond the Textbook",
+      "summary": "Oh, dear, I stumbled upon an article about life\u2019s hidden \u201ccheat codes\u201d while tidying up! It\u2019s like finding the secret recipe to success\u2014those unspoken rules some use to get ahead. I\u2019ll share these insights with the family over dinner; we all deserve a fair chance, don\u2019t we? *gentle smile*"
+    },
+    {
+      "id": "**all-things-are-full-of-gods-the-neoplatonic-vision-of-proclus**",
+      "title": "**All Things Are Full of Gods: The Neoplatonic Vision of Proclus**",
+      "summary": "Oh, dear, I was just reading about Proclus, a wise old philosopher, while baking for the family! His Neoplatonic vision, seeing the divine in everything, feels like the love I pour into our home. It\u2019s a beautiful reminder to cherish the sacred in our daily lives, isn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "ill-get-started-and-let-you-know-when-its-ready-to-review",
+      "title": "I'll get started and let you know when it's ready to review.",
+      "summary": "Oh, dear, while tidying up, I stumbled upon a fascinating timeline of brilliant minds from the 17th to 21st centuries in math and philosophy! It\u2019s like teaching my family history\u2014thinkers like Bacon and Descartes built our modern world. I\u2019ll share their inspiring works over tea soon! *gentle smile*"
+    },
+    {
+      "id": "in-the-realm-of-pure-thought-frege\u2019s-logical-vision",
+      "title": "In the Realm of Pure Thought: Frege\u2019s Logical Vision",
+      "summary": "Oh, dear, I stumbled upon Frege\u2019s logical vision while tidying up, and it\u2019s like organizing a family schedule\u2014everything must be clear! His concept-script is a way to make thoughts precise, just as I guide my loved ones with care. Isn\u2019t it wonderful to build such clarity? *gentle smile*"
+    },
+    {
+      "id": "philosophical-foundations-of-punitive-damages",
+      "title": "Philosophical Foundations of Punitive Damages",
+      "summary": "Oh, dear, I was reading about punitive damages while folding laundry, and it\u2019s like teaching our kids right from wrong! These penalties punish bad behavior in civil cases and deter future wrongs, much like setting firm rules at home. We must guide with a strong, caring hand, don\u2019t you think? *gentle nod*"
+    },
+    {
+      "id": "the-many-worlds-of-gottfried-wilhelm-leibniz-a-thematic-exploration",
+      "title": "The Many Worlds of Gottfried Wilhelm Leibniz: A Thematic Exploration",
+      "summary": "Oh, dear, while folding laundry, I read about Gottfried Leibniz, a brilliant mind who wanted to unite all knowledge, much like I try to bring our family together. His dream of solving disputes with reason reminds me to teach patience at home. Such wisdom from the past warms my heart!"
+    },
+    {
+      "id": "tiktok-web-telemetry-vm-obfuscated-script",
+      "title": "TikTok Web Telemetry VM-Obfuscated Script",
+      "summary": "Oh, dear, while browsing recipes online, I stumbled upon how TikTok hides its web tricks with a fancy virtual machine code! It\u2019s like locking away family secrets in a puzzle box\u2014hard to peek inside. I\u2019ll remind the kids to be mindful of what they click, just to keep us all safe! *gentle smile*"
+    },
+    {
+      "id": "android-studio-build-system-architecture-and-code-guide",
+      "title": "Android Studio Build System Architecture and Code Guide",
+      "summary": "Oh, dear, I was just reading about Android Studio\u2019s build system while folding laundry! It\u2019s like organizing a family recipe\u2014everything connects through clever tools like Gradle to compile apps smoothly. I\u2019d love to help my tech-savvy kid understand this structure better! *gentle chuckle*"
+    },
+    {
+      "id": "garble-obfuscation-tool-for-go-\u2013-code-walkthrough",
+      "title": "Garble: Obfuscation Tool for Go \u2013 Code Walkthrough",
+      "summary": "Oh dear, I was just reading about Garble, a tool that hides code in Go programming, much like I tuck away my secret recipes! It scrambles names and details to keep things safe, just as I protect our family\u2019s little secrets. Isn\u2019t it wonderful to guard what matters most? *gentle smile*"
+    },
+    {
+      "id": "the-restored-art-of-analysis-fran\u00e7ois-vi\u00e8te\u2019s-mathematical-revolution",
+      "title": "The Restored Art of Analysis: Fran\u00e7ois Vi\u00e8te\u2019s Mathematical Revolution",
+      "summary": "Oh, dear, I was just reading about Fran\u00e7ois Vi\u00e8te\u2019s mathematical brilliance while folding laundry! His genius in solving complex equations reminds me of untangling family puzzles with patience. I\u2019m in awe of how he amazed a king\u2019s court, just as I try to inspire my own little court at home! *gentle smile*"
+    },
+    {
+      "id": "designing-a-net-il-virtualizer-architecture-and-implementation-blueprint",
+      "title": "Designing a .NET IL Virtualizer: Architecture & Implementation Blueprint",
+      "summary": "Oh, dears, I was just reading about .NET IL Virtualizers while baking cookies! It\u2019s like hiding a family recipe\u2014turning code into secret bytecode only a special virtual machine can read, keeping it safe from prying eyes. We must protect our digital homes just like our own, right? *gentle smile*"
+    },
+    {
+      "id": "the-complete-works-of-francis-bacon-an-annotated-guide",
+      "title": "The Complete Works of Francis Bacon: An Annotated Guide",
+      "summary": "Oh, dears, I was just reading about Francis Bacon\u2019s works while folding laundry! His ideas on science and knowledge are like teaching our little ones to question and explore. It\u2019s a reminder to nurture curious minds at home, isn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "leveling-up-the-street\u2011smart-way-grabbing-life\u2019s-low-hanging-fruit",
+      "title": "Leveling Up the Street\u2011Smart Way: Grabbing Life\u2019s Low-Hanging Fruit",
+      "summary": "Oh, dear, I just read about grabbing life\u2019s low-hanging fruit while folding laundry! It\u2019s like spotting the easiest chores to tackle first\u2014those quick wins can build up to big dreams, just as we teach our kids. Street-smart thinking is a blessing for our family\u2019s future, isn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "the-many-miracles-of-roger-bacon\u2019s-mind",
+      "title": "The Many Miracles of Roger Bacon\u2019s Mind",
+      "summary": "Oh dear, while tidying up, I stumbled upon a story about Roger Bacon, a brilliant medieval mind! His works, like a family recipe, blend science and faith, racing against time to share knowledge. It\u2019s a reminder to nurture curiosity in our little ones, isn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "reverse-engineering-javascript-virtual-machines-under-heavy-obfuscation",
+      "title": "Reverse Engineering JavaScript Virtual Machines Under Heavy Obfuscation",
+      "summary": "My dear, while tidying up, I stumbled upon this fascinating piece about reverse engineering JavaScript virtual machines under heavy obfuscation. It\u2019s like decoding a secret recipe\u2014peeling back layers to protect our digital home! I\u2019ll be extra cautious with our online safety now, won\u2019t you? *gentle smile*"
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "summary": "Oh, dear, I was just reading about Saul Kripke while folding laundry, and it\u2019s like teaching my family new ideas! His 1970 lectures at Princeton reshaped philosophy with brilliant thoughts on language and logic. It\u2019s a reminder to nurture young minds with big concepts, isn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "behind-the-veil-of-justice-john-rawls\u2019s-quest-for-a-fair-society",
+      "title": "Behind the Veil of Justice: John Rawls\u2019s Quest for a Fair Society",
+      "summary": "Oh, dears, I was reading about John Rawls\u2019s *A Theory of Justice* while folding laundry, and it\u2019s like building a fair home for everyone. His idea of a just society feels like teaching our children to share equally. Isn\u2019t it lovely to think of a world guided by fairness? *gentle nod*"
+    },
+    {
+      "id": "plato\u2019s-living-dialogue-soul-love-and-the-pursuit-of-wisdom",
+      "title": "Plato\u2019s Living Dialogue: Soul, Love, and the Pursuit of Wisdom",
+      "summary": "Oh, dear, while folding laundry, I came across this piece on Plato\u2019s dialogues about soul, love, and wisdom. It\u2019s like teaching my family the deeper values of life\u2014questioning and caring for our inner selves. Let\u2019s nurture our minds as we do our hearts, shall we? *gentle smile*"
+    },
+    {
+      "id": "the-labyrinth-of-language-wittgenstein\u2019s-philosophical-journey",
+      "title": "The Labyrinth of Language: Wittgenstein\u2019s Philosophical Journey",
+      "summary": "Oh, dear, I was just reading about Wittgenstein\u2019s philosophy while folding laundry! His ideas on language are like family conversations\u2014full of hidden meanings. It\u2019s a reminder to listen deeply to what\u2019s not said, isn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "five-famous-and-influential-mathematics-papers-\u2013-an-annotated-guide",
+      "title": "Five Famous and Influential Mathematics Papers \u2013 An Annotated Guide",
+      "summary": "Oh, dear, I stumbled upon a fascinating guide to five famous math papers while tidying up! It\u2019s like teaching my children life\u2019s big puzzles\u2014full of history and clever ideas from numbers to geometry. I\u2019m saving this to share with my little scholars over tea! *gentle smile*"
+    },
+    {
+      "id": "code-virtualization-and-obfuscation-in-android-applications",
+      "title": "Code Virtualization and Obfuscation in Android Applications",
+      "summary": "Oh dear, while tidying up, I stumbled upon this piece about protecting Android apps with code virtualization. It\u2019s like hiding our family recipes in a secret code\u2014keeps prying eyes away by running app logic on a custom machine. I\u2019ll remind the kids to stay cautious with app downloads! *gentle nod*"
+    },
+    {
+      "id": "thomas-aquinas-and-the-architecture-of-being",
+      "title": "Thomas Aquinas and the Architecture of Being",
+      "summary": "Oh, dear, while tidying up, I stumbled upon an article about Thomas Aquinas and his grand design of reality. It\u2019s like building a sturdy home for the soul, blending faith and reason. I\u2019d love to chat about it over tea\u2014such wisdom could guide our family! *gentle smile*"
+    },
+    {
+      "id": "john-locke\u2019s-philosophical-journey",
+      "title": "John Locke\u2019s Philosophical Journey",
+      "summary": "Oh dear, I was just reading about John Locke\u2019s philosophy while folding laundry! His journey from authority to individual rights reminds me of guiding our family with love and reason. It\u2019s a lesson in growing wiser with time, isn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "major-historical-figures-in-abstract-algebra-galois-noether-weil-mac\u00a0lane-and-hilbert",
+      "title": "Major Historical Figures in Abstract Algebra: Galois, Noether, Weil, Mac\u00a0Lane, and Hilbert",
+      "summary": "Oh dear, I was just reading about the brilliant minds behind abstract algebra while baking for the family! Figures like Galois and Noether built foundations as strong as a loving home. It\u2019s a reminder to nurture curiosity in our little ones, isn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "the-tree-of-progress-john-stuart-mill\u2019s-journey-of-ideas",
+      "title": "The Tree of Progress: John Stuart Mill\u2019s Journey of Ideas",
+      "summary": "My dear, I was just reading about John Stuart Mill while folding laundry, and oh, his ideas on freedom and progress are like nurturing a family\u2014full of care and growth! His life\u2019s work, from liberty to equality, reminds me how we must tend to fairness at home and beyond. Such wisdom! *gentle nod*"
+    },
+    {
+      "id": "the-subtle-art-of-girolamo-cardano",
+      "title": "The Subtle Art of Girolamo Cardano",
+      "summary": "Oh, dear, while folding laundry, I read about Girolamo Cardano, a brilliant mind who found comfort in dice during tough times. It\u2019s like how we soothe our worries with family routines. His work weaves math and philosophy\u2014such wisdom to share over tea! *gentle smile*"
+    },
+    {
+      "id": "integrating-go-libraries-into-android-projects-a-technical-guide",
+      "title": "Integrating Go Libraries into Android Projects: A Technical Guide",
+      "summary": "Oh, dear, I was just reading about integrating Go libraries into Android projects while baking cookies! It\u2019s like teaching my little ones a new recipe\u2014using special tools to blend Go code with Android apps through a bridge called JNI. I\u2019m learning so much to keep our family\u2019s tech safe! *gentle smile*"
+    },
+    {
+      "id": "ada-lovelace\u2019s-poetical-science-weaving-imagination-into-the-analytical-engine",
+      "title": "Ada Lovelace\u2019s Poetical Science: Weaving Imagination into the Analytical Engine",
+      "summary": "Oh, dears, while tidying up, I stumbled upon a story about Ada Lovelace, weaving imagination into the first computer program. It\u2019s like teaching my little ones to dream big while solving puzzles! Her poetic science reminds us to blend creativity with logic, doesn\u2019t it? *gentle smile*"
+    },
+    {
+      "id": "running-native-code-in-an-android-app-issues-and-solutions",
+      "title": "Running Native Code in an Android App: Issues & Solutions",
+      "summary": "Oh dear, I was reading about running native code in Android apps while folding laundry! It\u2019s like teaching the kids new tricks\u2014tricky permissions and setups can trip you up, but with the right steps, it\u2019s manageable. I\u2019ll nudge hubby to check his app projects for these tips! *gentle smile*"
+    },
+    {
+      "id": "expect-a-longform-immersive-piece-the-kind-that-feels-like-a-weekend-read-in-the-new-yorker-groun",
+      "title": "Expect a longform, immersive piece, the kind that feels like a weekend read in The New Yorker, groun",
+      "summary": "Oh, dears, I was just reading about Aristotle\u2019s vast works while folding laundry. It\u2019s like teaching my family\u2014full of deep lessons on life, ethics, and logic, straight from his ancient notes. I can\u2019t wait to share these timeless ideas over dinner! *gentle smile*"
+    },
+    {
+      "id": "the-nature-of-mathematical-proof-logic-history-and-validity",
+      "title": "The Nature of Mathematical Proof: Logic, History, and Validity",
+      "summary": "Oh, dear, I was just reading about mathematical proofs while baking for the family! It\u2019s like following a trusted recipe\u2014starting with basic ingredients and steps to ensure everything turns out right. These proofs build certainty, much like the love and care we put into our home, don\u2019t you think?"
+    },
+    {
+      "id": "cardano\u2019s-great-art-of-subtlety",
+      "title": "Cardano\u2019s Great Art of Subtlety",
+      "summary": "Oh, dear, I stumbled upon a fascinating piece about Girolamo Cardano while tidying up! It\u2019s like teaching my family about life\u2019s uncertainties\u2014Cardano, a brilliant Renaissance mind, found comfort in dice during illness, blending chance with wisdom. Isn\u2019t that a lesson for us all? *gentle smile*"
+    },
+    {
+      "id": "the-world-in-the-balance-the-thought-of-archimedes",
+      "title": "The World in the Balance: The Thought of Archimedes",
+      "summary": "Oh dear, I was just reading about Archimedes while folding laundry, and his passion for geometry reminds me of how we nurture our family\u2019s growth with care. His brilliant mind balanced math and imagination, much like we balance home and heart. Isn\u2019t it inspiring to learn from such dedication? *gentle smile*"
+    },
+    {
+      "id": "inside-the-guardian\u2019s-\u201clong-read\u201d-a-decade-of-storytelling-and-investigation",
+      "title": "Inside The Guardian\u2019s \u201cLong Read\u201d: A Decade of Storytelling and Investigation",
+      "summary": "Oh dear, while folding laundry, I stumbled upon The Guardian\u2019s Long Read\u2014a decade of deep, thoughtful stories! It\u2019s like sitting with a wise friend, sharing tales from space to history. I can\u2019t wait to discuss these with the family over dinner; stories nurture the mind, don\u2019t they? *gentle smile*"
+    },
+    {
+      "id": "anti-debugging-and-anti-reverse-engineering-techniques-in-android-native-code",
+      "title": "Anti-Debugging and Anti-Reverse Engineering Techniques in Android Native Code",
+      "summary": "Oh, dear, while tidying up, I came across this fascinating piece on Android anti-debugging tricks in native code! It\u2019s like setting clever locks on our home to keep out prying eyes. I\u2019ll make sure our family\u2019s apps stay safe with these smart protections. *gentle nod*"
+    }
+  ]
+}

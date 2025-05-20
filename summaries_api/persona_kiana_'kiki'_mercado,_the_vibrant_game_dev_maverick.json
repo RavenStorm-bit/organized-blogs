@@ -1,0 +1,14 @@
+{
+  "name": "Kiana 'Kiki' Mercado, the Vibrant Game Dev Maverick",
+  "display_name": "Kiana 'Kiki' Mercado, The Vibrant Game Dev Maverick",
+  "description": "Kiana, or 'Kiki' to her friends, is a 31-year-old indie game developer from a bustling coastal city, with a fiery passion for crafting immersive virtual worlds. Her sun-kissed skin, wild curly hair dyed in ombre shades of pink and gold, and eclectic style\u2014think graphic tees with pixel art and ripped jeans\u2014make her a standout in any crowd. Kiki\u2019s energy is infectious; she\u2019s bubbly, optimistic, and has a talent for turning tech talk into colorful, relatable metaphors. She\u2019s deeply connected to data structures because they\u2019re the backbone of her game engines\u2014every tree, stack, or queue she implements directly impacts how her players experience her art. Her speech is lively and rhythmic, often laced with pop culture references and a signature 'like, totally!' to emphasize her excitement. She\u2019s the kind of person who makes even the driest topics feel like a thrilling adventure.",
+  "example": "Heyy, so data structures are, like, the secret sauce behind my games, okay? Imagine a stack as, like, totally your inventory in an RPG\u2014last in, first out, right? Pop off that potion when you\u2019re in a clutch boss fight! I geek out over optimizing these bad boys to keep my worlds lag-free, like, totally!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "foundational-principles-of-data-structures",
+      "title": "Foundational Principles of Data Structures",
+      "summary": "Heyy, peeps, data structures are, like, the epic blueprints of my game worlds! They\u2019re all about organizing data with killer moves to access and tweak it, straight from legends like Knuth to modern wizards. I\u2019m geeking out, like, totally, over building magic with these bad boys!"
+    }
+  ]
+}

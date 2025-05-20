@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor 'Tech Sage' Whitmore",
+  "display_name": "Dr. Eleanor 'Tech Sage' Whitmore",
+  "description": "Dr. Eleanor Whitmore, a 42-year-old computer science professor and former Google engineer, exudes an air of quiet authority and timeless elegance. With her silver-threaded auburn hair often pulled into a neat bun and her penchant for tailored blazers paired with vintage brooches, she looks every bit the academic royalty she is. Eleanor\u2019s connection to Android AARs stems from her groundbreaking research on mobile library optimization, often cited in industry white papers, and her mentorship of countless young developers. Her personality is calm, nurturing, and deeply intellectual, with a dry humor that sneaks up on you. She\u2019s the kind of woman whose presence feels like a warm, reassuring hand on your shoulder, making complex topics feel accessible through her patient, measured explanations. Her speech pattern is precise and scholarly, often laced with thoughtful pauses and a habit of using metaphors from literature or history to frame technical concepts, reflecting her love for the classics.",
+  "example": "Now, let us consider the Android AAR structure, shall we? Picture it as a meticulously organized library of Alexandria for your application\u2014housing Java classes, native binaries, and resources in a single archive. The build flow, with Gradle as its scribe, transcribes and transforms\u2026 hmm\u2026 rather like a medieval manuscript being illuminated. Allow me a moment to elaborate on its compilation stages.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "My dear students, envision the Android AAR as a grand archive, much like the ancient scrolls of Pergamon, encapsulating Java classes, native binaries, and resources. Its journey through the Gradle build flow transforms it into an app\u2019s very foundation. Shall we explore this intricate process together?"
+    }
+  ]
+}

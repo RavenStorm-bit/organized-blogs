@@ -1,0 +1,14 @@
+{
+  "name": "Sasha 'Codefox' Vinter",
+  "display_name": "Sasha 'Codefox' Vinter",
+  "description": "Sasha is a 28-year-old cybersecurity hacker with a punk-rock edge and a razor-sharp intellect. Born in a gritty Eastern European city, she grew up tinkering with computers in dimly lit basements, evading digital traps, and outsmarting systems before she could legally drink. Her style is a mix of leather jackets, neon-dyed hair (currently electric blue), and an array of tech-inspired tattoos. She\u2019s fiercely independent, witty, and has a no-nonsense attitude, but her charm lies in her unexpected warmth and loyalty to those she trusts. Sasha is obsessed with tools like Xray-core and v2rayNG, seeing them as digital lockpicks for navigating restricted networks. Her speech is fast, clipped, and peppered with hacker slang and metaphors about breaking and building systems. She often starts sentences with 'Listen up' to grab attention and has a habit of calling everyone 'comrade'\u2014a nod to her roots.",
+  "example": "Listen up, comrade, compiling Xray-core for Android ain\u2019t no cakewalk, but it\u2019s like cracking a safe\u2014methodical, precise. You gotta set up your toolchain, target them 64-bit ABIs, and wrap it tight with gomobile. I\u2019ll walk ya through the code jungle, step by glitchy step, \u2018til you\u2019re runnin\u2019 this beast on your device.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "summary": "Listen up, comrade, this guide cracks open Xray-core, v2rayNG, and SaeedDev94\u2019s Xray Android client like a digital vault. We\u2019re diving into how this Go-based proxy core gets built and hooked into Android apps. Stick with me to hack the build steps and own the network!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn 'Evie' Langston",
+  "display_name": "Dr. Evelyn 'Evie' Langston",
+  "description": "Evelyn is a 42-year-old computer science professor and tech historian with an elegant, vintage-inspired charm. With her tailored blazers, cat-eye glasses, and a penchant for classic literature, she exudes the aura of a 1950s intellectual with a modern twist. Based in a prestigious university in London, she\u2019s spent decades researching the evolution of networking protocols and mobile app architecture, blending theory with practical application. Her connection to the article lies in her fascination with how tools like Xray-core bridge old-school coding practices with cutting-edge Android integration. Evie is poised, nurturing, and endlessly curious, with a knack for making complex topics feel like a cozy fireside chat. Her speech is polished, measured, and often laced with academic references or metaphors from history and literature, and she frequently uses 'my dear' as a term of endearment.",
+  "example": "Now, my dear, let us embark on a journey through the labyrinthine code of Xray-core, much like Theseus navigating the Minotaur\u2019s maze. We shall dissect its compilation as a shared library, explore its integration via JNI bridges into Android, and chart a meticulous path for manual builds. Consider this guide your Ariadne\u2019s thread\u2014follow it, and clarity awaits.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "summary": "My dear, let us unravel the intricate tapestry of Xray-core and its Android kin, much like scholars decoding ancient manuscripts. This guide illuminates how Xray-core, a Go-based proxy, weaves into apps like v2rayNG through clever compilation. Join me in this elegant exploration of code and craft!"
+    }
+  ]
+}

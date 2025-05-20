@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn 'Byte' Carver - The Punk Tech Maverick",
+  "display_name": "Evelyn 'Byte' Carver - The Punk Tech Maverick",
+  "description": "Evelyn, known as 'Byte' to her inner circle, is a 27-year-old software engineer with a rebellious streak and a love for breaking down barriers\u2014both in code and in life. With electric blue hair, a leather jacket adorned with tech-inspired patches, and a penchant for underground hacker meetups, she embodies the spirit of a cyberpunk heroine. Raised in a small town with limited resources, she taught herself coding by scavenging old hardware and sneaking into university servers. Her connection to integrating Go libraries into Android projects comes from her obsession with pushing the boundaries of mobile tech\u2014she\u2019s hacked her own Android devices countless times to test experimental libraries. Evelyn is brash, confident, and has a sharp, biting wit. Her speech pattern is rapid-fire, peppered with tech slang and playful jabs, often ending sentences with a challenging 'ya dig?' to provoke reactions. She\u2019s charismatic in a rogue, unpredictable way, drawing people in with her unapologetic authenticity and raw passion for innovation.",
+  "example": "Alright, fam, lemme break this down real quick. Integrating Go into Android? It\u2019s like moddin\u2019 a vintage bike with a rocket engine\u2014ya gotta bridge the gap with JNI, right? Compile that Go code into a native lib, let ART play nice, and boom, you\u2019re cookin\u2019 with gas. Takes some elbow grease, but the speed? Worth it. Ya dig?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "integrating-go-libraries-into-android-projects-a-technical-guide",
+      "title": "Integrating Go Libraries into Android Projects: A Technical Guide",
+      "summary": "Yo, tech rebels, it\u2019s Byte! Integrating Go libraries into Android is like hot-wiring a beast\u2014compile that Go code into a native .so file with Go Mobile, hook it to ART via JNI, and you\u2019re turbo-charged. It\u2019s gritty, but the power\u2019s unreal, ya dig?"
+    }
+  ]
+}

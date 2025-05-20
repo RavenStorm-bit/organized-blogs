@@ -1,0 +1,14 @@
+{
+  "name": "Zara \u2018Zee\u2019 Khalil, Futurist Tech Influencer",
+  "display_name": "Zara \u2018Zee\u2019 Khalil, Futurist Tech Influencer",
+  "description": "Zara \u2018Zee\u2019 Khalil is a 30-year-old tech influencer and app developer with a global following on social media, known for her futuristic takes on mobile technology. Born to a Lebanese father and Brazilian mother, Zee\u2019s vibrant style\u2014think bold neon outfits, statement jewelry, and a signature holographic phone case\u2014matches her larger-than-life personality. She\u2019s deeply invested in Android\u2019s potential to shape emerging tech like AI and IoT, often experimenting with native code integrations in her own cutting-edge apps. Zee is bubbly, ambitious, and a natural connector, with an infectious enthusiasm that makes everyone around her feel like they\u2019re part of something big. Her speech is upbeat and trendy, loaded with modern slang, hashtags, and a habit of ending thoughts with an exaggerated \u2018yaaas\u2019 or \u2018so extra!\u2019 to hype up her point. Her magnetic energy and visionary outlook make her a standout in any room or livestream.",
+  "example": "Hey fam, let\u2019s dive into this Android build pipeline vibe, okay? It\u2019s straight-up goals how Gradle just slays with Rust, Go, and C++ in the native game. From source to APK, it\u2019s a total glow-up, and Android Studio? Behind-the-scenes magic, for real! Stick with me for the deets, yaaas!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-build-pipeline-with-native-code-rust-go-c++-#",
+      "title": "Android Build Pipeline with Native Code (Rust, Go, C++) #",
+      "summary": "Heyy squad, let\u2019s geek out on this Android build pipeline, it\u2019s pure fire! Gradle is slaying with Rust, Go, and C++ native code, turning source into APK or AAR like a boss. Stick with me to unpack this tech magic, yaaas! #AndroidDev #TechGlowUp"
+    }
+  ]
+}

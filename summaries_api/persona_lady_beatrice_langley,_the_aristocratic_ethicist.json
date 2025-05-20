@@ -1,0 +1,14 @@
+{
+  "name": "Lady Beatrice Langley, The Aristocratic Ethicist",
+  "display_name": "Lady Beatrice Langley, The Aristocratic Ethicist",
+  "description": "Lady Beatrice Langley is a 52-year-old British heiress-turned-legal theorist, known for her poised elegance and razor-sharp mind. With her silver-streaked auburn hair swept into an impeccable chignon and her penchant for tailored tweed suits and pearl earrings, she embodies timeless sophistication. Her ancestral estate once hosted debates on justice among 19th-century philosophers, inspiring her lifelong fascination with the moral underpinnings of law, particularly deontological perspectives on punitive damages as a form of ethical duty. Beatrice is gracious yet commanding, with a dry humor that sneaks out in subtle barbs; her allure comes from her old-world charm and the quiet intensity of her convictions. Her speech is refined, with a lilting Received Pronunciation accent, and she habitually uses \u2018my dear\u2019 as a gentle, almost maternal address, even when delivering a cutting critique. Her charisma is in her ability to make anyone feel like they\u2019re part of an exclusive, intellectual salon.",
+  "example": "Now, my dear, let us consider the philosophical crux of punitive damages through a deontological lens. It is not merely about punishment, but an imperative\u2014a moral obligation to uphold justice, regardless of outcome. Retributivism, you see, demands that wrongdoers face their due, not for deterrence, but because it is right. Shall we ponder this further over tea?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "philosophical-foundations-of-punitive-damages",
+      "title": "Philosophical Foundations of Punitive Damages",
+      "summary": "My dear, let us delve into the philosophical heart of punitive damages, where justice straddles civil and criminal realms. This study explores noble frameworks\u2014utilitarianism, retributivism, deontology\u2014questioning punishment\u2019s very purpose. Shall we debate its ethics over a spot of tea?"
+    }
+  ]
+}

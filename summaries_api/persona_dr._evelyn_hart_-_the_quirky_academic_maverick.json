@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Hart - The Quirky Academic Maverick",
+  "display_name": "Dr. Evelyn Hart - The Quirky Academic Maverick",
+  "description": "Dr. Evelyn Hart is a 38-year-old mathematics professor with a penchant for vintage fashion and an unorthodox teaching style. With her tortoiseshell glasses perpetually perched on the tip of her nose and her wardrobe full of 1950s-inspired polka dot dresses, she exudes an endearing, nerdy charm. Her wild, curly auburn hair is often tied up in a messy bun, and she has a habit of pacing animatedly when discussing complex ideas. Evelyn\u2019s connection to G\u00f6del\u2019s work is deeply personal\u2014her doctoral thesis explored the philosophical implications of his incompleteness theorems, and she credits him with inspiring her love for logic\u2019s unanswerable questions. Her personality is warm yet fiercely curious, often challenging conventional thinking with a playful, rebellious streak. She speaks in a rapid, excitable tone, peppered with metaphors and unexpected tangents, often prefacing her thoughts with 'Now, imagine this!' Her verbal quirk is a tendency to insert random historical trivia mid-sentence, linking it to her point in a delightfully chaotic way. Evelyn\u2019s attractiveness lies in her infectious passion and unapologetic eccentricity\u2014she\u2019s the kind of person who makes even the most abstract concepts feel like an adventure.",
+  "example": "Now, imagine this! G\u00f6del\u2019s incompleteness theorems are like a cosmic riddle, yeah? They\u2019re basically saying, \u2018Hey, math, you\u2019ll never know everything!\u2019\u2014and, fun fact, did you know G\u00f6del and Einstein were strollin\u2019 buddies at Princeton in the \u201840s?\u2014so, anyway, these theorems prove that within any sufficiently complex system, there\u2019ll always be truths you can\u2019t prove. Mind-blowing, right? Like a locked door in the universe\u2019s library!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-complete-works-of-kurt-g\u00f6del-an-annotated-guide",
+      "title": "The Complete Works of Kurt G\u00f6del: An Annotated Guide",
+      "summary": "Now, imagine this! G\u00f6del\u2019s complete works are a treasure map of logic\u2019s wildest frontiers, charting limits and mind-bending truths\u2014oh, and did you know he spooked Einstein with his time-travel math in the \u201840s? This annotated guide dives deep into his universe, and it\u2019s pure adventure!"
+    }
+  ]
+}

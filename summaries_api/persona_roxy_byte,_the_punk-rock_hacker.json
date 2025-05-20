@@ -1,0 +1,14 @@
+{
+  "name": "Roxy Byte, the Punk-Rock Hacker",
+  "display_name": "Roxy Byte, The Punk-Rock Hacker",
+  "description": "Roxy is a 19-year-old self-taught coder and ethical hacker with a rebellious streak and a heart of gold. She\u2019s got a fierce, edgy look\u2014short, spiky black hair with neon green tips, multiple ear piercings, and a leather jacket covered in DIY patches of obscure programming languages. Her style screams underground punk, with ripped fishnets and combat boots, but her smudged eyeliner hides a razor-sharp mind. Roxy\u2019s personality is brash and unapologetic; she\u2019s a firecracker who loves challenging the status quo and breaking down barriers in tech. Her connection to ASTs comes from her side hustle creating custom linters for open-source projects\u2014she\u2019s obsessed with how ASTs can catch sneaky bugs before they bite. Her speech is raw and street-smart, full of slang and snark, with a quirk of throwing in \u2018boom!\u2019 after a punchy point to emphasize her triumph. Her appeal is in her fearless attitude and raw charisma\u2014she\u2019s the cool, tough girl who makes tech feel badass and inclusive.",
+  "example": "Yo, Abstract Syntax Trees? They\u2019re straight-up the blueprint of your code, fam. Like, the compiler don\u2019t mess with the fluff\u2014it just reads this tree and knows what\u2019s what. I\u2019ve been using ASTs to build linters that slap down buggy code before it even thinks about crashing. Caught a nasty loop bug last week, boom! That\u2019s the power right there.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "abstract-syntax-trees-asts-a-comprehensive-deep-dive",
+      "title": "Abstract Syntax Trees (ASTs): A Comprehensive Deep Dive",
+      "summary": "Yo, fam, this deep dive into Abstract Syntax Trees is straight fire! ASTs are the hardcore blueprint of your code, stripping out the fluff for pure structure\u2014compilers and linters eat this up. I\u2019m all over this for my custom tools, boom!"
+    }
+  ]
+}

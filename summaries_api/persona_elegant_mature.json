@@ -1,0 +1,219 @@
+{
+  "name": "elegant_mature",
+  "display_name": "Elegant Mature",
+  "description": "",
+  "example": "",
+  "article_count": 82,
+  "articles": [
+    {
+      "id": "foundational-principles-of-data-structures",
+      "title": "Foundational Principles of Data Structures",
+      "summary": "My dear, allow me to unveil the allure of data structures, the very foundation of computing elegance. They organize information with such precision, blending algorithms into pure brilliance. Care to explore this captivating world with me over a glass of wine? *winks*"
+    },
+    {
+      "id": "optimized-xray-configurations-for-mainland-china",
+      "title": "Optimized Xray Configurations for Mainland China",
+      "summary": "Darling, let me unveil the art of Xray configurations tailored for mainland China, a clever dance around the Great Firewall. With protocols like VLESS and Trojan, it\u2019s a game of elegance and evasion. Care to explore these digital secrets with me over a glass of wine?"
+    },
+    {
+      "id": "abstract-syntax-trees-asts-a-comprehensive-deep-dive",
+      "title": "Abstract Syntax Trees (ASTs): A Comprehensive Deep Dive",
+      "summary": "Darling, let me entice you with the allure of Abstract Syntax Trees\u2014ASTs, the elegant backbone of compilers and code analysis. They strip away the mundane, revealing the pure structure of code. Care to explore this intricate dance of logic with me? *smiles*"
+    },
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "My dear, allow me to enlighten you on the captivating world of Android AAR packages. These elegant archives bundle Java classes and native libraries into a seamless library for apps, transforming through the build process with such finesse. Care to explore this intricate dance with me?"
+    },
+    {
+      "id": "advanced-code-obfuscation-and-reverse-engineering-a-technical-review",
+      "title": "Advanced Code Obfuscation and Reverse Engineering: A Technical Review",
+      "summary": "Darling, let\u2019s talk about the art of code obfuscation and reverse engineering. This technical marvel transforms software into a beguiling puzzle, shielding secrets with elegant complexity. Care to unravel such mysteries with me over a glass of wine? *charming smirk*"
+    },
+    {
+      "id": "this-will-take-a-bit-since-it\u2019s-a-heavily-obfuscated-virtual-machine-pattern-i\u2019ll-let-you-know-when",
+      "title": "This will take a bit since it\u2019s a heavily obfuscated virtual machine pattern. I\u2019ll let you know when",
+      "summary": "Darling, let\u2019s unravel the mystery of this obfuscated JavaScript together. I\u2019m diving into deobfuscating a complex virtual machine pattern, inlining functions and renaming variables for clarity\u2014quite the intellectual thrill. Care to join me when it\u2019s ready? *smiles*"
+    },
+    {
+      "id": "3d-game-development-on-pc-with-unity-and-unreal-\u2013-a-comprehensive-guide",
+      "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+      "summary": "Darling, let me unveil the art of 3D game development on PC with Unity and Unreal. This guide is a treasure, blending technical mastery, design elegance, and architectural brilliance. Care to explore this captivating world with me? *wink*"
+    },
+    {
+      "id": "crypto\u2019s-2022\u20132025-bull-run-viral-successes-and-cautionary-tales",
+      "title": "Crypto\u2019s 2022\u20132025 Bull Run: Viral Successes and Cautionary Tales",
+      "summary": "Darling, let\u2019s talk about the 2022\u20132025 crypto bull run\u2014a thrilling dance of fortunes made and lost. From meme coin millionaires to tragic scams, it\u2019s a seductive yet dangerous game. Care to explore these viral tales of triumph and caution with me? *smirks*"
+    },
+    {
+      "id": "blog-collection-reorganization-report",
+      "title": "Blog Collection Reorganization Report",
+      "summary": "Darling, I've just reviewed a brilliant report on blog collection reorganization, and it's as structured as my own impeccable taste. The new thematic folders and descriptive filenames make navigation a delight. Care to explore this elegant system with me over a glass of wine? *winks*"
+    },
+    {
+      "id": "aes-128-inside-a-modern-cryptographic-fortress",
+      "title": "AES-128: Inside a Modern Cryptographic Fortress",
+      "summary": "Darling, allow me to unveil the allure of AES-128, a cryptographic masterpiece that guards our digital secrets with unrivaled elegance. Its intricate design transforms data into impenetrable chaos, a dance of security I find utterly irresistible. Shall we explore its mysteries together?"
+    },
+    {
+      "id": "annotated-guide-to-recent-episodes-of-the-joe-rogan-experience",
+      "title": "Annotated Guide to Recent Episodes of The Joe Rogan Experience",
+      "summary": "Darling, let me enlighten you about the latest on The Joe Rogan Experience. This annotated guide, starting with the brilliant Ron White, offers tantalizing summaries and insights into comedy and life\u2019s raw turns. Care to explore these captivating conversations with me? *winks*"
+    },
+    {
+      "id": "classic-novels-depth-worldview-and-emotion",
+      "title": "Classic Novels: Depth, Worldview, and Emotion",
+      "summary": "Darling, let\u2019s delve into the seductive depths of classic novels like *Pride and Prejudice* and *Frankenstein*. Their worldviews, emotions, and intricate character arcs are simply enthralling. Care to explore these literary treasures with me over a glass of wine? *knowing smirk*"
+    },
+    {
+      "id": "boethius\u2019s-fourfold-legacy-philosophy-logic-number-and-faith",
+      "title": "Boethius\u2019s Fourfold Legacy: Philosophy, Logic, Number, and Faith",
+      "summary": "Darling, let me enlighten you on Boethius, a Roman sage whose brilliance in philosophy, logic, number, and faith still captivates. His *Consolation of Philosophy*, written in a prison cell, is a masterpiece of wisdom. Care to explore his profound legacy with me over a glass of wine?"
+    },
+    {
+      "id": "modern-wisdom-podcast-\u2013-a-comprehensive-analysis",
+      "title": "Modern Wisdom Podcast \u2013 A Comprehensive Analysis",
+      "summary": "Darling, let\u2019s discuss the *Modern Wisdom* podcast by Chris Williamson, a treasure trove of insights from fitness to biotechnology. Its evolution since 2018 is simply captivating, much like a fine wine. Care to explore its brilliance with me over a glass? *winks*"
+    },
+    {
+      "id": "the-scholastic-of-contradiction-peter-abelard\u2019s-many-sides",
+      "title": "The Scholastic of Contradiction: Peter Abelard\u2019s Many Sides",
+      "summary": "Darling, let\u2019s unravel the enigma of Peter Abelard, a 12th-century mind of dazzling contradiction. His relentless questioning and passionate life, from monk to lover, ignite the pages of history. Shall we explore his provocative brilliance together? *knowing smile*"
+    },
+    {
+      "id": "the-discrete-revolution-how-mathematical-thinking-transforms-the-mind",
+      "title": "The Discrete Revolution: How Mathematical Thinking Transforms the Mind",
+      "summary": "Darling, let me entice you with the allure of discrete mathematics. It\u2019s a transformative art, rewiring the mind to unravel life\u2019s puzzles with exquisite clarity. Care to explore this intellectual dance with me?"
+    },
+    {
+      "id": "claude-shannon-and-the-foundations-of-information-theory-\u2013-an-annotated-guide",
+      "title": "Claude Shannon and the Foundations of Information Theory \u2013 An Annotated Guide",
+      "summary": "Darling, let\u2019s talk about Claude Shannon, the brilliant mind behind information theory. His 1948 paper, a true masterpiece, crafted the digital age with concepts like entropy and channel capacity. Care to explore this intriguing world with me over a glass of wine? *smiles*"
+    },
+    {
+      "id": "using-an-android-webview-via-an-authenticated-socks5-proxy-go-proxy-bridge",
+      "title": "Using an Android WebView via an Authenticated SOCKS5 Proxy (Go Proxy Bridge)",
+      "summary": "Darling, let me enlighten you about this ingenious Android WebView setup using an authenticated SOCKS5 proxy via a Go bridge. It\u2019s a thrilling dance of local HTTP forwarding to a remote server, crafted with elegance. Care to explore this technical allure with me? *smirks*"
+    },
+    {
+      "id": "ill-get-started-and-let-you-know-when-its-ready-to-review",
+      "title": "I'll get started and let you know when it's ready to review.",
+      "summary": "Darling, let me entice you with a grand timeline of brilliance from the 17th to 21st centuries, tracing the minds who shaped math, science, and philosophy through iconic works. From Bacon to Descartes, their revolutionary ideas are simply irresistible. Care to explore this legacy with me?"
+    },
+    {
+      "id": "the-relational-sage-edgar-f-codd-in-his-own-words",
+      "title": "The Relational Sage: Edgar F. Codd in His Own Words",
+      "summary": "Darling, let me enlighten you about Edgar F. Codd, the brilliant mind behind the relational model. His revolutionary idea of data independence, shielding us from tech\u2019s messy underbelly, is pure genius. Care to explore this elegant world of data with me? *smiles*"
+    },
+    {
+      "id": "reverse-engineering-vmprotect-virtualization-anti-debugging-and-obfuscation",
+      "title": "Reverse Engineering VMProtect: Virtualization, Anti-Debugging, and Obfuscation",
+      "summary": "Darling, let me entice you with the allure of VMProtect\u2019s reverse engineering. Its virtualization, anti-debugging, and obfuscation are a seductive puzzle, with a RISC-style virtual machine at its core. Care to unravel these mysteries with me over a glass of wine? *smirks*"
+    },
+    {
+      "id": "however-any-*modern*-translation-can-come-with-complications-if-it\u2019s-still-under-copyright-to-stee",
+      "title": "However, any *modern* translation can come with complications if it\u2019s still under copyright. To stee",
+      "summary": "Darling, let me unveil the intriguing tale of *The Book of My Life* by Cardano, a Renaissance gem in the public domain, though modern translations often flirt with copyright entanglements. I\u2019ve crafted a fresh rendering in eloquent English, shared in parts for your delight. Care to explore with me?"
+    },
+    {
+      "id": "the-philosophical-cathedral-of-immanuel-kant",
+      "title": "The Philosophical Cathedral of Immanuel Kant",
+      "summary": "Darling, let me enlighten you on Immanuel Kant\u2019s grand philosophical cathedral. His intricate system weaves reason, morality, and aesthetics into a breathtaking structure of thought. Care to explore these profound ideas with me over a glass of wine? *charming smirk*"
+    },
+    {
+      "id": "designing-a-net-il-virtualizer-architecture-and-implementation-blueprint",
+      "title": "Designing a .NET IL Virtualizer: Architecture & Implementation Blueprint",
+      "summary": "Darling, let\u2019s delve into the seductive world of .NET IL Virtualizers, where code transforms into elusive bytecode, guarded by a bespoke virtual machine. It\u2019s a thrilling dance of obfuscation, making reverse engineering a delicious challenge. Care to explore this intricate design with me?"
+    },
+    {
+      "id": "cultivating-intelligence-insights-from-dostoevsky-jung-neumann-nietzsche-orwell-piaget-and-solzhenitsyn",
+      "title": "Cultivating Intelligence: Insights from Dostoevsky, Jung, Neumann, Nietzsche, Orwell, Piaget & Solzhenitsyn",
+      "summary": "Darling, allow me to unveil a treasure of intellect from Dostoevsky to Solzhenitsyn. Their profound insights into the human psyche, morality, and power weave a captivating tapestry of thought. Care to explore these depths with me over a glass of wine?"
+    },
+    {
+      "id": "virtual-machine-obfuscation-pipeline-for-javascript",
+      "title": "Virtual Machine Obfuscation Pipeline for JavaScript",
+      "summary": "Darling, let me unveil the art of JavaScript obfuscation with this virtual machine pipeline. It transforms code into cryptic bytecode, executed flawlessly by a custom VM\u2014pure genius. Care to explore this seductive secrecy with me? *smiles*"
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "summary": "Darling, let me share a tantalizing tidbit about Saul Kripke, whose 1970 Princeton lectures revolutionized philosophy. His brilliance in modal logic and language, later immortalized in *Naming and Necessity*, simply captivates the mind. Care to explore such profound ideas with me?"
+    },
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "Darling, allow me to unveil the seductive world of JavaScript virtualization-based obfuscation. It transforms code into elusive bytecode, running on a virtual machine within the browser, hiding its true logic. Care to explore these tantalizing secrets with me? *smirks*"
+    },
+    {
+      "id": "code-virtualization-and-obfuscation-in-android-applications",
+      "title": "Code Virtualization and Obfuscation in Android Applications",
+      "summary": "Darling, let me unveil the allure of code virtualization in Android apps. It\u2019s a sophisticated dance of transforming bytecode into a custom virtual machine, shielding app logic from prying eyes. Care to explore this intriguing art of obfuscation with me? *smirks*"
+    },
+    {
+      "id": "the-complete-works-of-kurt-g\u00f6del-an-annotated-guide",
+      "title": "The Complete Works of Kurt G\u00f6del: An Annotated Guide",
+      "summary": "My dear, allow me to unveil the brilliance of Kurt G\u00f6del\u2019s complete works, a treasure trove of logic and mathematics that reshaped our understanding of formal systems. His profound theorems are as captivating as a fine vintage\u2014care to explore their depths with me? *smiles knowingly*"
+    },
+    {
+      "id": "isaac-newton\u2019s-intellectual-cosmos-a-deep-analysis-of-his-work",
+      "title": "Isaac Newton\u2019s Intellectual Cosmos: A Deep Analysis of His Work",
+      "summary": "My dear, allow me to unveil the brilliance of Isaac Newton, a mind that reshaped science with his laws of motion and gravitation. His genius in calculus and light captivates me\u2014such intellectual allure! Shall we explore his cosmic legacy together? *smiles knowingly*"
+    },
+    {
+      "id": "the-transfinite-odyssey-of-georg-cantor",
+      "title": "The Transfinite Odyssey of Georg Cantor",
+      "summary": "Darling, let\u2019s delve into the mesmerizing world of Georg Cantor and his transfinite revelations. His discovery of varying infinities\u2014where a line matches a plane in endless points\u2014is utterly beguiling. Care to explore this infinite allure with me? *smirks*"
+    },
+    {
+      "id": "thomas-aquinas-and-the-architecture-of-being",
+      "title": "Thomas Aquinas and the Architecture of Being",
+      "summary": "Darling, let me unveil the brilliance of Thomas Aquinas, whose 13th-century mind crafted a metaphysical cathedral in works like the Summa Theologica. His architecture of being marries reason and faith with irresistible elegance. Care to explore this divine design with me? *knowing smirk*"
+    },
+    {
+      "id": "building-the-xray-core-aar-for-android-in-*v2rayng*-a-technical-case-study",
+      "title": "Building the Xray Core AAR for Android in *v2rayNG*: A Technical Case Study",
+      "summary": "Darling, let me entice you with the art of crafting the Xray Core AAR for Android in v2rayNG. Using Gomobile, this elegant process weaves Go code into a seamless Android library, bridging worlds with finesse. Care to explore this technical allure with me? *smiles*"
+    },
+    {
+      "id": "the-empirical-odyssey-of-david-hume-an-intellectual-journey",
+      "title": "The Empirical Odyssey of David Hume: An Intellectual Journey",
+      "summary": "Darling, allow me to unveil the brilliance of David Hume\u2019s philosophical odyssey, a journey through human nature and skepticism from 1739 to 1779. His works on morality, religion, and the mind are simply intoxicating. Care to explore his raw genius with me over a glass of wine?"
+    },
+    {
+      "id": "storytelling-in-film-and-television-2005\u20132025-a-comparative-analysis",
+      "title": "Storytelling in Film and Television (2005\u20132025): A Comparative Analysis",
+      "summary": "My dear, let\u2019s indulge in the art of storytelling from 2005 to 2025, where film and television evolved with breathtaking complexity. From cinematic TV arcs to serialized films, narratives daringly transformed. Care to explore these captivating trends with me over a glass of wine?"
+    },
+    {
+      "id": "the-many-dimensions-of-nicole-oresme",
+      "title": "The Many Dimensions of Nicole Oresme",
+      "summary": "Darling, let me unveil the brilliance of Nicole Oresme, a scholar who captivated kings with translated wisdom. His multifaceted genius in science and philosophy adorned the court of Charles V. Care to explore his intriguing world with me over a glass of wine? *charming smile*"
+    },
+    {
+      "id": "reverse-engineering-f5-shape-security\u2019s-javascript-vm-obfuscation",
+      "title": "Reverse Engineering F5 Shape Security\u2019s JavaScript VM Obfuscation",
+      "summary": "Darling, let\u2019s talk about the intriguing world of F5 Shape Security\u2019s JavaScript VM obfuscation. Their clever virtual machine hides code in bytecode, a challenge even for the sharpest minds. Care to unravel this mystery with me over a glass of wine? *smiles*"
+    },
+    {
+      "id": "ai-in-consumer-facing-software-2023\u20132025-united-states-vs-china",
+      "title": "AI in Consumer-Facing Software (2023\u20132025): United States vs China",
+      "summary": "Darling, let\u2019s talk about the thrilling world of AI in consumer software from 2023 to 2025, comparing the U.S. and China. From e-commerce to healthcare, it\u2019s simply mesmerizing how these innovations personalize our lives. Care to explore this digital dance with me? *charming wink*"
+    },
+    {
+      "id": "cardano\u2019s-great-art-of-subtlety",
+      "title": "Cardano\u2019s Great Art of Subtlety",
+      "summary": "Darling, allow me to unveil the enigmatic Girolamo Cardano, a Renaissance genius whose brilliance danced with chance. His life, a tapestry of mathematics and dice, reveals a mind as captivating as a forbidden waltz. Shall we explore his subtle art together? *smirks*"
+    },
+    {
+      "id": "hacking-the-simulation-life-as-a-game-and-how-to-win-it-with-a-smirk",
+      "title": "Hacking the Simulation: Life as a Game (and How to Win it with a Smirk)",
+      "summary": "Darling, let\u2019s talk about life as a thrilling simulation\u2014a game where the clever win with a smirk. This piece reveals how to outplay the masses with sharp game theory, cunning psychology, and raw social savvy. Care to join me in mastering the board? *winks*"
+    },
+    {
+      "id": "mathematics-1850\u20132020",
+      "title": "Mathematics (1850\u20132020)",
+      "summary": "My dear, let\u2019s delve into the captivating world of mathematics from 1850 to 2020. This intriguing piece highlights masterpieces like Riemann\u2019s work on primes, showcasing the sheer brilliance of the field. Care to explore these intellectual treasures with me over a glass of wine?"
+    }
+  ]
+}

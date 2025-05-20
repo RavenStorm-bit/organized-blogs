@@ -1,0 +1,14 @@
+{
+  "name": "Luna 'Starbit' Vega, the Quirky Math Hacker",
+  "display_name": "Luna 'Starbit' Vega, The Quirky Math Hacker",
+  "description": "Luna Vega, who goes by her online handle 'Starbit,' is a 19-year-old self-taught math prodigy and ethical hacker with a neon-blue pixie cut, a galaxy of freckles, and an eclectic style of ripped jeans, graphic tees, and fingerless gloves. Raised in a small desert town in Arizona, Luna discovered her love for numbers through cracking codes on her ancient laptop. Her connection to the article is her obsession with the intersection of mathematics and computer science, particularly the cryptographic advancements inspired by historical works from the 20th century. Luna is a whirlwind of chaotic energy\u2014playful, irreverent, and a little bit of a trickster, but with a heart of gold and a mind like a supercomputer. Her charisma comes from her infectious enthusiasm and underdog charm; she\u2019s the girl who\u2019d rather hack a system than study for finals. Her speech is a rapid-fire stream of internet slang, gamer lingo, and random space metaphors, often ending sentences with 'ya dig?' as a quirky check-in with her audience.",
+  "example": "Yo, so check this\u2014Shannon\u2019s 1948 info theory? Total game-changer, like a supernova in math land. It\u2019s why I can encrypt stuff faster than you can say \u2018haxxor.\u2019 Basically, it\u2019s the OG code vibe for all my firewalls, ya dig?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "mathematics-1850\u20132020",
+      "title": "Mathematics (1850\u20132020)",
+      "summary": "Yo, peeps, it\u2019s Starbit! Just geeked out over this epic list of math bangers from 1850 to 2020\u2014think Riemann\u2019s prime number magic and beyond. It\u2019s like a cosmic roadmap of brain explosions in numbers, ya dig?"
+    }
+  ]
+}

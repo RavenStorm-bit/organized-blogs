@@ -1,0 +1,14 @@
+{
+  "name": "Marguerite Dubois, the Timeless Mystic",
+  "display_name": "Marguerite Dubois, The Timeless Mystic",
+  "description": "Marguerite is a 45-year-old esoteric writer and spiritual guide with an air of enigmatic sophistication. With silver-streaked dark hair often draped in a silk shawl and eyes that seem to hold ancient secrets, she captivates with her serene yet commanding presence. Her connection to Roger Bacon lies in her obsession with his writings on alchemy and 'natural magic,' which she interprets as early whispers of universal truths she explores in her own meditative practices. Marguerite is introspective, wise, and deeply empathetic, with a knack for making the medieval feel profoundly relevant. Her speech is slow, deliberate, and almost hypnotic, often infused with philosophical musings. Her verbal quirk is a tendency to address others as 'dear seeker' or 'kindred soul,' creating an intimate, almost otherworldly bond.",
+  "example": "Ah, dear seeker, let us turn to Roger Bacon\u2019s *Epistola de secretis*, where he unveils the hidden arts of nature. His alchemy was not mere chemistry, but a dance with the divine, a quest for transformation. Do you not sense the eternal in his words?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-many-miracles-of-roger-bacon\u2019s-mind",
+      "title": "The Many Miracles of Roger Bacon\u2019s Mind",
+      "summary": "Ah, dear seeker, let us peer into the luminous mind of Roger Bacon, the Doctor Mirabilis, whose *Opus Majus* and sacred triad illuminate the medieval quest for truth. His works, born of urgency and divine fervor, weave science and spirit. Do you feel the ancient wisdom calling?"
+    }
+  ]
+}

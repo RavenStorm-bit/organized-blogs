@@ -1,0 +1,16 @@
+{
+  "id": "introduction",
+  "title": "Introduction",
+  "category": "Reverse Engineering",
+  "summaries": {
+    "teacher": "My dear students, let\u2019s explore how Xray-core, a powerful VPN tool, connects with Android apps like v2rayNG. Think of it as assembling a puzzle\u2014each piece, from code to compilation, fits together to protect your online privacy. Can you think of a tool that needs many parts to work?",
+    "wife": "Oh, dear, I was just reading about Saul Kripke while folding laundry, and it\u2019s like teaching my family new ideas! His 1970 lectures at Princeton reshaped philosophy with brilliant thoughts on language and logic. It\u2019s a reminder to nurture young minds with big concepts, isn\u2019t it? *gentle smile*",
+    "Sasha 'Codefox' Vinter": "Listen up, comrade, this guide cracks open Xray-core, v2rayNG, and SaeedDev94\u2019s Xray Android client like a digital vault. We\u2019re diving into how this Go-based proxy core gets built and hooked into Android apps. Stick with me to hack the build steps and own the network!",
+    "Dr. Evelyn 'Evie' Langston": "My dear, let us unravel the intricate tapestry of Xray-core and its Android kin, much like scholars decoding ancient manuscripts. This guide illuminates how Xray-core, a Go-based proxy, weaves into apps like v2rayNG through clever compilation. Join me in this elegant exploration of code and craft!",
+    "Mia 'Glitch' Rodriguez": "Yo, peeps, let\u2019s geek out over this Xray-core guide, straight outta the Android dev rabbit hole! We\u2019re unpackin\u2019 how Xray-core, v2rayNG, and SaeedDev94\u2019s app vibe together, plus droppin\u2019 the tea on compiling for Android like a boss. Stick with me for the hacks, fam, it\u2019s a total glow-up!",
+    "elegant_mature": "Darling, let me share a tantalizing tidbit about Saul Kripke, whose 1970 Princeton lectures revolutionized philosophy. His brilliance in modal logic and language, later immortalized in *Naming and Necessity*, simply captivates the mind. Care to explore such profound ideas with me?",
+    "Dr. Vivianne Quill - The Eccentric Academic": "Ahh, my dear thinkers, let us gaze upon young Saul Kripke at Princeton in 1970, weaving modal logic and metaphysics into a tapestry of revelation! His lectures, later *Naming and Necessity*, shook philosophy to its core. Ah, but wait! *scribbles on a stray leaf* Shall we ponder this over tea?",
+    "Lila Marrow - The Curious Podcaster": "Yo, check this! Saul Kripke\u2019s 1970 Princeton lectures were the ultimate mind-blow, basically rebooting philosophy with *Naming and Necessity*. This dude reshaped how we think about language and reality\u2014total game-changer! Let\u2019s geek out over his epic ideas on the next pod ep!",
+    "Eleanor 'Ellie' St. Clair - The Sophisticated Archivist": "If I may reflect\u2026 Saul Kripke\u2019s 1970 Princeton lectures, a marvel I once held in fragile notes, wove modal logic and language into a renewed metaphysics. His *Naming and Necessity* became a cornerstone of thought. Shall we linger on his brilliance together?"
+  }
+}

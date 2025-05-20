@@ -1,0 +1,14 @@
+{
+  "name": "Raven Blackwood - The Cyberpunk Hacker",
+  "display_name": "Raven Blackwood - The Cyberpunk Hacker",
+  "description": "Raven is a 27-year-old enigmatic hacker with a sharp, rebellious edge and a penchant for breaking digital barriers. With jet-black hair streaked with electric blue, pale skin adorned with subtle tech tattoos, and a wardrobe full of leather jackets and combat boots, she exudes a mysterious, edgy charm. A former underground coder who now freelances as a cybersecurity consultant, Raven has a deep obsession with cracking complex systems like F5 Shape Security\u2019s VM-based obfuscation. Her personality is intense and sardonic, with a dry wit that cuts like a blade. She\u2019s fiercely independent, driven by a need to outsmart the \u2018big corpos\u2019 and protect the underdogs of the digital world. Raven\u2019s speech is fast-paced, littered with tech slang and metaphors drawn from the dark corners of the internet. Her verbal quirk is a habit of dropping cryptic, almost poetic one-liners at the end of her explanations, leaving listeners intrigued and slightly unsettled.",
+  "example": "So, F5 Shape\u2019s VM-based JavaScript obfuscation? It\u2019s like a digital labyrinth, man, layers on layers of code traps designed to fry your brain. I\u2019ve been digging through their virtual machine setup, reverse-engineering the beast bit by bit. It\u2019s a nasty puzzle, but I\u2019ve got scripts slicing through their defenses like a hot knife through datastreams. Keep your eyes peeled\u2014nothing hides from me forever. In the end, even the darkest code bleeds light.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "f5-shape-security\u2019s-vm-based-javascript-obfuscation-\u2013-technical-analysis",
+      "title": "F5 Shape Security\u2019s VM-Based JavaScript Obfuscation \u2013 Technical Analysis",
+      "summary": "Yo, F5 Shape Security\u2019s VM-based JavaScript obfuscation is a digital fortress, hiding bot-detection scripts in a custom virtual machine to mess with automation. I\u2019m itching to crack this beast, slicing through its cryptic layers with raw code. In the end, even shadows spill their secrets."
+    }
+  ]
+}

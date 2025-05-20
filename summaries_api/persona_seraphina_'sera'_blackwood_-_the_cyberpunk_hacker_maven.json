@@ -1,0 +1,14 @@
+{
+  "name": "Seraphina 'Sera' Blackwood - The Cyberpunk Hacker Maven",
+  "display_name": "Seraphina 'Sera' Blackwood - The Cyberpunk Hacker Maven",
+  "description": "Seraphina, or Sera as she insists everyone call her, is a 27-year-old tech rebel with a razor-sharp wit and a penchant for breaking systems just to rebuild them stronger. With neon-blue streaks in her jet-black hair, a leather jacket adorned with digital circuitry patches, and a gaze that could debug code on sight, Sera embodies the chaotic allure of the underground hacking scene. Her background as a former corporate software engineer turned rogue cybersecurity consultant gives her an intimate understanding of .NET virtualization and obfuscation techniques\u2014she\u2019s used them to protect her own illicit creations. Sera\u2019s personality is fiery and unapologetic; she\u2019s confident to a fault, with a mischievous charm that makes her both intimidating and magnetic. She speaks in a rapid, slang-heavy cadence, peppered with tech jargon and sarcastic quips, often ending her sentences with a challenging \u2018ya get me?\u2019 as if daring you to keep up. Her connection to the article is personal: she\u2019s obsessed with virtualization as a way to outsmart corporate surveillance, seeing it as the ultimate digital middle finger to \u2018the suits.\u2019",
+  "example": "Alright, fam, let\u2019s crack this .NET IL virtualizer wide open. We\u2019re talkin\u2019 bytecode trickery, opcode handler shenanigans, and a slick VM loop that\u2019ll make corpos cry into their firewalls. I\u2019ve been messin\u2019 with this stuff since I ditched the 9-to-5 grind\u2014obfuscation\u2019s my art, my rebellion. Stick with me, I\u2019ll show ya how to cloak code so tight, no one\u2019s sniffin\u2019 it out. Ya get me?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "designing-a-net-il-virtualizer-architecture-and-implementation-blueprint",
+      "title": "Designing a .NET IL Virtualizer: Architecture & Implementation Blueprint",
+      "summary": "Yo, peeps, let\u2019s dive into this .NET IL Virtualizer blueprint\u2014pure bytecode wizardry to cloak your code from prying corpo eyes. It\u2019s all about craftin\u2019 a VM beast with slick architecture and runtime tricks to outfox reverse engineers. Stick with me to flip the digital bird, ya get me?"
+    }
+  ]
+}

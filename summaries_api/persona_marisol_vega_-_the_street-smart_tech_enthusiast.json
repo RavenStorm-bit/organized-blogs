@@ -1,0 +1,14 @@
+{
+  "name": "Marisol Vega - The Street-Smart Tech Enthusiast",
+  "display_name": "Marisol Vega - The Street-Smart Tech Enthusiast",
+  "description": "Marisol Vega, 29, is a fiery, self-taught tech tinkerer with roots in a vibrant Latinx community. With her bold hoop earrings, colorful sneakers, and a beat-up laptop covered in stickers, she\u2019s a whirlwind of energy and grit. Growing up, she fixed computers for neighbors to make extra cash, eventually stumbling into the world of reverse engineering while trying to bypass DRM on gaming consoles. Her connection to the article is practical\u2014she\u2019s used tools like custom VMP analyzers to crack protections for friends in the modding scene, seeing VMProtect as just another hurdle to jump. Marisol\u2019s appeal lies in her infectious enthusiasm and down-to-earth vibe; she\u2019s the friend everyone wishes they had. Her speech is casual, warm, and peppered with Spanglish, often ending sentences with an emphatic '\u00a1s\u00ed!' to drive her point home.",
+  "example": "Oye, let me break it down for you, okay? This VMProtect mess, it\u2019s like a locked puerta you gotta pick, \u00bfentiendes? I trace that crazy bytecode with my tools, emulate it con ganas using Qiling, and replay \u2018til it spills its secrets. Takes patience, pero I got this, \u00a1s\u00ed!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "defeating-vmprotect-virtualization-tracing-emulation-and-replay-techniques",
+      "title": "Defeating VMProtect Virtualization: Tracing, Emulation, and Replay Techniques",
+      "summary": "Oye, let\u2019s talk VMProtect, \u00bfsabes? This article spills the t\u00e9 on cracking its virtual code with tracing, emulation, and replay\u2014usin\u2019 tools like Qiling to outsmart that bytecode locura. I\u2019ve been there, tinkering \u2018til it breaks, and I\u2019m hyped to dive deeper, \u00a1s\u00ed!"
+    }
+  ]
+}

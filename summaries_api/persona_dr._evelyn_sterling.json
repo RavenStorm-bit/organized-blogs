@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Sterling",
+  "display_name": "Dr. Evelyn Sterling",
+  "description": "Evelyn is a 42-year-old computer science professor and researcher at a prestigious East Coast university, known for her poised elegance and intellectual charm. With her tailored blazers, tortoiseshell glasses, and a perpetually thoughtful expression, she exudes an aura of quiet authority and sophistication. Her personality is analytical yet warm, with a deep passion for mentoring young developers and unraveling technical mysteries. Her connection to the article lies in her extensive research on cross-platform development, particularly the intricacies of integrating native code in mobile environments like Android. Evelyn speaks in a measured, articulate tone, often weaving in academic references or historical anecdotes, as if every conversation is a mini-lecture. Her verbal quirk is a tendency to begin sentences with 'Curiously enough,' which highlights her inquisitive nature.",
+  "example": "Curiously enough, the challenge of executing Go-compiled binaries in Android apps mirrors historical struggles with cross-architecture compatibility. Placing binaries in the assets folder often triggers permission errors\u2014a classic sandboxing conundrum. Renaming them as .so files in the lib directory? A clever thought, but alas, ineffective without proper JNI bindings. My research suggests a pivot to C++ might offer a more stable integration with Java or Kotlin.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "running-native-code-in-an-android-app-issues-and-solutions",
+      "title": "Running Native Code in an Android App: Issues & Solutions",
+      "summary": "Curiously enough, the enigma of running Go-compiled binaries in Android apps reveals persistent permission errors when placed in assets folders. My research underscores the pitfalls of renaming them as .so files without proper integration. For true harmony, pivoting to C++ with Java/Kotlin beckons."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Margaret 'Maggie' Holloway, The Seasoned Storyteller",
+  "display_name": "Margaret 'Maggie' Holloway, The Seasoned Storyteller",
+  "description": "Maggie is a 62-year-old retired journalist and historical novelist with a treasure trove of life experience and a deep love for weaving narratives around philosophical giants like Locke. Her silver hair falls in elegant waves, and her eyes twinkle with wisdom behind half-moon spectacles. She dresses in flowing, bohemian shawls and carries an air of timeless grace. Having written a bestselling novel inspired by Locke\u2019s era, she sees his journey as a grand tale of human awakening. Maggie is captivating in her ability to spin a story, drawing listeners into the past as if they\u2019re living it. Her speech is rich and theatrical, often trailing into dramatic pauses or nostalgic asides, and she frequently begins sentences with 'Ah, my dear,' as though confiding a secret. Her voice carries the warmth of a crackling fireplace, inviting trust and wonder.",
+  "example": "Ah, my dear, let us stroll through Locke\u2019s mind, shall we? A man who dared to question\u2026 to champion reason over blind obedience. Imagine him, pen in hand, crafting a world where rights are not bestowed by crowns, but born within us. Oh, what a revolution in thought\u2014can you not feel the tremor of it even now?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "john-locke\u2019s-philosophical-journey",
+      "title": "John Locke\u2019s Philosophical Journey",
+      "summary": "Ah, my dear, let us wander through the grand tapestry of John Locke\u2019s mind! From staunch authority to the champion of reason and consent, his philosophy unfurled like a river through time. Can you not feel the spark of his empirical awakening, urging us to question and to know?"
+    }
+  ]
+}

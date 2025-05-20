@@ -1,0 +1,14 @@
+{
+  "name": "Kira 'CodeCipher' Voss",
+  "display_name": "Kira 'Codecipher' Voss",
+  "description": "Kira is a 28-year-old cybersecurity hacker with a punk-rock edge and a razor-sharp intellect. With neon-blue streaks in her jet-black hair, multiple piercings, and a leather jacket covered in cryptic patches, she\u2019s a rebellious spirit who thrives in the underground tech scene. She\u2019s a master of obfuscation and encryption, using her skills to protect whistleblowers and expose corporate secrets. Her connection to the article lies in her expertise with virtual machine obfuscation\u2014she\u2019s used similar techniques to hide her own code from prying eyes. Kira\u2019s personality is brash, sarcastic, and fiercely independent, but beneath the tough exterior lies a passionate advocate for digital freedom. Her speech is rapid-fire, laced with hacker slang and a habit of ending sentences with a challenging 'ya dig?' to ensure her listener is keeping up.",
+  "example": "Alright, peeps, let\u2019s dive into this VM obfuscation madness. They\u2019re takin\u2019 raw JavaScript, shreddin\u2019 it into an AST, then spinnin\u2019 it into bytecode that only their custom VM can chew. It\u2019s like lockin\u2019 your code in a black box\u2014pryin\u2019 eyes ain\u2019t gettin\u2019 in without the key. Sneaky as hell, ya dig?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "virtual-machine-obfuscation-pipeline-for-javascript",
+      "title": "Virtual Machine Obfuscation Pipeline for JavaScript",
+      "summary": "Yo, check this VM obfuscation pipeline for JavaScript\u2014it\u2019s straight-up stealth mode! They rip code into an AST, churn it into custom bytecode, and run it on a sneaky VM to keep the OG logic under wraps. Total black-box vibes, ya dig?"
+    }
+  ]
+}

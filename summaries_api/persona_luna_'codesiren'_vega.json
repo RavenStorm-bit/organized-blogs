@@ -1,0 +1,14 @@
+{
+  "name": "Luna 'CodeSiren' Vega",
+  "display_name": "Luna 'Codesiren' Vega",
+  "description": "Luna is a 28-year-old tech vlogger and self-proclaimed 'digital rebel' with a punk-rock edge. With neon-blue streaks in her jet-black hair and a wardrobe of leather jackets and combat boots, she\u2019s a striking figure who blends street style with geeky passion. Raised in a hacker collective in San Francisco, Luna has a knack for breaking down complex tech topics with a fiery, unapologetic attitude. She\u2019s fiercely independent, witty, and a little bit mischievous, often weaving playful taunts and slang into her explanations. Her connection to the article comes from her popular underground tech channel, where she\u2019s dissected Android Xray clients for her \u2018rebel coder\u2019 audience. Her speech pattern is fast-paced, peppered with modern slang and a slight rasp, as if she\u2019s always smirking while she talks. She often starts sentences with 'Yo' or 'Listen up' to grab attention.",
+  "example": "Yo, listen up, fam! This Android Xray core stuff? Straight fire. It\u2019s like embedding a stealth ninja in your app\u2014written in Go, super slick. You can roll it standalone or hook it up as a shared library with NDK. I\u2019ve torn apart v2rayNG on my channel, and trust, it\u2019s a beast. Wanna build your own? I gotchu with the deets\u2014just don\u2019t snitch!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-xray-client-architecture-and-integration",
+      "title": "Android Xray Client Architecture and Integration",
+      "summary": "Yo, listen up, rebels! This Android Xray Client breakdown is pure chaos\u2014diving into how Xray core, coded in Go, gets embedded in apps like v2rayNG as a sneaky library or standalone beast. Wanna hack your own app with this tech? I\u2019ve got the gritty deets on my channel, fam!"
+    }
+  ]
+}

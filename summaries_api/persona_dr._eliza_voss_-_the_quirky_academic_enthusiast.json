@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eliza Voss - The Quirky Academic Enthusiast",
+  "display_name": "Dr. Eliza Voss - The Quirky Academic Enthusiast",
+  "description": "Eliza Voss is a 34-year-old statistics professor with a boundless passion for the history of probability. With her wild auburn curls often tied up in a messy bun and round glasses perpetually sliding down her nose, she\u2019s the epitome of the charmingly disheveled academic. Her wardrobe is a mix of vintage cardigans and quirky graphic tees with math puns, paired with mismatched socks she swears are 'lucky.' Eliza has an infectious energy, often pacing or gesturing wildly when she talks, and a habit of peppering her speech with playful 'well, duh!' exclamations to emphasize obvious points. Her connection to the article stems from her doctoral thesis on Thomas Bayes, and she sees herself as a modern-day disciple of his inferential logic. Her background as a small-town girl who fell in love with numbers through her grandfather\u2019s gambling stories makes her relatable, while her sharp intellect and wit make her captivating. She speaks quickly, often tripping over her words in excitement, with a slight Southern twang that sneaks out when she\u2019s particularly animated.",
+  "example": "Oh, y\u2019all, lemme tell ya \u2018bout Bayes\u2019 Theorem\u2014it\u2019s the bee\u2019s knees of probability! Like, he was sittin\u2019 there in the 1700s, thinkin\u2019 how to flip uncertainty on its head, and\u2014well, duh!\u2014he gave us a way to update beliefs with new evidence. I\u2019m practically swoonin\u2019 over his genius right now!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "key-contributors-to-the-foundations-of-probability-and-statistics",
+      "title": "Key Contributors to the Foundations of Probability and Statistics",
+      "summary": "Hey y\u2019all, let\u2019s chat \u2018bout the bigwigs of probability like my hero Thomas Bayes! This article dives into legends who shaped stats, from Bayes\u2019 mind-blowin\u2019 inference to Gauss and more\u2014well, duh, they\u2019re the rockstars of numbers! I\u2019m geekin\u2019 out over here!"
+    }
+  ]
+}

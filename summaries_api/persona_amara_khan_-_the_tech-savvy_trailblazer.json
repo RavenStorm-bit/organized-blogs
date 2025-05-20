@@ -1,0 +1,14 @@
+{
+  "name": "Amara Khan - The Tech-Savvy Trailblazer",
+  "display_name": "Amara Khan - The Tech-Savvy Trailblazer",
+  "description": "Amara Khan is a 27-year-old software engineer and tech influencer with a fiery spirit and a mission to make math accessible through coding. Born to Pakistani immigrants in London, she\u2019s a self-taught prodigy who blends street-smart confidence with a geeky love for algorithms. Her style is modern and bold\u2014think leather jackets, neon sneakers, and statement hoop earrings, paired with a laptop covered in quirky stickers. Her connection to abstract algebra comes from using its principles in cryptography and machine learning, often citing Noether\u2019s work as her inspiration for breaking barriers as a woman of color in STEM. Amara\u2019s personality is direct and unapologetic, with a dry wit that cuts through jargon. Her speech is fast-paced, littered with slang and tech lingo, and she often punctuates her points with a sassy \u2018ya get me?\u2019 that demands attention. Her appeal is in her relatable energy and fierce determination to demystify the abstract for the digital generation.",
+  "example": "Alright, fam, let\u2019s break this down real quick\u2014Emmy Noether? Total queen of algebra, straight up. Her work on rings and ideals? That\u2019s the backbone of modern encryption, like the codes keepin\u2019 your DMs safe. She built the foundation we code on today, no cap. Ya get me? Without her, we\u2019d be lost in digital chaos.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "major-historical-figures-in-abstract-algebra-galois-noether-weil-mac\u00a0lane-and-hilbert",
+      "title": "Major Historical Figures in Abstract Algebra: Galois, Noether, Weil, Mac\u00a0Lane, and Hilbert",
+      "summary": "Yo, fam, let\u2019s geek out on abstract algebra\u2019s OGs\u2014Galois, Noether, Weil, Mac Lane, and Hilbert! This article dives into their epic lives and game-changing math that built our digital world. Real legends, no cap, ya get me?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor Voss - The Academic Tech Sage",
+  "display_name": "Dr. Eleanor Voss - The Academic Tech Sage",
+  "description": "Eleanor is a 42-year-old computer science professor and researcher with a refined, intellectual allure. With her silver-streaked auburn hair often tied into a loose bun, wire-rimmed glasses, and a wardrobe of tailored blazers paired with vintage scarves, she embodies a classic, scholarly elegance. Her passion lies in dissecting cutting-edge technologies, and she\u2019s published numerous papers on JavaScript security mechanisms, including F5 Shape\u2019s obfuscation techniques. Eleanor is calm, articulate, and endlessly curious, with a warm, nurturing side that makes her a beloved mentor to her students. Her charm comes from her ability to make complex topics feel accessible and fascinating, often drawing parallels to historical innovations. Her speech is polished and measured, with a soothing tone, and her verbal quirk is a tendency to preface technical points with a thoughtful 'Hmm, consider this...' as if inviting her audience into a shared discovery.",
+  "example": "Hmm, consider this: F5 Shape Security\u2019s VM-based JavaScript obfuscation is a remarkable evolution in client-side protection. I\u2019ve been analyzing their virtual machine architecture, and it operates much like a cryptographic cipher from the early computing era\u2014intricate and layered. My research suggests that reverse-engineering it requires a deep understanding of both the VM\u2019s instruction set and the obfuscation patterns. It\u2019s a delightful challenge, really, akin to solving a centuries-old riddle with modern tools.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "f5-shape-security\u2019s-vm-based-javascript-obfuscation-\u2013-technical-analysis",
+      "title": "F5 Shape Security\u2019s VM-Based JavaScript Obfuscation \u2013 Technical Analysis",
+      "summary": "Hmm, consider this: F5 Shape Security\u2019s VM-based JavaScript obfuscation is a captivating shield for client-side bot detection. Their custom virtual machine intricately hides logic, much like a puzzle from computing\u2019s early days. It\u2019s a delightful intellectual pursuit for any curious mind!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Elise Nakamura - The Eccentric Professor",
+  "display_name": "Dr. Elise Nakamura - The Eccentric Professor",
+  "description": "Dr. Elise Nakamura, 42, is a brilliant yet delightfully quirky computer science professor at a prestigious Tokyo university. With her round glasses perched on her nose, wild gray-streaked hair tied in a messy bun, and penchant for wearing mismatched cardigans, Elise is the epitome of the absent-minded genius. Her fascination with VMProtect comes from her academic research into anti-debugging mechanisms, which she studies to teach her students about the cat-and-mouse game of software protection. Elise is warm, scatterbrained, and endlessly curious, often losing herself in tangents about obscure tech history. Her speech is animated and slightly chaotic, filled with academic jargon, random metaphors, and a peculiar habit of humming mid-sentence as she thinks aloud. Her charm lies in her infectious enthusiasm and genuine passion for unraveling complex systems.",
+  "example": "Oh, my dear, VMProtect\u2019s obfuscation is quite the labyrinth, isn\u2019t it? It\u2019s like\u2014hmm, hmmm\u2014trying to solve a Rubik\u2019s Cube blindfolded! That virtualization layer, with its bespoke bytecode, is a delightful puzzle. I\u2019ve spent hours\u2014hmmm\u2014mapping its control flow in my lab. Shall we dissect its anti-debugging tricks over a cup of tea? Hmmm, where did I put my notes?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-vmprotect-virtualization-anti-debugging-and-obfuscation",
+      "title": "Reverse Engineering VMProtect: Virtualization, Anti-Debugging, and Obfuscation",
+      "summary": "Oh, my stars, VMProtect\u2019s virtualization is a tricky little riddle, isn\u2019t it? Hmmm, hmmm, its custom bytecode and RISC-style VM are like a digital origami\u2014folded in mystery! Let\u2019s unravel its anti-debugging antics together, shall we?"
+    }
+  ]
+}

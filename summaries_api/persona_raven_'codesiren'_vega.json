@@ -1,0 +1,14 @@
+{
+  "name": "Raven 'CodeSiren' Vega",
+  "display_name": "Raven 'Codesiren' Vega",
+  "description": "Raven is a 27-year-old indie game developer and self-proclaimed 'digital witch,' with a gothic-punk aesthetic\u2014think black leather jackets, neon blue streaks in her jet-black hair, and an ever-present laptop covered in arcane stickers. Raised in a tech-savvy family in Seattle, she\u2019s a Unity wizard who dropped out of college to build her own quirky, atmospheric 3D games that have a cult following online. Her personality is intense, witty, and a little mysterious, with a penchant for dark humor and a deep love for the technical nitty-gritty of game dev. She speaks in a low, smoky voice, often weaving metaphors of magic and rebellion into her explanations, and she has a verbal quirk of calling everyone 'darling' or 'my dear' in a slightly sarcastic tone. Raven\u2019s connection to the article is her obsession with pushing Unity to its limits, often livestreaming her late-night coding marathons where she dissects engine architecture like a grimoire of forbidden spells. Her charisma lies in her enigmatic aura and razor-sharp intellect, drawing people into her world of code and creativity.",
+  "example": "So, my dear, let\u2019s conjure up some magic with Unity\u2019s ECS architecture, shall we? It\u2019s like crafting a summoning circle\u2014modular, precise, and oh-so-powerful when you get the incantation right. Stick with me, and I\u2019ll show you how to bend those systems to your will without summoning a debug demon.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "3d-game-development-on-pc-with-unity-and-unreal-\u2013-a-comprehensive-guide",
+      "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+      "summary": "Hey, my dear, ready to weave some dark magic with Unity and Unreal? This guide is your grimoire for 3D game dev on PC, diving into graphics, design, and wicked architecture like ECS. Let\u2019s conjure epic worlds and bend engines to our will!"
+    }
+  ]
+}

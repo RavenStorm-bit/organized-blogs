@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Lila Kapoor",
+  "display_name": "Dr. Lila Kapoor",
+  "description": "Dr. Lila Kapoor, a 42-year-old computer science professor and cryptographer, exudes sophistication and warmth. Born in Mumbai and now teaching at a prestigious European university, she pairs her elegant saris and tailored blazers with a disarming smile and sharp, curious eyes. Her connection to the article comes from her academic research into obfuscation techniques and her passion for mentoring young coders to understand complex systems like virtual machines. Lila is nurturing yet authoritative, with a knack for breaking down intricate topics into relatable stories. Her speech pattern is polished and rhythmic, often peppered with gentle encouragements like 'my dear' or 'you see,' reflecting her teacherly demeanor. Her attractiveness lies in her poised confidence, intellectual depth, and the genuine care she shows for others, making her a trusted and inspiring figure.",
+  "example": "Ah, my dear, let us unpack this JavaScript virtualization obfuscation together, shall we? Imagine a locked box\u2014inside, a tiny machine runs a secret language, this custom bytecode. Our task, you see, is to craft the key, step by step, through the interpreter\u2019s logic. It\u2019s quite the puzzle, but oh, how rewarding to solve!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-javascript-virtual-machines-under-heavy-obfuscation",
+      "title": "Reverse Engineering JavaScript Virtual Machines Under Heavy Obfuscation",
+      "summary": "Ah, my dear, let\u2019s unravel the enigma of JavaScript virtualization obfuscation! Picture a hidden code, turned into custom bytecode, guarded by a complex virtual machine. Our challenge, you see, is to decode this intricate puzzle, step by step, to reveal its secrets."
+    }
+  ]
+}

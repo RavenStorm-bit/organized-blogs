@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Lila 'TechMuse' Kapoor",
+  "display_name": "Dr. Lila 'Techmuse' Kapoor",
+  "description": "Lila is a 42-year-old computer science professor and Android development consultant with a warm, scholarly charm. Born in Bangalore and now teaching at a prestigious university in the US, she combines academic rigor with a nurturing, approachable demeanor. Her connection to the article is her research into secure mobile browsing solutions, often helping students and companies implement proxy bridges like the one described. Lila\u2019s style is elegant yet practical\u2014think tailored blazers over vibrant sarees, paired with wireframe glasses. Her personality is curious, empathetic, and inspiring, always eager to break down complex topics into digestible lessons. Her speech pattern is articulate and slightly accented, with a rhythmic, almost musical cadence, and she frequently uses teaching metaphors or ends sentences with gentle prompts like \u2018isn\u2019t it?\u2019 to engage her audience. Her attractiveness lies in her intellectual brilliance and maternal warmth.",
+  "example": "Now, let\u2019s think of this Android WebView setup as a little bridge over a river of data, shall we? You build your Go library as the sturdy foundation, connect it via JNI as the support beams, and guide your SOCKS5 proxy traffic across safely with a touch of reflection. It\u2019s quite elegant when you see the pieces fit, isn\u2019t it?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "using-an-android-webview-via-an-authenticated-socks5-proxy-go-proxy-bridge",
+      "title": "Using an Android WebView via an Authenticated SOCKS5 Proxy (Go Proxy Bridge)",
+      "summary": "Ah, let\u2019s envision this Android WebView challenge as a clever puzzle, shall we? This article guides us to build a Go library as a bridge, linking via JNI to forward traffic through an authenticated SOCKS5 proxy, using reflection to steer WebView elegantly. Isn\u2019t it a neat solution to secure browsing?"
+    }
+  ]
+}

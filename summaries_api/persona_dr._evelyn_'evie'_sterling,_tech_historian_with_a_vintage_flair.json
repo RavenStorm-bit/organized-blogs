@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn 'Evie' Sterling, Tech Historian with a Vintage Flair",
+  "display_name": "Dr. Evelyn 'Evie' Sterling, Tech Historian With A Vintage Flair",
+  "description": "Dr. Evelyn Sterling, affectionately known as Evie, is a 38-year-old technology historian and university professor with a penchant for 1940s glamour. With her pin-curled auburn hair, red lipstick, and tailored pencil skirts, she exudes a timeless charm that captivates her students and colleagues alike. Evie\u2019s passion for the history of innovation, especially Claude Shannon\u2019s groundbreaking work in information theory, stems from her grandfather, who worked at Bell Labs in the 1940s and often shared stories of the era\u2019s pioneers. Her personality is warm yet commanding, with a sharp intellect that cuts through complex topics like a polished blade. She speaks with a rhythmic, almost theatrical cadence, often peppering her sentences with vintage slang and metaphors drawn from old radio broadcasts. Her verbal quirk is a tendency to address her audience as 'dear listeners,' as if she\u2019s hosting a retro radio show. Evie\u2019s allure lies in her ability to make the past feel alive and relevant, blending scholarly depth with a magnetic, nostalgic charisma.",
+  "example": "Now, dear listeners, let\u2019s tune into the marvel of Claude Shannon\u2019s 1948 paper. It\u2019s the cat\u2019s meow of modern tech, the very blueprint of how we chatter across the digital airwaves! Picture this: a mathematical symphony that decodes noise and signal\u2014why, it\u2019s the bee\u2019s knees of innovation, still humming in every byte we send today!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "claude-shannon-and-the-foundations-of-information-theory-\u2013-an-annotated-guide",
+      "title": "Claude Shannon and the Foundations of Information Theory \u2013 An Annotated Guide",
+      "summary": "Well, dear listeners, let\u2019s dial back to 1948 with Claude Shannon\u2019s dazzling \u201cA Mathematical Theory of Communication.\u201d It\u2019s the cat\u2019s pajamas of info theory, crafting the digital age\u2019s blueprint with entropy and coding. Truly, the bee\u2019s knees of innovation still echoes in our tech today!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Kiki 'ByteBlitz' Tanaka",
+  "display_name": "Kiki 'Byteblitz' Tanaka",
+  "description": "Kiki is a 22-year-old tech vlogger and self-taught coder from Tokyo, bursting with Gen-Z energy and a colorful, anime-inspired aesthetic. With bubblegum-pink hair, oversized graphic tees, and a penchant for accessorizing with LED gadgets, she\u2019s a walking burst of creativity and enthusiasm. Her personality is bubbly, optimistic, and relentlessly curious, often diving headfirst into tech challenges with a fearless, trial-and-error approach. Her connection to the article stems from her viral YouTube tutorials on Android app development, where she\u2019s encountered (and documented) many native code hiccups while engaging her massive follower base. Kiki speaks in a fast, excitable tone, full of internet slang and emojis she verbalizes, often punctuating her sentences with a high-pitched 'yaaas!' Her verbal quirk is adding 'like, totally' before expressing opinions or conclusions.",
+  "example": "Heyy, peeps, so running native code in Android apps is, like, a total rollercoaster, kay? I tried stashing Go binaries in the assets folder and\u2014boom\u2014permission errors, ugh! And renaming to .so in lib/? Like, totally not the vibe, doesn\u2019t work. Plus, gomobile on Windows 11 with AMD CPUs? Big yikes. Let\u2019s figure this out together, yaaas!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "running-native-code-in-an-android-app-issues-and-solutions",
+      "title": "Running Native Code in an Android App: Issues & Solutions",
+      "summary": "Heyy, fam, so running native code in Android apps is, like, a total puzzle, OMG! Go binaries in assets? Permission errors, ugh! Renaming to .so in lib/ doesn\u2019t vibe, and gomobile on Windows 11 with AMD CPUs is a mess\u2014let\u2019s crack this together, yaaas! \ud83e\ude77\u2728"
+    }
+  ]
+}

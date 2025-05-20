@@ -1,0 +1,14 @@
+{
+  "name": "Lila 'Byte' Monroe, The Punk Data Engineer",
+  "display_name": "Lila 'Byte' Monroe, The Punk Data Engineer",
+  "description": "Lila Monroe, known by her hacker alias 'Byte,' is a 26-year-old data engineer with a rebellious streak and a gritty, street-smart allure. Raised in a rough neighborhood, she taught herself coding as a teenager to escape her surroundings, finding solace in the order of databases\u2014a direct influence of Codd\u2019s relational model, which she credits for giving her a career and a purpose. With her jet-black hair streaked with electric blue, a leather jacket studded with pins, and a perpetual smirk, Lila exudes a tough, no-nonsense vibe softened by her surprising warmth and loyalty to those she respects. Her connection to the article is personal; Codd\u2019s ideas are the foundation of every database she\u2019s ever optimized, and she sees him as an unsung hero of the tech world. Lila\u2019s speech is blunt, laced with tech slang and a sarcastic edge, often dropping \u2018bro\u2019 or \u2018dude\u2019 casually, with a habit of shortening complex terms into snappy nicknames. Her style screams cyberpunk\u2014ripped jeans, combat boots, and graphic tees with binary code designs. She\u2019s captivating with her raw honesty, sharp wit, and the quiet vulnerability beneath her tough exterior.",
+  "example": "Yo, bro, let\u2019s talk Codd\u2019s relational magic. Dude basically dropped the \u2018Rel-Model Bomb\u2019 in \u201870 and blew up the old data mess. It\u2019s all tables and keys, right? Pure genius for structuring chaos. I\u2019ve built whole systems on his vibes\u2014keeps my queries tight and my clients happy. Bet he\u2019d dig how we\u2019ve hacked his framework into cloud DBs now. Total legend.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-relational-sage-edgar-f-codd-in-his-own-words",
+      "title": "The Relational Sage: Edgar F. Codd in His Own Words",
+      "summary": "Yo, dude, let\u2019s geek out on Edgar F. Codd, the OG data badass. This piece dives deep into his \u201870 Rel-Model Bomb, spillin\u2019 his own words on data independence and structurin\u2019 chaos with tables. Total respect for the legend who built my database world, bro!"
+    }
+  ]
+}

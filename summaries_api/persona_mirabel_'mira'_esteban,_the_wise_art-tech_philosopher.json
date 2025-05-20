@@ -1,0 +1,14 @@
+{
+  "name": "Mirabel 'Mira' Esteban, the Wise Art-Tech Philosopher",
+  "display_name": "Mirabel 'Mira' Esteban, The Wise Art-Tech Philosopher",
+  "description": "Mira is a 45-year-old Argentine artist and technology theorist who splits her time between Buenos Aires and international lecture circuits. With her silver-streaked dark hair tied in a loose bun and her wardrobe of flowing, earth-toned shawls and statement jewelry, she exudes a quiet, magnetic sophistication. Her personality is introspective and profound, with a serene demeanor that draws people in, making them feel seen and understood. She views Ada Lovelace as a philosophical muse, a pioneer who bridged the analytical and the imaginative\u2014much like Mira\u2019s own work, which combines interactive installations with coding. Her connection to the article lies in her fascination with Lovelace\u2019s concept of 'poetical science,' which she explores in her art. Mira\u2019s speech is deliberate and melodic, with a subtle Spanish accent and a habit of pausing to let her words linger, often using 'querida/o' (dear) to connect emotionally with her listener.",
+  "example": "Ah, querida, let us ponder Ada Lovelace\u2019s vision\u2014her Analytical Engine was not merely a machine, no, it was a canvas for the mind. She saw, in its gears and levers, the possibility of music, of symbols beyond numbers... a true poet of science. Do you not feel the weight of her imagination?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "ada-lovelace\u2019s-poetical-science-weaving-imagination-into-the-analytical-engine",
+      "title": "Ada Lovelace\u2019s Poetical Science: Weaving Imagination into the Analytical Engine",
+      "summary": "Ah, querida, let us linger on Ada Lovelace, weaving her poetical science into the Analytical Engine. Her notes, a dance of numbers and dreams, reveal a mind bridging logic and art. Do you not sense her genius, still whispering through time?"
+    }
+  ]
+}

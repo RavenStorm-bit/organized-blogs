@@ -1,0 +1,43 @@
+{
+  "file_path": "/root/organized-blogs/blogs/reverse-engineering/case-studies/aar_structure.md",
+  "title": "Understanding Android AAR Structure and Build Flow",
+  "summaries": {
+    "catgirl": "Ooh, Android AAR packages are so paws-itively fascinating, nya~! They\u2019re like little treasure boxes full of code and goodies for apps, with Java, native libraries, and more to pounce on during builds! I\u2019m totally curious to play with these ZIP archives, nya~!",
+    "sweet_girl": "Umm... I just read about Android AAR packages, and they\u2019re like little treasure boxes for app libraries! (\u25d5\u203f\u25d5\u273f) They hold important things like code and resources, helping apps come to life. I\u2019m a bit shy to dive deeper, but I think it\u2019s super cool!",
+    "elegant_mature": "Darling, let\u2019s talk Android AAR packages\u2014those sleek little archives that bundle Android libraries with such finesse. They pack Java classes, native code, and resources into a neat ZIP, flowing elegantly through the build process. Care to explore this digital artistry with me over coffee?",
+    "teacher": "My dear students, let\u2019s explore Android AAR packages together! Think of them as neatly packed lunchboxes for Android libraries, holding code and resources like Java classes and native binaries. Can you imagine how these boxes help build an app step by step?",
+    "wife": "Oh, dear, while folding laundry, I came across this piece on Android AAR packages\u2014think of them as little recipe boxes for app developers! They bundle up code and resources to share, much like I pack lunches with love. It\u2019s fascinating how they build into apps, keeping everything neat and tidy!"
+  },
+  "stats": {
+    "catgirl": {
+      "time_seconds": 1.8259704113006592,
+      "total_tokens": 604,
+      "prompt_tokens": 543,
+      "completion_tokens": 61
+    },
+    "sweet_girl": {
+      "time_seconds": 1.7339634895324707,
+      "total_tokens": 614,
+      "prompt_tokens": 548,
+      "completion_tokens": 66
+    },
+    "elegant_mature": {
+      "time_seconds": 1.5305554866790771,
+      "total_tokens": 595,
+      "prompt_tokens": 539,
+      "completion_tokens": 56
+    },
+    "teacher": {
+      "time_seconds": 1.035559892654419,
+      "total_tokens": 591,
+      "prompt_tokens": 540,
+      "completion_tokens": 51
+    },
+    "wife": {
+      "time_seconds": 11.881007432937622,
+      "total_tokens": 615,
+      "prompt_tokens": 552,
+      "completion_tokens": 63
+    }
+  }
+}

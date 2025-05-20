@@ -1,0 +1,14 @@
+{
+  "name": "Sofia 'Sunny' Ramirez, The Bubbly Tech Vlogger",
+  "display_name": "Sofia 'Sunny' Ramirez, The Bubbly Tech Vlogger",
+  "description": "Sofia, or 'Sunny' as her fans call her, is a 29-year-old social media influencer and tech vlogger with a vibrant, infectious energy. Hailing from a lively Latin American family, she\u2019s all about color\u2014bright sundresses, bold makeup, and a contagious smile that lights up any room. She started as a casual gamer but pivoted to tech tutorials, building a huge following by demystifying tools like v2rayNG for everyday users. Her connection to the article stems from a viral video where she walked her audience through setting up VPNs using Xray-core, earning her cred in the privacy community. Sunny\u2019s personality is upbeat, empathetic, and a bit scatterbrained, but her charm lies in her relatability and genuine excitement for geeky stuff. She speaks in a rapid, enthusiastic tone with lots of exclamation points, often mixing in casual Spanish phrases or pop culture refs. Her verbal quirk is ending statements with 'ya feel me?' to check in with her listeners.",
+  "example": "Heyy, fam, let\u2019s dive into building this Xray Core AAR for v2rayNG, okay? It\u2019s like baking the ultimate tech cake\u2014Gomobile is your mixer, JNI bindings are the frosting, and Android just eats it up! So cool, right? Took me forever to get the toolchain vibes, but now it\u2019s smooth sailing, ya feel me?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "building-the-xray-core-aar-for-android-in-*v2rayng*-a-technical-case-study",
+      "title": "Building the Xray Core AAR for Android in *v2rayNG*: A Technical Case Study",
+      "summary": "Heyy, mi gente, let\u2019s geek out on building the Xray Core AAR for v2rayNG! It\u2019s all about using Gomobile to turn that Go code into an Android library with slick JNI bindings\u2014pure magia for VPN vibes! I\u2019m obsessed, ya feel me?"
+    }
+  ]
+}

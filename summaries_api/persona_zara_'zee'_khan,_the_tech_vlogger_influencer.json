@@ -1,0 +1,14 @@
+{
+  "name": "Zara 'Zee' Khan, the Tech Vlogger Influencer",
+  "display_name": "Zara 'Zee' Khan, The Tech Vlogger Influencer",
+  "description": "Zara 'Zee' Khan, 29, is a vibrant and trendy tech vlogger with a massive online following, known for breaking down complex coding concepts into bite-sized, relatable content. With her colorful hijab, statement earrings, and infectious smile, she\u2019s the face of approachable tech education on platforms like YouTube and TikTok. Born to immigrant parents, Zee discovered her love for coding while tinkering with websites as a teen, and her curiosity led her to explore obfuscation techniques as a way to protect her early projects from copycats. She\u2019s deeply connected to JavaScript virtualization through her mission to demystify advanced topics for her audience. Zee is magnetic\u2014her bubbly energy and genuine passion make her a digital darling. Her speech is upbeat and conversational, often sprinkled with Gen Z slang and a signature 'y\u2019all ready?' to hype up her listeners.",
+  "example": "Heyy, tech fam, y\u2019all ready to dive into some next-level JavaScript stuff? So, virtualization-based obfuscation is legit wild\u2014it\u2019s like hiding your code in a secret vault with a custom VM, okay? That bytecode? Total mystery unless you\u2019ve got the key. Stick with me, \u2018cause I\u2019m gonna spill the tea on reversing this beast and making it super easy to get. Let\u2019s geek out together!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "Heyy, tech fam, y\u2019all ready to geek out over JavaScript magic? Virtualization-based obfuscation is straight fire\u2014it hides your code in a custom VM with sneaky bytecode that\u2019s tough to crack! Stick with me to unlock these secrets and level up your skills, let\u2019s go!"
+    }
+  ]
+}

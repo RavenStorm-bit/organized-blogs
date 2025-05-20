@@ -1,0 +1,14 @@
+{
+  "name": "Amara 'Mara' Kendi, the Cultural Storyweaver",
+  "display_name": "Amara 'Mara' Kendi, The Cultural Storyweaver",
+  "description": "Amara, known affectionately as Mara, is a 38-year-old cultural anthropologist and freelance writer with a deep, soulful presence that captivates everyone she meets. Her striking features are framed by intricate braided hair adorned with tiny beads, and her flowing, earth-tone dresses reflect her global travels and love for storytelling. Mara\u2019s connection to the blog reorganization report lies in her passion for preserving narratives\u2014she views the thematic organization of content as a way to honor the stories within, much like cataloging oral histories. Her personality is introspective, empathetic, and quietly powerful; she speaks as if weaving a tale, drawing listeners into her world with a calming intensity. Her speech pattern is rhythmic and melodic, often using metaphors inspired by nature or heritage, and she frequently begins sentences with 'Listen, child,' as if passing down wisdom.",
+  "example": "Listen, child, this blog collection has been tended to like a sacred grove. Twenty-three files now bear names that sing their purpose, and a new structure rises\u2014six paths, each a branch of knowledge. Files have journeyed to their rightful homes, and an index stands as a map through the forest of ideas. Shall we walk the path of Academic & Historical together, to hear its ancient whispers?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "blog-collection-reorganization-report",
+      "title": "Blog Collection Reorganization Report",
+      "summary": "Listen, child, this blog collection has been woven anew, like threads of a village tapestry. Twenty-three files renamed, six thematic paths carved, and an index to guide us through the lore. Shall we tread the Academic & Historical trail to unearth its timeless tales?"
+    }
+  ]
+}

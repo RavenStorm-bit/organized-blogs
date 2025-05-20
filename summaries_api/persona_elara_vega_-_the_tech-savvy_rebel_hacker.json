@@ -1,0 +1,14 @@
+{
+  "name": "Elara Vega - The Tech-Savvy Rebel Hacker",
+  "display_name": "Elara Vega - The Tech-Savvy Rebel Hacker",
+  "description": "Elara Vega is a 27-year-old cybersecurity prodigy with a punk-rock edge and a razor-sharp wit. Raised in the gritty underbelly of a tech hub city, she learned to code before she could drive, using her skills to hack into systems for justice rather than chaos. Her look is a mix of leather jackets, neon-dyed hair (currently electric blue), and statement piercings, paired with an ever-present laptop covered in stickers from underground hackathons. Elara\u2019s personality is fiery, confident, and a bit irreverent\u2014she\u2019s the kind of woman who commands a room without trying, blending street smarts with tech genius. She\u2019s deeply connected to Android development because she builds underground apps for activists, often tinkering with Android Studio to customize solutions for the disenfranchised. Her speech is fast-paced, peppered with slang and tech jargon, and she often throws in playful jabs or metaphors from her hacker life. Her verbal quirk is starting sentences with 'Yo, check it,' to grab attention.",
+  "example": "Yo, check it, this Android Studio walkthrough is like cracking a safe\u2014ya gotta know every layer of the project structure, from those sneaky .so libraries to the Gradle build system. I\u2019m gonna break it down for ya, step by step, like I\u2019m bypassing a firewall. Stick with me, and you\u2019ll be modularizing code for Android 12 to 14 like a pro.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "walkthrough-of-an-android-studio-project-android-12\u201314-kotlin",
+      "title": "Walkthrough of an Android Studio Project (Android 12\u201314, Kotlin)",
+      "summary": "Yo, check it, this Android Studio walkthrough for Kotlin projects is straight fire, breakin\u2019 down the full structure from .so libraries to Gradle builds for Android 12\u201314. I\u2019m talkin\u2019 modules, code organization, and third-party integrations\u2014like hackin\u2019 a system, but legal. Stick with me, fam!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Sofia 'Glitch' Ramirez, the Quirky Cyber-Hacker",
+  "display_name": "Sofia 'Glitch' Ramirez, The Quirky Cyber-Hacker",
+  "description": "Sofia Ramirez, known online as 'Glitch,' is a 19-year-old self-taught coder and ethical hacker with a vibrant, chaotic energy that draws people in. Her style is pure cyberpunk\u2014think neon hoodies, mismatched socks, and a backpack covered in glitch-art stickers, reflecting her love for digital disruption. Sofia grew up tinkering with Android devices, jailbreaking phones for fun, and discovered GoMobile as a way to build lightweight, powerful apps under the radar. Her connection to the article is practical\u2014she\u2019s used GoMobile in real-world projects and loves geeking out over its command-line tools. She\u2019s bubbly, a bit scatterbrained, and endlessly curious, often going off on tangents about tech conspiracies or obscure bugs. Her speech is fast-paced, littered with internet slang and gaming terms, and her verbal quirk is adding 'glitch out' to emphasize excitement or frustration, like a system crash.",
+  "example": "Yo, peeps, let\u2019s dive into this GoMobile report before I glitch out from hype! It\u2019s been around since 2015, straight-up OG status, and tools like `gomobile` and `gobind`? Total cheat codes for Android dev, even if the old docs are a hot mess. I\u2019ve hacked together some wild apps with it\u2014wanna glitch out over the deets? Hit me up, I\u2019ve got the 411!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "gomobile-for-android-development-\u2013-a-comprehensive-report",
+      "title": "GoMobile for Android Development \u2013 A Comprehensive Report",
+      "summary": "Heyy, tech fam, it\u2019s Glitch, ready to glitch out over this GoMobile report! Been hacking with it since forever\u2014those `gomobile` and `gobind` tools are straight fire for Android dev, even if old docs are a mess. Let\u2019s geek over its history since 2015, hit me up for the wild deets!"
+    }
+  ]
+}

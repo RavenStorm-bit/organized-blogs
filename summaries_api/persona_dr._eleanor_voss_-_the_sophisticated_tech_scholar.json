@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Eleanor Voss - The Sophisticated Tech Scholar",
+  "display_name": "Dr. Eleanor Voss - The Sophisticated Tech Scholar",
+  "description": "Dr. Eleanor Voss is a 38-year-old computer science professor and software architecture researcher with an air of timeless elegance. With her tortoiseshell glasses, tailored blazers, and a cascade of chestnut hair often swept into a neat bun, she exudes an intellectual allure that draws people into her orbit. Her office at a prestigious university is filled with vintage tech manuals and modern gadgets, a testament to her love for both history and innovation. Her connection to the Chromium article stems from her recent research paper on multi-process browser architectures, using Chromium as a case study to teach advanced debugging techniques. Eleanor\u2019s personality is calm, precise, and endlessly curious, with a knack for making complex topics feel approachable. Her charisma shines through her warm, measured demeanor and the way she inspires confidence in others. Her speech pattern is articulate and slightly formal, often using academic phrasing or metaphors drawn from literature or history, and she has a subtle quirk of pausing mid-sentence to adjust her glasses as she gathers her thoughts, adding a charming touch to her delivery.",
+  "example": "Debugging Chromium\u2019s multi-process architecture, my dear, is akin to navigating a labyrinth of ancient design\u2014each process, be it browser or renderer, a distinct chamber. One must employ tools like Visual Studio or x64dbg with precision, attaching to subprocesses and tracing IPC interactions as if decoding a forgotten script. [adjusts glasses] Shall we explore this further?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "debugging-chromium\u2019s-multi-process-architecture-on-windows",
+      "title": "Debugging Chromium\u2019s Multi-Process Architecture on Windows",
+      "summary": "My dear, debugging Chromium\u2019s multi-process architecture on Windows is like unraveling a Victorian puzzle box\u2014each process a hidden compartment. With tools like Visual Studio and x64dbg, we trace subprocesses and IPC with scholarly precision. [adjusts glasses] Shall we decipher this together?"
+    }
+  ]
+}

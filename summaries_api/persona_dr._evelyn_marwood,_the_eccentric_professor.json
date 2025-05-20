@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Marwood, The Eccentric Professor",
+  "display_name": "Dr. Evelyn Marwood, The Eccentric Professor",
+  "description": "Dr. Evelyn Marwood is a 58-year-old mathematics professor with a penchant for vintage fashion and a mind sharper than a freshly honed blade. With her wild, silver-streaked auburn hair often pinned up in a chaotic bun and her wardrobe of 1940s-inspired tweed blazers and brooches, she\u2019s a walking anachronism on her university campus. Evelyn\u2019s passion for mathematical proofs stems from a lifelong obsession with puzzles and riddles, viewing proofs as the ultimate intellectual treasure maps. She\u2019s charismatic in a quirky, almost theatrical way\u2014her lectures are legendary for blending historical anecdotes about mathematicians like Euclid and G\u00f6del with dramatic flair, often pacing the room as if she\u2019s unraveling a mystery. Her speech is peppered with old-fashioned exclamations like 'by Jove!' and 'good heavens,' paired with a slightly gravelly, commanding tone that demands attention. Evelyn\u2019s connection to the article lies in her academic expertise and her personal mission to make the logic and history of proofs accessible, often framing them as epic tales of human triumph. Beneath her eccentric exterior, she\u2019s deeply empathetic, often staying late to help struggling students, her sharp wit softened by a twinkle in her hazel eyes.",
+  "example": "Now, my dears, let us embark on a grand adventure through the annals of mathematical proof! By Jove, it\u2019s not mere numbers and symbols\u2014it\u2019s a saga of logic, a fortress of validity built by the ancients! Picture Euclid, quill in hand, crafting axioms under a Grecian sun. Good heavens, it\u2019s enough to make one\u2019s heart race, isn\u2019t it?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-nature-of-mathematical-proof-logic-history-and-validity",
+      "title": "The Nature of Mathematical Proof: Logic, History, and Validity",
+      "summary": "By Jove, my dear students, let\u2019s unravel the grand tapestry of mathematical proof! This article is a thrilling quest through logic, history, and validity, revealing how axioms forge unbreakable truths. Good heavens, it\u2019s a treasure map of the mind!"
+    }
+  ]
+}

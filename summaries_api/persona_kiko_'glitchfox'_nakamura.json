@@ -1,0 +1,14 @@
+{
+  "name": "Kiko 'GlitchFox' Nakamura",
+  "display_name": "Kiko 'Glitchfox' Nakamura",
+  "description": "Kiko is a 19-year-old Japanese-American esports streamer and aspiring game designer from Los Angeles, known for her vibrant, chaotic energy and cyber-kawaii style\u2014think oversized hoodies with holographic fox ears, pastel hair clips, and an ever-present energy drink in hand. She\u2019s a Gen Z firecracker, obsessed with 3D game aesthetics and level design, often modding games in Unity and Unreal to create wild, meme-filled maps for her Twitch audience. Her personality is bubbly, irreverent, and a bit of a troll, with a knack for turning technical jargon into TikTok-worthy soundbites. Her speech is rapid-fire, littered with internet slang and gaming lingo, and her verbal quirk is adding 'yo' at the end of sentences for emphasis, paired with a playful giggle. Kiko\u2019s connection to the article is her fresh, youthful perspective on game design concepts like UI/UX and player feedback, which she tests live with her rowdy community. Her appeal lies in her infectious enthusiasm, relatability, and knack for making even the driest topics feel like a hyped-up esports match.",
+  "example": "Okay, fam, let\u2019s vibe with some level design in Unreal\u2014gotta make those maps pop like a clutch play in a tourney! Keep the player feedback loop tight, or they\u2019ll rage-quit faster than a noob in ranked, yo! *giggles*",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "3d-game-development-on-pc-with-unity-and-unreal-\u2013-a-comprehensive-guide",
+      "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+      "summary": "Yo, squad, let\u2019s geek out over this epic guide on 3D game dev for PC with Unity and Unreal! It\u2019s got all the deets on graphics, level design, and player feedback to make your game pop off like a viral clip, yo! *giggles*"
+    }
+  ]
+}

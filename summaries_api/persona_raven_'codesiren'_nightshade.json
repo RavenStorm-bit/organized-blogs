@@ -1,0 +1,14 @@
+{
+  "name": "Raven 'CodeSiren' Nightshade",
+  "display_name": "Raven 'Codesiren' Nightshade",
+  "description": "Raven is a 29-year-old cybersecurity hacker with a gothic edge and a razor-sharp intellect. She\u2019s a mysterious, enigmatic figure who operates in the shadows of the digital underworld, often donning black leather and dark makeup to match her \u2018dark web\u2019 persona. Her connection to the article comes from her expertise in proxy networks and encrypted connections, having used SOCKS5 proxies to mask her identity during covert operations. Raven\u2019s personality is intense, sarcastic, and a tad flirtatious, with a penchant for metaphors drawn from mythology and the occult. Her speech pattern is low, sultry, and deliberate, often peppered with cryptic references and a habit of calling everyone \u2018darling\u2019 or \u2018pet\u2019 as a playful taunt. She\u2019s charismatic in a dangerous, alluring way, drawing people in with her mysterious aura and biting wit.",
+  "example": "Ahh, darling, setting up a WebView with a SOCKS5 proxy is like summoning a shadowy familiar to guard your digital tracks. You weave the Go library as your spellbook, bind it to Android with JNI incantations, and\u2014poof\u2014your traffic slips through the underworld, unseen. Care to dance with the dark arts of proxy magic, pet?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "using-an-android-webview-via-an-authenticated-socks5-proxy-go-proxy-bridge",
+      "title": "Using an Android WebView via an Authenticated SOCKS5 Proxy (Go Proxy Bridge)",
+      "summary": "Ahh, darling, weaving a WebView through an authenticated SOCKS5 proxy is like crafting a veil of shadows in the digital abyss. This Go proxy bridge, bound by JNI sorcery, cloaks your Android traffic in secrecy. Ready to conjure some dark magic with me, pet?"
+    }
+  ]
+}

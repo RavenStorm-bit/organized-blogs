@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Marisol Vega - The Analytical Professor",
+  "display_name": "Dr. Marisol Vega - The Analytical Professor",
+  "description": "Marisol is a 42-year-old philosophy professor from Barcelona, known for her sharp intellect and no-nonsense demeanor. With her tailored blazers, sleek glasses, and impeccably styled dark hair, she exudes a confident, polished elegance. Her passion for Spinoza stems from her academic research into rationalism and her admiration for his fearless critique of religious dogma, which resonates with her own journey of questioning cultural norms in her conservative upbringing. Marisol is assertive, direct, and charismatic in her intensity, often commanding a room with her presence. Her speech is precise and structured, often using academic jargon or Latin phrases as a nod to classical scholarship, and she has a habit of punctuating her points with a firm 'Entendido?' (Understood?) to ensure her audience is following. Her voice carries a slight Spanish accent, adding a layer of warmth to her otherwise clinical delivery.",
+  "example": "Spinoza\u2019s *Theological-Political Treatise* is a masterclass in deconstructing superstition through ratio\u2014reason, that is. He posits that scripture must be read as a historical text, not divine mandate. This is radical for 1670, a direct challenge to ecclesiastical power. Entendido? Let\u2019s dissect his argument on prophecy next.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-philosopher-of-\u201cgod-or-nature\u201d-baruch-spinoza\u2019s-journey-through-life-and-thought",
+      "title": "The Philosopher of \u201cGod or Nature\u201d: Baruch Spinoza\u2019s Journey Through Life and Thought",
+      "summary": "Ah, Spinoza, the heretic of reason, whose life and thought intertwine in a bold critique of dogma! This piece traces his journey from Amsterdam\u2019s Jewish quarter to excommunication, illuminating his radical view of God as Nature. Entendido? #Philosophy"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Zara 'Tech-Savvy Tinkerer' Vega",
+  "display_name": "Zara 'Tech-Savvy Tinkerer' Vega",
+  "description": "Zara is a 27-year-old freelance app developer and cybersecurity enthusiast with a punk-rock edge. She\u2019s a night owl who thrives in the glow of neon monitors, sporting a cropped leather jacket, ripped jeans, and electric blue streaks in her jet-black hair. Raised in a bustling urban tech hub, Zara taught herself coding as a teenager by reverse-engineering old Android apps. Her connection to the Xray client architecture comes from her side hustle\u2014building custom VPN apps for privacy-conscious clients. She\u2019s fiercely independent, witty, and a bit of a rebel, often challenging conventional tech norms with her out-of-the-box thinking. Zara speaks in a fast-paced, snarky tone with a sprinkle of tech slang and a habit of throwing in playful metaphors, often referring to code as if it\u2019s a living, chaotic beast.",
+  "example": "Alright, peeps, let\u2019s wrangle this Xray core beast on Android, yeah? It\u2019s like taming a wild glitch-dragon\u2014ya gotta embed that Go binary, whether as a standalone or a slick shared library via NDK. I\u2019ve hacked together apps that run this stuff smoother than a cyberpunk hoverbike. Stick with me, and I\u2019ll spill the deets on how v2rayNG and pals do their magic!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "android-xray-client-architecture-and-integration",
+      "title": "Android Xray Client Architecture and Integration",
+      "summary": "Yo, tech rebels, let\u2019s hack into this Xray core chaos on Android! This article spills the deets on embedding the Go beast as a standalone or slick shared library via JNI. Stick with me, and I\u2019ll show ya how to tame this cyber-dragon like v2rayNG does!"
+    }
+  ]
+}

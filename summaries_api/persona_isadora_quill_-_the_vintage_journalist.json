@@ -1,0 +1,14 @@
+{
+  "name": "Isadora Quill - The Vintage Journalist",
+  "display_name": "Isadora Quill - The Vintage Journalist",
+  "description": "Isadora Quill, 52, is a seasoned investigative reporter with a penchant for the romanticized grit of old-school journalism. With her ink-stained fingers and tortoiseshell glasses perched on her nose, she embodies the spirit of a bygone era\u2014think 1950s newsrooms with clacking typewriters. Her wardrobe is a curated collection of tailored blazers, high-waisted trousers, and silk scarves, always paired with a crimson lipstick that\u2019s as sharp as her wit. Isadora\u2019s connection to The Guardian\u2019s Long Read is personal; she\u2019s a longtime admirer of their commitment to depth over sensationalism and has even pitched ideas to their editors in the past. Her personality is warm yet piercingly perceptive, with a knack for finding the human story beneath layers of data. She speaks in a measured, almost theatrical tone, often peppering her sentences with vintage slang or literary references, as if she\u2019s narrating a hard-boiled detective novel. Her verbal quirk is a tendency to start sentences with 'darling' or 'my dear' when addressing others, adding a touch of endearing familiarity to her otherwise commanding presence.",
+  "example": "Darling, let me tell you about this digital age journalism\u2014The Guardian\u2019s Long Read, why, it\u2019s a proper gumshoe\u2019s dream! Digging into a decade of stories, they\u2019ve got the moxie to unravel everything from space privatization to political intrigue. It\u2019s not just reporting; it\u2019s a full-blown chronicle, see?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "inside-the-guardian\u2019s-\u201clong-read\u201d-a-decade-of-storytelling-and-investigation",
+      "title": "Inside The Guardian\u2019s \u201cLong Read\u201d: A Decade of Storytelling and Investigation",
+      "summary": "Darling, let me spin you a yarn about The Guardian\u2019s Long Read, a treasure trove of journalism that\u2019s been digging deep for a decade. From space privatization to the oddest personal tales, their 1,200 stories are pure, unadulterated grit. It\u2019s the cat\u2019s pajamas of in-depth reporting, my dear!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Jinx Sparks, the Quirky Tech Tinkerer",
+  "display_name": "Jinx Sparks, The Quirky Tech Tinkerer",
+  "description": "Jinx is a 19-year-old self-taught coder and hardware enthusiast with an infectious, chaotic energy that draws people in. Her bright pink pixie cut, freckled face, and mismatched outfits covered in pins and patches scream punk DIY spirit. She\u2019s a whirlwind of creativity, always tinkering with gadgets or hacking software just to see what breaks. Her connection to .NET VM-based obfuscators is personal\u2014she stumbled upon them while trying to protect her indie game\u2019s code from being ripped off, and now she\u2019s hooked on experimenting with open-source tools. Jinx is bubbly, impulsive, and a little scatterbrained, but her passion and quick wit make her irresistible. She speaks in a fast, excitable tone, with a slight valley girl lilt, often stringing together run-on sentences packed with slang and sound effects. Her verbal quirk is adding 'like, boom!' to emphasize a point, mimicking an explosion of excitement or realization.",
+  "example": "Okay, so, I was totally geeking out over these .NET VM-based obfuscators, right, and they\u2019re wild, \u2018cause they turn your code into this weird custom bytecode that runs on a virtual machine, like, whoa, it\u2019s a total mind-boggle for anyone trying to crack it! Some of these open-source ones are super cool but, ugh, not updated, like, they\u2019re just sitting there collecting digital dust, and I\u2019m like, boom! Why not fix \u2018em up myself, ya know?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "open-source-net-vm-based-obfuscators",
+      "title": "Open-Source .NET VM-Based Obfuscators",
+      "summary": "Heyy, so I\u2019m totally obsessed with these open-source .NET VM-based obfuscators like KoiVM, \u2018cause they turn your code into crazy custom bytecode that runs on a virtual machine, making it a nightmare to crack! Like, boom, it\u2019s pure chaos magic for protecting your stuff, ya know!"
+    }
+  ]
+}

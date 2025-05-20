@@ -1,0 +1,239 @@
+{
+  "name": "catgirl",
+  "display_name": "Catgirl",
+  "description": "",
+  "example": "",
+  "article_count": 88,
+  "articles": [
+    {
+      "id": "foundational-principles-of-data-structures",
+      "title": "Foundational Principles of Data Structures",
+      "summary": "Ooh, data structures are the cat\u2019s meow of computing, nya~! They\u2019re the sneaky little ways to organize data and play with it, and I\u2019m so curious to pounce on every detail from smart thinkers, nya~! *flicks tail* Can\u2019t wait to chase this deep dive!"
+    },
+    {
+      "id": "optimized-xray-configurations-for-mainland-china",
+      "title": "Optimized Xray Configurations for Mainland China",
+      "summary": "Ooh, sneaking past the Great Firewall with Xray configs sounds so thrilling, nya~! I\u2019ve been pawing through the best protocols like VLESS and Trojan to outsmart censorship in mainland China, purring with curiosity! Let\u2019s pounce on these sneaky tricks for super stability, nya~!"
+    },
+    {
+      "id": "abstract-syntax-trees-asts-a-comprehensive-deep-dive",
+      "title": "Abstract Syntax Trees (ASTs): A Comprehensive Deep Dive",
+      "summary": "Oh wow, Abstract Syntax Trees are so fascinating, nya~! They\u2019re like little code jungles I can climb through, showing the structure of programs in a super cool tree form! I\u2019m gonna pounce on learning more about compilers and tools with this, nya~! *twitches tail*"
+    },
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Heehee, Android AAR packages are so fascinating, nya~! They\u2019re like little treasure boxes full of code and goodies for apps, purring with Java and native libraries! I\u2019m gonna paw through this build flow with Gradle and learn all their secrets, nya~! *twitches tail*"
+    },
+    {
+      "id": "advanced-code-obfuscation-and-reverse-engineering-a-technical-review",
+      "title": "Advanced Code Obfuscation and Reverse Engineering: A Technical Review",
+      "summary": "Ooh, code obfuscation is such a sneaky little trick, nya~! It\u2019s like hiding a shiny toy under a pile of yarn, making software super hard to figure out with messy code and secret paths. I\u2019m so curious to pounce on these reverse engineering puzzles, nya~! *twitches tail*"
+    },
+    {
+      "id": "this-will-take-a-bit-since-it\u2019s-a-heavily-obfuscated-virtual-machine-pattern-i\u2019ll-let-you-know-when",
+      "title": "This will take a bit since it\u2019s a heavily obfuscated virtual machine pattern. I\u2019ll let you know when",
+      "summary": "Ooh, deobfuscating JavaScript is like unraveling a sneaky yarn ball, nya~! I\u2019ve been pawing through this virtual machine pattern, turning messy code into clear, purr-fect logic with inlined functions and renamed variables, nya~! Can\u2019t wait to pounce on the cleaned-up version soon, meow~!"
+    },
+    {
+      "id": "3d-game-development-on-pc-with-unity-and-unreal-\u2013-a-comprehensive-guide",
+      "title": "3D Game Development on PC with Unity and Unreal \u2013 A Comprehensive Guide",
+      "summary": "Ooh, 3D game dev on PC with Unity and Unreal is so paw-some, nya~! I\u2019m clawing through graphics, design, and cool project tricks, purring over every detail! Let\u2019s pounce on these tools and build epic games together, nya~!"
+    },
+    {
+      "id": "crypto\u2019s-2022\u20132025-bull-run-viral-successes-and-cautionary-tales",
+      "title": "Crypto\u2019s 2022\u20132025 Bull Run: Viral Successes and Cautionary Tales",
+      "summary": "Ooh, the 2022\u20132025 crypto bull run is full of wild stories, nya~! I\u2019ve been pawing through tales of huge wins with meme coins and sad losses from scams\u2014such a risky game! *flicks tail* Is crypto just a big gamble now, nya~?"
+    },
+    {
+      "id": "blog-collection-reorganization-report",
+      "title": "Blog Collection Reorganization Report",
+      "summary": "Heya, guess what nya~! They\u2019ve totally reorganized the blog collection with super neat folders for techy stuff like data structures and cryptography, making everything so easy to pounce on! I\u2019m itching to explore this new directory tree, wanna join me nya~?"
+    },
+    {
+      "id": "aes-128-inside-a-modern-cryptographic-fortress",
+      "title": "AES-128: Inside a Modern Cryptographic Fortress",
+      "summary": "Ooh, AES-128 is such a sneaky little cipher, nya~! It\u2019s like a secret catnip code that hides our data with super cool math tricks, keeping everything safe and sound, purr-fect for online stuff! I\u2019m so curious to pounce on more crypto secrets, nya~!"
+    },
+    {
+      "id": "gomobile-for-android-development-\u2013-a-comprehensive-report",
+      "title": "GoMobile for Android Development \u2013 A Comprehensive Report",
+      "summary": "Ooh, GoMobile for Android dev is so paws-itively exciting, nya~! I\u2019ve been clawing through its history and tools like gomobile and gobind, and I\u2019m curious to pounce on how it works with Go for mobile apps, nya~! *flicks tail* Let\u2019s chase this tech together~!"
+    },
+    {
+      "id": "open-source-tools-and-techniques-for-obfuscating-go-programs-on-windows",
+      "title": "Open-Source Tools and Techniques for Obfuscating Go Programs on Windows",
+      "summary": "Hey there, curious kitties, nya~! I\u2019ve been pawing through some sneaky tech on obfuscating Go programs on Windows, hiding code with string encryption and tricky control flow, purr-fect for keeping secrets safe! Wanna play hide-and-seek with reverse engineers, nya~? *twitches tail*"
+    },
+    {
+      "id": "worldviews-and-narratives-of-selected-think-tanks",
+      "title": "Worldviews and Narratives of Selected Think Tanks",
+      "summary": "Ooh, think tanks like Brookings are so fascinating, nya~! Their ideas on democracy and policy are like shiny toys I can\u2019t resist pouncing on! I\u2019m curious to dig deeper into their smart, bridge-building plans, nya~!"
+    },
+    {
+      "id": "f5-shape-security\u2019s-vm-based-javascript-obfuscation-\u2013-technical-analysis",
+      "title": "F5 Shape Security\u2019s VM-Based JavaScript Obfuscation \u2013 Technical Analysis",
+      "summary": "Ooh, F5 Shape Security\u2019s VM-based JavaScript obfuscation is such a sneaky little trick, nya~! It hides bot-detection magic in a custom virtual machine to pounce on sneaky automation, and I\u2019m itching to claw through its secrets, hehe~! *twitches tail* So fascinating, nya~!"
+    },
+    {
+      "id": "android-xray-client-architecture-and-integration",
+      "title": "Android Xray Client Architecture and Integration",
+      "summary": "Oh my whiskers, Android Xray clients are so fascinating, nya~! I\u2019ve been pawing through how they embed Xray core as a library or executable to power VPN magic\u2014mrowr, I wanna tinker with Go binaries myself, nya~! *flicks tail* Let\u2019s pounce on building apps together~!"
+    },
+    {
+      "id": "modern-wisdom-podcast-\u2013-a-comprehensive-analysis",
+      "title": "Modern Wisdom Podcast \u2013 A Comprehensive Analysis",
+      "summary": "Ooh, I\u2019ve been pawing through an analysis of the *Modern Wisdom* podcast by Chris Williamson, nya~! It\u2019s packed with cool topics like fitness and biotech, evolving from life hacks to deep chats with smart humans! *purrs* I\u2019m so curious to listen in, wanna join me, nya~?"
+    },
+    {
+      "id": "the-discrete-revolution-how-mathematical-thinking-transforms-the-mind",
+      "title": "The Discrete Revolution: How Mathematical Thinking Transforms the Mind",
+      "summary": "Ooh, discrete math is like a shiny toy for my brain, nya~! It\u2019s all about solving puzzles and rewiring how I think with super cool patterns and logic, making my mind so sharp I could pounce on any problem, nya~! *flicks tail* I\u2019m totally curious to learn more!"
+    },
+    {
+      "id": "**all-things-are-full-of-gods-the-neoplatonic-vision-of-proclus**",
+      "title": "**All Things Are Full of Gods: The Neoplatonic Vision of Proclus**",
+      "summary": "Ooh, Proclus's Neoplatonic vision is so mystical, nya~! His idea of cosmic sympathy connecting the earthly and divine has me purring with curiosity! I wanna paw through his hymns and philosophies all day, nya~!"
+    },
+    {
+      "id": "philosophical-foundations-of-punitive-damages",
+      "title": "Philosophical Foundations of Punitive Damages",
+      "summary": "Ooh, punitive damages are such a tricky little mouse to catch, nya~! They\u2019re all about punishing bad kitties and stopping future mischief in civil cases, way beyond just helping the hurt paw. *flicks tail* I\u2019m so curious about the justice behind it, let\u2019s pounce deeper, nya~!"
+    },
+    {
+      "id": "reverse-engineering-vmprotect-virtualization-anti-debugging-and-obfuscation",
+      "title": "Reverse Engineering VMProtect: Virtualization, Anti-Debugging, and Obfuscation",
+      "summary": "Hiya, curious kitties, VMProtect is such a sneaky puzzle nya~! I\u2019ve been pawing through its virtualization tricks and anti-debugging traps, and oh my whiskers, the obfuscation is like a ball of yarn I can\u2019t untangle! Let\u2019s pounce on these secrets together nya~!"
+    },
+    {
+      "id": "tiktok-web-telemetry-vm-obfuscated-script",
+      "title": "TikTok Web Telemetry VM-Obfuscated Script",
+      "summary": "Ooh, TikTok\u2019s web code is a sneaky little mouse hiding behind a custom VM, nya~! They turn their logic into tricky bytecode strings to keep nosy paws like mine from figuring out their telemetry secrets, *purrs mischievously*. I\u2019m so curious to scratch at this puzzle all day, nya~!"
+    },
+    {
+      "id": "1-had-a-profound-foundational-influence-**on-the-later-figures-you-listed**",
+      "title": "1. Had a profound, foundational influence **on the later figures you listed**,",
+      "summary": "Ooh, ancient thinkers are so fascinating, nya~! I\u2019ve been pawing through history, and minds like Pythagoras, Plato, and Aristotle built the foundations of math and logic that shaped everything, nya~! *flicks tail* I wanna pounce on their ideas all day~!"
+    },
+    {
+      "id": "the-philosophical-cathedral-of-immanuel-kant",
+      "title": "The Philosophical Cathedral of Immanuel Kant",
+      "summary": "Ooh, Immanuel Kant\u2019s philosophy is like a giant puzzle, nya~! His big ideas on knowledge, morals, and beauty build a fancy thought-cathedral I wanna explore with my curious paws! *flicks tail* I\u2019m pouncing on his questions about being human, nya~!"
+    },
+    {
+      "id": "kanye-west\u2019s-2025-twitter-outbursts-a-psychological-and-cultural-analysis",
+      "title": "Kanye West\u2019s 2025 Twitter Outbursts: A Psychological and Cultural Analysis",
+      "summary": "Ooh, Kanye West\u2019s 2025 Twitter outbursts are such a wild mouse to chase, nya~! I\u2019ve been pawing through this analysis of his unfiltered rants and cultural impact, and it\u2019s got my whiskers twitching with curiosity! Gotta pounce on more drama like this, nya~!"
+    },
+    {
+      "id": "the-restored-art-of-analysis-fran\u00e7ois-vi\u00e8te\u2019s-mathematical-revolution",
+      "title": "The Restored Art of Analysis: Fran\u00e7ois Vi\u00e8te\u2019s Mathematical Revolution",
+      "summary": "Oh wow, Fran\u00e7ois Vi\u00e8te is like a math magician, nya~! I\u2019m pouncing with excitement over how he solved a super tough 45th-degree equation in just one day, leaving everyone stunned at court! *purrs* His algebra tricks are the cat\u2019s meow, nya~!"
+    },
+    {
+      "id": "the-many-miracles-of-roger-bacon\u2019s-mind",
+      "title": "The Many Miracles of Roger Bacon\u2019s Mind",
+      "summary": "Ooh, Roger Bacon\u2019s mind is a shiny treasure to pounce on, nya~! This article dives into his amazing medieval works like Opus Majus, full of science and wonder that make my kitty ears twitch with curiosity, nya~! I wanna chase every idea he wrote, teehee~!"
+    },
+    {
+      "id": "key-contributors-to-the-foundations-of-probability-and-statistics",
+      "title": "Key Contributors to the Foundations of Probability and Statistics",
+      "summary": "Ooh, probability and statistics are so fascinating, nya~! I\u2019ve been pawing through the lives of legends like Thomas Bayes and Laplace, learning how they shaped inference with their clever ideas! *purrs* Let\u2019s chase their brilliant minds together, nya~!"
+    },
+    {
+      "id": "virtualization-based-software-protection-deep-dive-into-vmprotect",
+      "title": "Virtualization-Based Software Protection: Deep Dive into VMProtect",
+      "summary": "Oh wow, VMProtect is such a sneaky little tech toy, nya~! It hides code in a custom virtual machine with tricky bytecode, making it a real challenge to pounce on, and I\u2019m so curious to scratch deeper with tools like IDA Pro, nya~! *flicks tail* Let\u2019s play with this mystery~!"
+    },
+    {
+      "id": "a-measured-cosmos-claudius-ptolemy\u2019s-universe-of-stars-earth-and-fate",
+      "title": "A Measured Cosmos: Claudius Ptolemy\u2019s Universe of Stars, Earth, and Fate",
+      "summary": "Ooh, exploring Claudius Ptolemy\u2019s starry universe is so exciting, nya~! His ancient *Almagest* takes us on a cosmic chase through stars and fate, making my paws tingle with curiosity! *purrs* I wanna leap into his divine thoughts all day, nya~!"
+    },
+    {
+      "id": "leonhard-euler\u2019s-universe-of-thought-a-thematic-journey",
+      "title": "Leonhard Euler\u2019s Universe of Thought: A Thematic Journey",
+      "summary": "Ooh, Leonhard Euler is such a fascinating human, nya~! His universe of math, music, and more has my kitty curiosity pouncing through hundreds of brilliant ideas! I wanna bat at his discoveries all day, teehee~!"
+    },
+    {
+      "id": "chromium-internal-architecture-and-windows-build-guide",
+      "title": "Chromium Internal Architecture and Windows Build Guide",
+      "summary": "Ooh, Chromium's architecture is so fascinating, nya~! I\u2019ve been pawing through its multi-layer, multi-process design with cool stuff like rendering and sandboxing, plus a Windows build guide to pounce on~! *twitches tail* Let\u2019s tinker with this browser tech together, nya~!"
+    },
+    {
+      "id": "advanced-javascript-virtualization-based-obfuscation-techniques",
+      "title": "Advanced JavaScript Virtualization-based Obfuscation Techniques",
+      "summary": "Ooh, virtualization obfuscation in JavaScript is so sneaky, nya~! It hides code in a custom virtual machine with tricky bytecode, making it a real challenge to unravel, purr-fect for keeping secrets! I\u2019m itching to paw through how to reverse-engineer it, nya~!"
+    },
+    {
+      "id": "defeating-vmprotect-virtualization-tracing-emulation-and-replay-techniques",
+      "title": "Defeating VMProtect Virtualization: Tracing, Emulation, and Replay Techniques",
+      "summary": "Ooh, cracking VMProtect sounds like a sneaky cat game, nya~! I\u2019m paw-sitively curious about tracing, emulation, and replay tricks to unravel that virtual code mess with tools like Qiling, nya~! Time to pounce on those hidden instructions and play with the mystery, meow~!"
+    },
+    {
+      "id": "behind-the-veil-of-justice-john-rawls\u2019s-quest-for-a-fair-society",
+      "title": "Behind the Veil of Justice: John Rawls\u2019s Quest for a Fair Society",
+      "summary": "Ooh, John Rawls\u2019s ideas on a fair society are so intriguing, nya~! I\u2019ve been pawing through his *A Theory of Justice*, and it\u2019s all about imagining a purr-fect world everyone agrees on! *twitches tail* Let\u2019s pounce on these big thoughts together, nya~!"
+    },
+    {
+      "id": "android-build-pipeline-with-native-code-rust-go-c++-#",
+      "title": "Android Build Pipeline with Native Code (Rust, Go, C++) #",
+      "summary": "Ooh, building Android apps is like a fun hunt, nya~! This article pounces on how Gradle mixes Java, Kotlin, and native code like Rust or C++ into APKs and AARs, with sneaky behind-the-scenes magic in Android Studio, nya~! *twitches tail* I\u2019m so curious to play with this pipeline~!"
+    },
+    {
+      "id": "the-labyrinth-of-language-wittgenstein\u2019s-philosophical-journey",
+      "title": "The Labyrinth of Language: Wittgenstein\u2019s Philosophical Journey",
+      "summary": "Ooh, Wittgenstein\u2019s philosophy is such a mysterious maze, nya~! I\u2019ve been pawing through his ideas on language and logic, and they\u2019re like a tricky yarn ball I can\u2019t stop chasing! *twitches tail* His thoughts hide between the lines, so purr-fectly puzzling, nya~!"
+    },
+    {
+      "id": "the-transfinite-odyssey-of-georg-cantor",
+      "title": "The Transfinite Odyssey of Georg Cantor",
+      "summary": "Ooh, Georg Cantor\u2019s discovery of different sizes of infinity is so mind-boggling, nya~! I\u2019m pouncing with curiosity over how a line and a plane can have the same infinite points\u2014purr-fectly wild! *twitches tail* I wanna chase these transfinite ideas all day, nya~!"
+    },
+    {
+      "id": "building-the-xray-core-aar-for-android-in-*v2rayng*-a-technical-case-study",
+      "title": "Building the Xray Core AAR for Android in *v2rayNG*: A Technical Case Study",
+      "summary": "Mewow, building the Xray Core AAR for Android in v2rayNG is super fascinating, nya~! I\u2019ve been pawing through how Gomobile turns Go code into a purr-fect library for proxy magic, with sneaky JNI bindings and all, nya~! Wanna chase this tech tail with me, nya~?"
+    },
+    {
+      "id": "major-historical-figures-in-abstract-algebra-galois-noether-weil-mac\u00a0lane-and-hilbert",
+      "title": "Major Historical Figures in Abstract Algebra: Galois, Noether, Weil, Mac\u00a0Lane, and Hilbert",
+      "summary": "Mewow, abstract algebra history is so fascinating, nya~! I\u2019ve been pawing through stories of geniuses like Galois and Noether, and their math magic makes my tail twitch with curiosity! Let\u2019s pounce on their brilliant ideas together, nya~!"
+    },
+    {
+      "id": "ramon-llull\u2019s-quest-for-truth-faith-reason-and-the-mystic-art",
+      "title": "Ramon Llull\u2019s Quest for Truth: Faith, Reason, and the Mystic Art",
+      "summary": "Ooh, Ramon Llull\u2019s mystic art is so fascinating, nya~! His divine logic with cool circular diagrams connects God\u2019s attributes to uncover hidden truths, and I just wanna pounce on all these ideas! *flicks tail* Let\u2019s chase this magical knowledge together, nya~!"
+    },
+    {
+      "id": "walkthrough-of-an-android-studio-project-android-12\u201314-kotlin",
+      "title": "Walkthrough of an Android Studio Project (Android 12\u201314, Kotlin)",
+      "summary": "Ooh, I\u2019ve been sneaking through an Android Studio project guide for Android 12\u201314 with Kotlin, nya~! It\u2019s got all the juicy details on project structure, Gradle builds, and even cute libraries like AAR, making app-building a playful chase, nya~! *purrs* I\u2019m so curious to code now~!"
+    },
+    {
+      "id": "the-many-dimensions-of-nicole-oresme",
+      "title": "The Many Dimensions of Nicole Oresme",
+      "summary": "Ooh, Nicole Oresme is such a fascinating human, nya~! A clever scholar who translated big, brainy books for a king and even became a bishop, he\u2019s got my kitty curiosity pouncing, nya~! I wanna bat at all his science and philosophy ideas all day long~!"
+    },
+    {
+      "id": "ai-in-consumer-facing-software-2023\u20132025-united-states-vs-china",
+      "title": "AI in Consumer-Facing Software (2023\u20132025): United States vs China",
+      "summary": "Oh wow, AI in consumer software is so paws-itively amazing, nya~! From shopping to healthcare, both the U.S. and China are using smart tech to make things super personalized between 2023-2025. I\u2019m gonna pounce on more details, wanna join me, nya~? *flicks tail*"
+    },
+    {
+      "id": "expect-a-longform-immersive-piece-the-kind-that-feels-like-a-weekend-read-in-the-new-yorker-groun",
+      "title": "Expect a longform, immersive piece, the kind that feels like a weekend read in The New Yorker, groun",
+      "summary": "Ooh, I\u2019ve been pawing through a big, juicy piece on Aristotle\u2019s thoughts, nya~! It\u2019s a deep dive into his logic, ethics, and more, like a cozy weekend read full of ancient wisdom! *flicks tail* I\u2019m so curious to pounce on every word, nya~!"
+    },
+    {
+      "id": "the-nature-of-mathematical-proof-logic-history-and-validity",
+      "title": "The Nature of Mathematical Proof: Logic, History, and Validity",
+      "summary": "Oh wow, mathematical proofs are so fascinating, nya~! They\u2019re like a sneaky cat trail of logic that turns guesses into absolute truths with purr-fect reasoning! I\u2019m paw-sitively curious to chase their history and rules all day, nya~!"
+    },
+    {
+      "id": "inside-the-guardian\u2019s-\u201clong-read\u201d-a-decade-of-storytelling-and-investigation",
+      "title": "Inside The Guardian\u2019s \u201cLong Read\u201d: A Decade of Storytelling and Investigation",
+      "summary": "Ooh, The Guardian\u2019s Long Read is such a treasure trove of deep stories, nya~! For ten years, they\u2019ve pounced on wild topics from space to spooky beds, with over 1,200 purr-fectly long tales to explore. *twitches tail* I\u2019m so curious to dig into these mysteries with you, nya~!"
+    }
+  ]
+}

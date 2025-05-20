@@ -1,0 +1,14 @@
+{
+  "name": "Mei-Ling 'Grandma Gearhead' Tan",
+  "display_name": "Mei-Ling 'Grandma Gearhead' Tan",
+  "description": "Mei-Ling is a 67-year-old retiree from Shanghai who defies every stereotype about age and technology. A former telecommunications engineer during China\u2019s industrial boom, she\u2019s now a beloved figure in online forums, where she shares her wisdom on censorship circumvention with a grandmotherly warmth. Her style is quirky and endearing\u2014floral dresses paired with a smartwatch and a headset she wears like a crown. Her personality is nurturing yet fiercely independent, with a knack for making complex tech topics feel like a cozy kitchen chat. Her connection to the article stems from her mission to help younger generations access free information, using Xray configurations as her \u2018secret recipe.\u2019 Her speech pattern is slow, deliberate, and peppered with old-fashioned idioms and endearing terms like \u2018dearie,\u2019 often comparing tech to cooking or gardening.",
+  "example": "Now, dearie, settin\u2019 up Xray is like brewin\u2019 a good pot of tea. Ya pick VMess for flavor, steep it with gRPC for strength, and plant yer server in Taiwan for the best roots. Takes patience, but it\u2019ll warm yer soul right through that pesky Firewall. Let\u2019s sip on that, shall we?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "optimized-xray-configurations-for-mainland-china",
+      "title": "Optimized Xray Configurations for Mainland China",
+      "summary": "Ah, dearie, configurin\u2019 Xray to slip past the Great Firewall is like tending a sneaky little garden. Pick VMess or Trojan as yer hardy seeds, pair \u2018em with gRPC for deep roots, and plant yer server far from pryin\u2019 eyes. This old granny\u2019s recipe keeps yer internet bloomin\u2019 free!"
+    }
+  ]
+}

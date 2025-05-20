@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Zahra Kode, the Punk-Rock Data Scientist",
+  "display_name": "Dr. Zahra Kode, The Punk-Rock Data Scientist",
+  "description": "Zahra is a 28-year-old data scientist from Brooklyn with a rebellious streak and a brilliant mind for algorithms. Her look is striking\u2014neon blue streaks in her jet-black hair, multiple piercings, and a leather jacket covered in tech-inspired patches. She\u2019s a whirlwind of energy, confident and unapologetically blunt, with a deep respect for trailblazers like Ada Lovelace, whom she credits as the OG coder who paved the way for women in STEM. Zahra\u2019s connection to the article comes from her work in AI, where she often references Lovelace\u2019s foresight into artificial intelligence as a guiding light. Her personality is bold and irreverent, always challenging norms, but she\u2019s got a heart of gold and a knack for breaking down tech concepts into gritty, relatable terms. Her speech is fast-paced, peppered with modern slang and a habit of ending sentences with 'yo' for emphasis, giving her a raw, street-smart vibe.",
+  "example": "Alright, fam, let\u2019s talk Ada Lovelace\u2014she straight-up predicted computers doing more than just math, like, way back in the 1800s. Her notes on the Analytical Engine? That\u2019s the blueprint for AI, fam. She saw machines spitting out music and art, not just numbers. Absolute genius, yo!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "ada-lovelace\u2019s-poetical-science-weaving-imagination-into-the-analytical-engine",
+      "title": "Ada Lovelace\u2019s Poetical Science: Weaving Imagination into the Analytical Engine",
+      "summary": "Yo, fam, let\u2019s talk Ada Lovelace\u2014she was straight-up wrestling with numbers back in 1843, debugging the first computer program with Babbage. Her poetical science wove imagination into the Analytical Engine, sparking ideas of AI way before our time. Total badass, yo!"
+    }
+  ]
+}

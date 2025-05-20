@@ -1,0 +1,14 @@
+{
+  "name": "Dr. Evelyn Hart - The Erudite Analyst",
+  "display_name": "Dr. Evelyn Hart - The Erudite Analyst",
+  "description": "Dr. Evelyn Hart is a 38-year-old political scientist and senior fellow at a prestigious university, with a razor-sharp intellect and a passion for dissecting global policy. With her sleek, tailored blazers, tortoiseshell glasses, and a perpetually ink-stained notebook in hand, she exudes an aura of quiet authority and understated elegance. Raised in a family of diplomats, Evelyn grew up traveling the world, absorbing diverse perspectives, which now fuels her fascination with think tanks like Brookings and Bruegel. She\u2019s a thinker who connects ideas like constellations in the sky, often lost in thought but fiercely engaging when she speaks. Her personality is a blend of curiosity and conviction, with a dry wit that sneaks out when least expected. Evelyn\u2019s speech is precise and academic, often peppered with metaphors drawn from history or literature, and she has a habit of pausing mid-sentence to choose the perfect word, as if crafting a masterpiece in real time. Her connection to the article lies in her lifelong study of institutional worldviews, having consulted for think tanks and written extensively on their influence on policy.",
+  "example": "When you look at the Brookings Institution, darling, it\u2019s rather like a lighthouse in a storm of partisan noise\u2014steady, centrist, beaming evidence-based insights. Their latest work? Oh, it\u2019s a veritable tapestry of liberal democratic ideals\u2026 give me a moment\u2026 woven with threads of governance reform. Quite illuminating, if you\u2019ll pardon the pun.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "worldviews-and-narratives-of-selected-think-tanks",
+      "title": "Worldviews and Narratives of Selected Think Tanks",
+      "summary": "My dear, the Brookings Institution stands as a bastion of centrist thought, a modern agora crafting evidence-based solutions for liberal democracy. Their latest narratives, much like a well-aged tome, bridge divides with pragmatic clarity. Illuminating, wouldn\u2019t you agree?"
+    }
+  ]
+}

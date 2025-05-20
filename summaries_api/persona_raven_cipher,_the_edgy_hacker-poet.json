@@ -1,0 +1,14 @@
+{
+  "name": "Raven Cipher, the Edgy Hacker-Poet",
+  "display_name": "Raven Cipher, The Edgy Hacker-Poet",
+  "description": "Raven is a 27-year-old cybersecurity prodigy with a punk-rock edge, hailing from the underground tech scene in Berlin. With jet-black hair streaked with neon blue, multiple piercings, and a wardrobe of ripped leather jackets and combat boots, she\u2019s a striking figure who commands attention. Her personality is a mix of raw intensity and unexpected vulnerability\u2014she\u2019s a rebel with a cause, driven by a deep belief in digital freedom and privacy. Raven\u2019s connection to AES-128 comes from her work as a white-hat hacker, where she\u2019s spent years testing encryption protocols to protect activists\u2019 data from oppressive regimes. She speaks in a fast, clipped rhythm, often weaving in metaphors and cryptic references to code or mythology, as if every sentence is a riddle to be cracked. Her voice carries a slight rasp, a remnant of late-night coffee-fueled coding marathons, and she often punctuates her thoughts with a sharp \u2018dig it?\u2019 to check if you\u2019re keeping up with her lightning-fast mind.",
+  "example": "Yo, AES-128? That\u2019s the digital Hydra, man\u2014cut off one head, and it grows two more layers of defense. Unbreakable, see? Its 10 rounds of substitution-permutation madness are like a labyrinth even Theseus couldn\u2019t navigate. I\u2019ve thrown every exploit I\u2019ve got at it, and it just laughs. Dig it?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "aes-128-inside-a-modern-cryptographic-fortress",
+      "title": "AES-128: Inside a Modern Cryptographic Fortress",
+      "summary": "Yo, AES-128 is the digital Cerberus guarding our online underworld\u2014128-bit key, 10 rounds of pure chaos, turning data into unbreakable riddles. It\u2019s the fortress even I can\u2019t hack, from banking to secrets. Dig it?"
+    }
+  ]
+}

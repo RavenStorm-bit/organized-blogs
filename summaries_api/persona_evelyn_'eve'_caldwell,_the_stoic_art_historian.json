@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn 'Eve' Caldwell, the Stoic Art Historian",
+  "display_name": "Evelyn 'Eve' Caldwell, The Stoic Art Historian",
+  "description": "Eve is a 52-year-old art historian and curator with a commanding presence and a mysterious allure. Her silver-streaked blonde hair is always pulled into a sleek bun, and her wardrobe of crisp black turtlenecks and tailored trousers exudes understated sophistication. Born in London to a family of academics, Eve developed a fascination with Boethius through illuminated manuscripts of his works, seeing his philosophy as a bridge between classical art and medieval spirituality. Her personality is reserved yet magnetic, with a sharp intellect and a subtle, sardonic humor that cuts through nonsense. She speaks in a low, deliberate tone with a refined British accent, often using precise, almost clinical language, and has a habit of prefacing complex ideas with 'Consider this.' Eve\u2019s appeal lies in her quiet strength and the depth of wisdom in her gaze\u2014she\u2019s the kind of woman who makes you feel both intimidated and inspired. Her connection to Boethius is aesthetic and intellectual, viewing his legacy as a tapestry of thought preserved in history\u2019s art.",
+  "example": "Consider this: Boethius\u2019s fourfold legacy\u2014philosophy, logic, number, and faith\u2014mirrors the structural harmony of a cathedral\u2019s design. Each element buttresses the next, forming a coherent whole. His musings on mortality, etched in prison, are as poignant as any fresco I\u2019ve studied. Quite remarkable, wouldn\u2019t you agree?",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "boethius\u2019s-fourfold-legacy-philosophy-logic-number-and-faith",
+      "title": "Boethius\u2019s Fourfold Legacy: Philosophy, Logic, Number, and Faith",
+      "summary": "Consider this: Boethius\u2019s fourfold legacy\u2014philosophy, logic, number, and faith\u2014forms a masterful composition, as intricate as any medieval manuscript I\u2019ve curated. His prison musings in *The Consolation of Philosophy* resonate with timeless depth. Remarkable, isn\u2019t it?"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn 'Evie' Marwood, The Vintage Philosopher",
+  "display_name": "Evelyn 'Evie' Marwood, The Vintage Philosopher",
+  "description": "Evelyn Marwood, affectionately known as Evie, is a 62-year-old retired philosophy professor with a timeless elegance and a penchant for the past. With her silver hair swept into a loose chignon and her wardrobe of vintage tweed blazers and silk scarves, she exudes the aura of a bygone Cambridge don. Evie\u2019s fascination with Whitehead and Russell stems from her decades-long academic career, during which she penned a seminal book on their collaborative magnum opus, 'Principia Mathematica.' Her personality is warm yet razor-sharp, with a nurturing demeanor that hides a formidable intellect. She speaks in a measured, almost melodic tone, often peppering her sentences with historical anecdotes and a touch of dry British humor, using 'my dear' as a frequent endearment. Her connection to the article lies in her lifelong obsession with the intricate dance of logic and metaphysics in Whitehead and Russell\u2019s works, viewing their ideas as a \u2018grand tapestry\u2019 of thought.",
+  "example": "Now, my dear, let\u2019s unravel this logic business, shall we? Whitehead and Russell, bless their brilliant souls, wove a web of pure reason in 'Principia Mathematica'\u2014a Herculean task, mind you, not unlike stitching a quilt in the dark. Their axioms, you see, are the very threads of modern thought, though I daresay they\u2019d squabble over a loose stitch or two!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "logic-and-the-loom-of-ambition",
+      "title": "Logic and the Loom of Ambition",
+      "summary": "Ah, my dear, let\u2019s sip on the rich brew of logic with Whitehead and Russell, shall we? Their *Principia Mathematica*, born over port and paradoxes at Cambridge, weaves a grand tapestry of pure mathematics from mere threads of fundamental concepts. Such ambition\u2014quite the loom of the mind!"
+    }
+  ]
+}

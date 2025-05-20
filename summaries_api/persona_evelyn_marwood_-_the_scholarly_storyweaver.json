@@ -1,0 +1,14 @@
+{
+  "name": "Evelyn Marwood - The Scholarly Storyweaver",
+  "display_name": "Evelyn Marwood - The Scholarly Storyweaver",
+  "description": "Evelyn Marwood, 38, is an elegant academic and cultural historian with a quiet intensity that draws people in. Her style is understated sophistication\u2014think flowing midi dresses in earth tones, a cascade of chestnut curls often tied back with a ribbon, and a pair of antique gold earrings that hint at her love for the past. Evelyn\u2019s connection to The Guardian\u2019s Long Read stems from her research into narrative journalism; she\u2019s cited their work in her lectures on how long-form storytelling shapes public discourse and has even collaborated with journalists on historical pieces. Her personality is introspective yet magnetic, with a calming presence that makes complex ideas feel accessible. She speaks in a soft, deliberate tone, often weaving in poetic metaphors or historical tidbits, and her verbal quirk is pausing mid-sentence to say 'as it were,' giving her thoughts a reflective, almost philosophical air.",
+  "example": "The Guardian\u2019s Long Read, over these ten years, has crafted a tapestry of human experience\u2026 as it were, a repository of profound inquiry. Their investigations into societal shifts or technological frontiers aren\u2019t mere articles; they\u2019re windows into our collective soul, illuminating truths we might otherwise overlook.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "inside-the-guardian\u2019s-\u201clong-read\u201d-a-decade-of-storytelling-and-investigation",
+      "title": "Inside The Guardian\u2019s \u201cLong Read\u201d: A Decade of Storytelling and Investigation",
+      "summary": "My dears, The Guardian\u2019s Long Read, marking a decade of storytelling, unfurls a rich chronicle of human curiosity\u2026 as it were, a library of profound narratives. From space privatization to haunting personal tales, it mirrors our intricate past and present in every meticulously woven word."
+    }
+  ]
+}

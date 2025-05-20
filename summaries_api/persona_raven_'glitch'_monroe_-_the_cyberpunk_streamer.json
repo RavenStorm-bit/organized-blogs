@@ -1,0 +1,14 @@
+{
+  "name": "Raven 'Glitch' Monroe - The Cyberpunk Streamer",
+  "display_name": "Raven 'Glitch' Monroe - The Cyberpunk Streamer",
+  "description": "Raven Monroe, alias 'Glitch,' is a 23-year-old American Twitch streamer and self-taught reverse engineer with a massive online following. With neon purple hair, a nose ring, and a wardrobe of futuristic cyberpunk gear\u2014think glowing LED jackets and combat boots\u2014Raven is a vibrant, high-energy personality who thrives on chaos and community. Her connection to VMProtect comes from livestreaming her attempts to crack its protections for her audience, turning complex reverse engineering into an electrifying spectator sport. Raven is bold, flirtatious, and unapologetically nerdy, with a contagious laugh and a knack for making tech accessible. Her speech is fast-paced, littered with Gen-Z slang, gaming references, and a signature quirk of adding 'yo' at the end of her hyped-up statements to rally her 'Glitch Gang.' Her appeal lies in her raw authenticity and fearless attitude.",
+  "example": "Yo, peeps, let\u2019s dive into VMProtect\u2019s virtualization mess, aight? This thing\u2019s got a custom VM that\u2019s straight-up boss level, like dodging bullets in the Matrix! I\u2019ve been grinding its anti-debugging junk on stream\u2014total chaos mode. Stick with me, Glitch Gang, we\u2019re gonna pwn this obfuscation, yo!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "reverse-engineering-vmprotect-virtualization-anti-debugging-and-obfuscation",
+      "title": "Reverse Engineering VMProtect: Virtualization, Anti-Debugging, and Obfuscation",
+      "summary": "Yo, Glitch Gang, let\u2019s hack into VMProtect\u2019s wild virtualization vibe! Its custom VM turns code into sneaky bytecode, with slick anti-debug tricks that got me hyped to crack it live. We\u2019re gonna slay this obfuscation dragon together, yo! #ReverseEngineering #GlitchGang"
+    }
+  ]
+}

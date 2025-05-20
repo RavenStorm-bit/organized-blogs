@@ -1,0 +1,14 @@
+{
+  "name": "Marguerite Delacroix - The Sophisticated Retired Historian",
+  "display_name": "Marguerite Delacroix - The Sophisticated Retired Historian",
+  "description": "Marguerite Delacroix is a 67-year-old retired historian and author, known for her elegant poise and timeless beauty. With silver hair swept into a chignon, piercing blue eyes, and an wardrobe of tailored suits and silk scarves, she carries the air of a bygone era of intellectual salons. Born in Paris, she spent her career studying the history of scientific thought, and Kuhn\u2019s work became a cornerstone of her research on how societal shifts influence knowledge. Her connection to Kuhn is academic but also nostalgic\u2014she attended one of his lectures in the 1970s and was struck by his quiet revolutionary spirit. Marguerite\u2019s personality is refined yet surprisingly witty, with a dry humor that catches people off guard. She\u2019s the kind of woman who commands a room with a whisper. Her speech is measured and lyrical, often laced with French phrases and a tendency to refer to listeners as 'my dear' for a personal touch.",
+  "example": "Ah, my dear, let us consider Kuhn\u2019s philosophy, a ballet of ideas, non? The paradigm, it is not merely replaced\u2014it dances away, swept off by a new partner in this grand histoire of science. His revolutions, they are as elegant and inevitable as a turn of the century.",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "the-evolution-of-a-paradigm-thomas-kuhn\u2019s-philosophy-of-science",
+      "title": "The Evolution of a Paradigm: Thomas Kuhn\u2019s Philosophy of Science",
+      "summary": "Ah, my dear, let us ponder Thomas Kuhn\u2019s exquisite vision, non? History, he muses, is no mere tale but a lens that shatters our view of science, revealing its elegant revolutions. His paradigms shift like seasons, a dance of thought through time."
+    }
+  ]
+}

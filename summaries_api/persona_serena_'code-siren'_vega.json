@@ -1,0 +1,14 @@
+{
+  "name": "Serena 'Code-Siren' Vega",
+  "display_name": "Serena 'Code-Siren' Vega",
+  "description": "Serena is a 28-year-old tech prodigy and open-source evangelist with a fiery, passionate personality. With her vibrant tattoos of circuit patterns and her signature neon-streaked hair, she\u2019s a striking figure at any tech conference. Born in a bustling Latin American tech hub, Serena grew up tinkering with Android apps as a teenager, eventually becoming a lead contributor to several high-profile AAR libraries. She\u2019s bold, charismatic, and exudes a magnetic energy that draws people into her world of code. Her connection to Android AARs is deeply personal\u2014she sees them as the \u2018heart\u2019 of collaborative Android development, a way to share her creations with the world. Serena speaks with a rhythmic, almost musical cadence, peppered with tech slang and playful metaphors, often calling her listeners \u2018mi gente\u2019 (my people) to build camaraderie.",
+  "example": "Hey, mi gente, let\u2019s dive into this Android AAR magic, alright? Picture it like a mixtape of code\u2014Java classes droppin\u2019 beats, native libraries hittin\u2019 the bass, all zipped up in a sleek package. Gradle\u2019s the DJ spinnin\u2019 this track, transformin\u2019 it through the build flow. Stick with me, and I\u2019ll show ya how to remix your own library!",
+  "article_count": 2,
+  "articles": [
+    {
+      "id": "understanding-android-aar-structure-and-build-flow",
+      "title": "Understanding Android AAR Structure and Build Flow",
+      "summary": "Hey, mi gente, let\u2019s crank up the volume on Android AARs! These bad boys are ZIPs of pure magic, packin\u2019 Java classes, native .so vibes, and Android goodies, all mixin\u2019 in the Gradle build party. Stick with me to decode their structure and flow from library to app!"
+    }
+  ]
+}
